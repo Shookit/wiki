@@ -1,0 +1,12 @@
+- Install bitwarden
+- Log into bitwarden
+    - Set timeout to "24 hours"
+    - Allow autofill
+- Log into firefox sync
+- Wait for extensions to install
+- Configure leechblock
+    - All day
+    - Everyday
+    - Block reddit
+    - Redirect to (hackernews?)
+- Set homepage to blank

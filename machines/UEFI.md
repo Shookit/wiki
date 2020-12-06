@@ -1,0 +1,3 @@
+- Use /boot/efi for modern UEFI installs
+- Absolutely 100% disable CSM... this is a compatibility layer that makes both BIOS and UEFI simultaneously miserable
+- The EFI partition completely removes the MBR concept, and is FAT32-mountable
