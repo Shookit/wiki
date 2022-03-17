@@ -91,9 +91,17 @@ scoop install audacity carnac obs-studio steam vlc rufus windirstat
         - other -> enable autofill on page load
         - other -> default autofill setting = autofill on page load
     - Tab suspender
-        - 1 minute timeout
-        - Don't ignore pinned tabs
-        - Clear whitelist
+        - Suspend settings
+            - Auto-suspend tab after 1 minute of inactivity
+            - Uncheck ignore pinned tab
+            - Uncheck ignore audible tab
+        - Whitelist
+            - Clear whitelist
+        - Suspended page style
+            - No icon
+        - Restore tab
+            - Uncheck restore on mouse hover
+            - Check restore when switching to a tab
     - Pin slack, outlook, todoist
 - Setpoint
     - Increase mouse speed
