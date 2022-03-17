@@ -24,6 +24,10 @@ scoop install 7zip draw.io spotify googlechrome greenshot imageglass joplin neov
 scoop install audacity carnac obs-studio steam vlc rufus windirstat
 ```
 
+### Other
+
+- Install microsoft office
+
 
 ### Windows OS tweaks
 
@@ -86,6 +90,11 @@ scoop install audacity carnac obs-studio steam vlc rufus windirstat
         - timeout 4 hours
         - other -> enable autofill on page load
         - other -> default autofill setting = autofill on page load
+    - Tab suspender
+        - 1 minute timeout
+        - Don't ignore pinned tabs
+        - Clear whitelist
+    - Pin slack, outlook, todoist
 - Setpoint
     - Increase mouse speed
     - Button 4 = Next
@@ -94,6 +103,9 @@ scoop install audacity carnac obs-studio steam vlc rufus windirstat
     - Open as an admin
     - Associate all types
     - Add to shell context menu
+- Onedrive
+    - Log in
+    - Go to sharepoint in browser and select "sync" for any groups you want to sync
 - Greenshot
     - Open app
     - Right click on system tray icon -> Preferences
