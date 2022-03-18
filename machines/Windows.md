@@ -92,7 +92,7 @@ scoop install audacity carnac obs-studio steam vlc rufus windirstat
         - other -> default autofill setting = autofill on page load
     - Tab suspender
         - Suspend settings
-            - Auto-suspend tab after 1 minute of inactivity
+            - Auto-suspend tab after 5 minutes of inactivity
             - Uncheck ignore pinned tab
             - Uncheck ignore audible tab
         - Whitelist
