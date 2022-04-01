@@ -18,10 +18,10 @@ scoop install git
 scoop bucket add extras
 
 # base:
-scoop install 7zip draw.io spotify googlechrome greenshot imageglass joplin neovim sumatrapdf
+scoop install 7zip draw.io spotify googlechrome greenshot imageglass joplin sumatrapdf
 
 # optional:
-scoop install audacity carnac obs-studio steam vlc rufus windirstat
+scoop install audacity carnac obs-studio steam vlc rufus windirstat calibre
 ```
 
 ### Other
@@ -134,6 +134,6 @@ scoop install audacity carnac obs-studio steam vlc rufus windirstat
 
 ### After installations are done
 
-- Right click on task bar -> Task Manager -> check startup menu (after chocolatey is done)
+- Right click on task bar -> Task Manager -> check startup menu
 - "clean"
     - Disk cleanup -> Clean up system files -> check all -> OK
