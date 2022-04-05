@@ -18,10 +18,10 @@ scoop install git
 scoop bucket add extras
 
 # base:
-scoop install 7zip draw.io spotify googlechrome greenshot imageglass joplin sumatrapdf
+scoop install 7zip spotify googlechrome greenshot imageglass sumatrapdf
 
 # optional:
-scoop install audacity carnac obs-studio steam vlc rufus windirstat calibre
+audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw.io
 ```
 
 ### Other
