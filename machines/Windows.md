@@ -26,7 +26,7 @@ audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw
 
 ### Other
 
-- Install microsoft office
+- Install Microsoft Office
 
 
 ### Windows OS tweaks
@@ -90,19 +90,7 @@ audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw
         - timeout 4 hours
         - other -> enable autofill on page load
         - other -> default autofill setting = autofill on page load
-    - Tab suspender
-        - Suspend settings
-            - Auto-suspend tab after 5 minutes of inactivity
-            - Uncheck ignore pinned tab
-            - Uncheck ignore audible tab
-        - Whitelist
-            - Clear whitelist
-        - Suspended page style
-            - No icon
-        - Restore tab
-            - Uncheck restore on mouse hover
-            - Check restore when switching to a tab
-    - Pin slack, outlook, todoist
+    - Pin slack/outlook/todoist/etc.
 - Setpoint
     - Increase mouse speed
     - Button 4 = Next
@@ -114,6 +102,7 @@ audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw
 - Onedrive
     - Log in
     - Go to sharepoint in browser and select "sync" for any groups you want to sync
+    - Softlink directories so that we can use more sane names
 - Greenshot
     - Open app
     - Right click on system tray icon -> Preferences
@@ -122,13 +111,17 @@ audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw
     - Open imageglass, set defaults via wizard
 - Spotify
     - Enable HQ streaming
+- Windows Terminal
+    - Install Windows Terminal via the windows store
+    - Add id_rsa from Bitwarden
 - neovim (may just sunset this? see how this goes on laptop.)
     ```
+    git clone git@github.com:Shookit/rcfiles
     md ~\AppData\Local\nvim\autoload
     $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
     (New-Object Net.WebClient).DownloadFile($uri, $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath("~\AppData\Local\nvim\autoload\plug.vim"))
+    cp rcfiles/vimrc AppData/Local/nvim/init.vim
     ```
-    - From VM, run `cp .vimrc windows/AppData/Local/nvim/init.vim`
     - Add "C:\Users\Shook\scoop\apps\neovim\current\bin;C:\Users\Shook\scoop\apps\git\current\bin" to path
 
 
