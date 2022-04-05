@@ -6,6 +6,7 @@ After every reinstall
 
 - Run debloater https://github.com/Sycnex/Windows10Debloater
 - Uninstall all non-critical applications from add/remove programs
+- Uninstall all non-critical features (just keep openssh) from add/remove programs
 
 ### Scoop
 
@@ -114,13 +115,17 @@ audacity carnac obs-studio steam vlc rufus windirstat calibre-normal joplin draw
 - Windows Terminal
     - Install Windows Terminal via the windows store
     - Add id_rsa from Bitwarden
-- neovim (may just sunset this? see how this goes on laptop.)
+- neovim
     ```
+    # Standard powershell:
     git clone git@github.com:Shookit/rcfiles
     md ~\AppData\Local\nvim\autoload
     $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
     (New-Object Net.WebClient).DownloadFile($uri, $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath("~\AppData\Local\nvim\autoload\plug.vim"))
-    cp rcfiles/vimrc AppData/Local/nvim/init.vim
+
+    # Elevated powershell:
+    cd <user home>
+    New-Item -ItemType SymbolicLink -Path "AppData/Local/nvim/init.vim" -Target "rcfiles/vimrc"
     ```
     - Add "C:\Users\Shook\scoop\apps\neovim\current\bin;C:\Users\Shook\scoop\apps\git\current\bin" to path
 
