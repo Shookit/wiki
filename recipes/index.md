@@ -10,7 +10,6 @@ Breakfast
 - [Cinnabon](Cinnabon.md)
 - [Chorizo and eggs](Chorizo_and_eggs.md)
 - [Egg casserole](Egg_casserole.md)
-- [French toast](French_toast.md)
 - [Pancakes](Pancakes.md)
 - [Scrambled eggs](Scrambled_eggs.md)
 - [Waffles](Waffles.md)
