@@ -15,6 +15,8 @@ Specific shots
 ### Drives and long fairway shots
 
 - For longer clubs (driver, 3 iron, etc), set the ball further toward the front foot
+- If hooking shots, don't rotate the driver closed, sit it flat on the back of the head
+
 
 ### Chipping
 
