@@ -89,6 +89,7 @@ Veggies
 - [Cauliflower cheese](Cauliflower_cheese.md)
 - [Collard greens](Collard_greens.md)
 - [Cole slaw](Cole_slaw.md)
+- [Corn salad with chile and lime](Corn_salad_with_chile_and_lime.md)
 - [Elotes](Elotes.md)
 - [Falafel](Falafel.md)
 - [Fried green tomatoes](Fried_green_tomatoes.md)

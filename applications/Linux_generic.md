@@ -214,6 +214,15 @@ ExecStart=/usr/bin/Xvfb :99 -screen 0 1024x768x24
 WantedBy=multi-user.target
 ```
 
+reptyr
+------
+
+Use to attach a PID to the current terminal (useful for attaching an unattached screen session)
+
+```bash
+reptyr $PID
+```
+
 pkill
 -----
 

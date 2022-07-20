@@ -7,6 +7,7 @@ Rum
 - Daiquiri
 - [Blue Hawaii](Blue_hawaii.md)
 - [Mojito](Mojito.md)
+- [Painkiller](Painkiller.md)
 - [Pina colada](Pina_colada.md)
 - [Planters punch](Planters_punch.md)
 
@@ -39,6 +40,8 @@ Gin
 Tequila
 -------
 
+- El diablo
+- [Hibiscus margarita](Hibiscus_margarita.md)
 - [Margarita](Margarita_cocktail.md)
 
 

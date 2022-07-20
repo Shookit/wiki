@@ -8,6 +8,7 @@ General mechanics
 - Keep club path low (right elbow touching side); don't bring arms wide out away from the body
 - Keep weight shifting properly; right leg should break inward as weight shifts, not stay straight
 - Finish the swing; don't stop arms early, follow through
+- Maintain a wider base for bigger swings -- drives should be more than shoulder width, iron shots should be even with shoulders, chips can be even narrower
 
 Specific shots
 --------------

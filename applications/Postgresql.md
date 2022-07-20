@@ -1,13 +1,22 @@
 Postgresql
 ==========
 
-Bash commands
--------------
+Dump and restore
+----------------
+
+### Dump
 
 ```bash
-# Restore from dump:
-psql db < db.dump
+sudo su - postgresql
+pg_dumpall > database.psql
 ```
+
+### Restore
+
+```bash
+psql -f database.psql postgres
+```
+
 
 SQL commands
 ------------
@@ -55,4 +64,13 @@ ALTER USER root WITH password='pw-here';
 
 /* JSON join */
 SELECT github_member.json->>'login',github_team.json->>'name' FROM github_member JOIN github_team ON (github_member.github_team_id = github_team.id) WHERE github_member.json->>'login'='Shookit';
+
+/* Check for sequential scans, and reset stats */
+SELECT relname,
+       seq_scan,
+       seq_tup_read / seq_scan AS tup_per_scan
+FROM pg_stat_user_tables
+WHERE seq_scan > 0;
+
+select * from pg_stat_reset();
 ```
