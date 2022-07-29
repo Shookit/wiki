@@ -223,6 +223,81 @@ curl -XPUT localhost:9200/_template/sometemplate -H 'Content-Type: application/j
 }'
 ```
 
+If you have a billion fields, indexing all of those full-text can be horrible. This makes the default field query an omnibus all_fields that everything copies to, while still letting you see the individual fields and do non-full-text searches on all of them.
+
+You get most of the benefits of full-text search while still having individualized fields.
+
+```bash
+PUT _index_template/application-logs
+{
+  "template": {
+    "settings": {
+      "index": {
+        "highlight": {
+          "max_analyzed_offset": "33000000"
+        },
+        "mapping": {
+          "total_fields": {
+            "limit": "20001"
+          }
+        },
+        "refresh_interval": "5s",
+        "query": {
+          "default_field": [
+            "_all_fields"
+          ]
+        }
+      }
+    },
+    "mappings": {
+      "_routing": {
+        "required": false
+      },
+      "numeric_detection": false,
+      "dynamic_date_formats": [
+        "strict_date_optional_time",
+        "yyyy/MM/dd HH:mm:ss Z||yyyy/MM/dd Z"
+      ],
+      "_source": {
+        "excludes": [],
+        "includes": [],
+        "enabled": true
+      },
+      "dynamic": true,
+      "dynamic_templates": [
+        {
+          "string_fields": {
+            "mapping": {
+              "copy_to": "_all_fields",
+              "type": "keyword"
+            },
+            "match_mapping_type": "string",
+            "match": "*"
+          }
+        }
+      ],
+      "date_detection": true,
+      "properties": {
+        "username": {
+          "copy_to": "_all_fields",
+          "type": "keyword",
+        },
+        "@timestamp": {
+          "type": "date"
+        },
+        "_all_fields": {
+          "type": "text"
+        },
+      }
+    }
+  },
+  "index_patterns": [
+    "application-logs-*"
+  ],
+  "composed_of": []
+}
+```
+
 
 ### Add data to index
 
