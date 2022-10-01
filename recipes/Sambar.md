@@ -2,8 +2,8 @@ Ingredients
 -----------
 
 - Other
-    - 2T seedless wet tamarind
-    - 2/3 cup red or yellow lentil
+    - 3 Tbsp seedless wet tamarind
+    - 1 cup red or yellow lentil
 
 - Base (part 1)
     - 1 14oz can chopped tomato
@@ -15,14 +15,14 @@ Ingredients
     - Salt
 
 - Tempering
-    - 2 T vegetable/canola oil
+    - 2 Tbsp vegetable/canola oil
     - 1/2 tsp. red chili powder
     - 1 tsp. turmeric
     - 1 tsp. fenugreek flakes
     - 1/2 tsp. cumin
-    - Up to 2 Tbsp coriander (not sure if this is too much or not)
+    - 2 Tbsp coriander
     - 1/2 tsp. mustard seed (tru using seeds instead of ground)
-    - 2 pinches asafoetida (poke a bigger hole in the bottle)
+    - 2 pinches asafoetida
 
 
 Directions
