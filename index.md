@@ -1,4 +1,4 @@
-## [Recipes](recipes/index.md)
+- [Recipes](recipes/index.md)
 - [Applications](applications/index.md)
 - [Guitar](guitar/index.md)
 - [Piano](piano/index.md)
