@@ -1,5 +1,7 @@
 ## [Recipes](recipes/index.md)
 
+## [Cocktails](recipes/cocktails/index.md)
+
 ## Tech
 - [Applications](applications/index.md)
 - [Machine setup](machines/index.md)

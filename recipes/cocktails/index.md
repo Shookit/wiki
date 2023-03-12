@@ -29,7 +29,6 @@ Gin
 ---
 
 - [Gimlet](Gimlet.md)
-- Gin sour
 - Greyhound
 - [Last word](Last_word.md)
 - Negroni
