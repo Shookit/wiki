@@ -56,6 +56,7 @@
 - [Linguine and clams](Linguine_and_clams.md)
 - [Macaroni and Cheese](Macaroni_and_Cheese.md)
 - [Mashed potatoes](Mashed_potatoes.md)
+- [Minestrone](Minestrone.md)
 - [Mulled hot apple cider](Mulled_hot_apple_cider.md)
 - [Mushroom risotto](Mushroom_risotto.md)
 - [Mushroom sauce](Mushroom_sauce.md)

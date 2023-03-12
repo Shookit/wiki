@@ -100,7 +100,6 @@ Soups/stews
 - [Gumbo](Gumbo.md)
 - [Lentil soup](Lentil_soup.md)
 - [Lobster bisque](Lobster_bisque.md)
-- [Minestrone](Minestrone.md)
 - [Olive garden zuppa toscana](Olive_garden_zuppa_toscana.md)
 - [Roasted tomato basil soup](Roasted_tomato_basil_soup.md)
 

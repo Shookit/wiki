@@ -1,3 +1,6 @@
+Lobster Bisque
+==============
+
 ## Ingredients
 
 - 2 1-pound live lobsters
