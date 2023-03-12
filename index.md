@@ -1,6 +1,6 @@
 ## [Recipes](recipes/index.md)
 
-## [Cocktails](recipes/cocktails/index.md)
+## [Cocktails](cocktails/index.md)
 
 ## Tech
 - [Applications](applications/index.md)
