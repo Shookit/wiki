@@ -1,5 +1,6 @@
-Ingredients
------------
+# Martinez
+
+## Ingredients
 
 - 1.25 oz Gin
 - 1.25 oz Sweet vermouth

@@ -1,5 +1,6 @@
-Ingredients
------------
+# Negroni
+
+## Ingredients
 
 - 1.5 oz Dry gin
 - 3/4 oz Campari

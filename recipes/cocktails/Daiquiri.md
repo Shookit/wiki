@@ -1,5 +1,6 @@
-Ingredients
------------
+# Daiquiri
+
+## Ingredients
 
 - 2 oz White rum
 - 3/4 oz Fresh lime juice

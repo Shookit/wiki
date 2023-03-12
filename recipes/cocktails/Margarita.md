@@ -1,5 +1,6 @@
-Ingredients
------------
+# Margarita
+
+## Ingredients
 
 - 2 parts 100% agave tequila
 - 1 (maybe a splash more even) part triple sec/cointreau

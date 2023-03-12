@@ -1,5 +1,6 @@
-Ingredients
------------
+# Hot Toddy
+
+## Ingredients
 
 - 2 oz (1 large shot) bourbon
 - 2 tablespoon mild honey

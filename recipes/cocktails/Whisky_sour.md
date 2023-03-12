@@ -1,5 +1,6 @@
-Ingredients
------------
+# Whisky Sour
+
+## Ingredients
 
 - 1.5 oz. Bourbon
 - 3/4 oz. Lemon juice

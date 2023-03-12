@@ -1,5 +1,6 @@
-Ingredients
------------
+# Vieux Carre
+
+## Ingredients
 
 - 3/4 oz Rye whiskey
 - 3/4 oz VSOP cognac

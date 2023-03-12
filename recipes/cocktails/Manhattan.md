@@ -1,5 +1,6 @@
-Ingredients
------------
+# Manhattan
+
+## Ingredients
 
 - 2oz rye whiskey
 - 1oz sweet vermouth

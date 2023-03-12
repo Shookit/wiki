@@ -1,5 +1,6 @@
-Ingredients
------------
+# Bramble
+
+## Ingredients
 
 - 1.5 oz The Botanist Islay Dry Gin
 - 3/4 oz Fresh lemon juice

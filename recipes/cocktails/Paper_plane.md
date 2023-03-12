@@ -1,5 +1,6 @@
-Ingredients
------------
+# Paper Plane
+
+## Ingredients
 
 - 3/4 oz Bourbon
 - 3/4 oz Amaro Nonino

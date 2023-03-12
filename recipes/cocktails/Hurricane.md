@@ -1,5 +1,6 @@
-Ingredients
------------
+# Hurricane
+
+## Ingredients
 
 - 2 oz Dark rum
 - 1 oz Passion fruit syrup

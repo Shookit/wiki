@@ -1,5 +1,6 @@
-Ingredients
------------
+# Sidecar
+
+## Ingredients
 
 - 1.5 oz VSOP Cognac
 - 1 oz Dry Curaçao

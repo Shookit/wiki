@@ -1,5 +1,6 @@
-Ingredients
------------
+# Americano
+
+## Ingredients
 
 - 1 1/2 ounces Campari
 - 1 1/2 ounces sweet vermouth

@@ -1,5 +1,6 @@
-Ingredients
------------
+# Mulled Wine
+
+## Ingredients
 
 - 1 orange, juiced
 - 1/2 cup sugar
@@ -9,8 +10,7 @@ Ingredients
 - 1 bottle red wine
 - Brandy (optional)
 
-Directions
-----------
+## Directions
 
 1. Combine orange juice, sugar, water, and spices in a large stainless steel or enameled pot.
 2. Slowly bring to a boil, reduce the heat, and simmer for 15 minutes.

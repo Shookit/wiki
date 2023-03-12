@@ -1,5 +1,6 @@
-Ingredients
------------
+# Mojito
+
+## Ingredients
 
 - 4 cl (4 parts) White rum
 - 3 cl (3 parts) Fresh lime juice

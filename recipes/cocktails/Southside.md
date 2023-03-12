@@ -1,5 +1,6 @@
-Ingredients
------------
+# Southside
+
+## Ingredients
 
 - 1 shot gin
 - 6 mint leaves

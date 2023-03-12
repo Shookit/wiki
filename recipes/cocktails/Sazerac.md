@@ -1,5 +1,6 @@
-Ingredients
------------
+# Sazerac
+
+## Ingredients
 
 - 1 sugar cube
 - 3 dashes Peychaud's Bitters
@@ -17,8 +18,7 @@ Anders' recipe:
 - Lemon zest for garnish 
 
 
-Directions
-----------
+## Directions
 
 1. Chill old fashioned glass with ice and water
 2. Saturate sugar cube with bitters, muddle until dissolved in mixing glass. Add rye, stir.

@@ -1,5 +1,6 @@
-Ingredients
------------
+# New York Sour
+
+## Ingredients
 
 - 1.5 oz Bourbon
 - 3/4 oz Fresh lemon juice

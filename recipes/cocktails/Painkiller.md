@@ -1,5 +1,6 @@
-Ingredients
------------
+# Painkiller
+
+## Ingredients
 
 - 2 oz Dark rum
 - 3 oz Fresh pineapple juice
