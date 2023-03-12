@@ -1,6 +1,3 @@
-The boulevardier
-================
-
 Ingredients
 -----------
 

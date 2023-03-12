@@ -1,19 +1,8 @@
-New York Sour
-=============
-
 Ingredients
 -----------
 
-- Whisky
-- Lemon juice
-- Simple syrup
-- Dry fruity wine
-
-
-Directions
-----------
-
-- Combine 2 ounces rye or bourbon whiskey, 1 ounce fresh lemon juice, and 1 ounce simple syrup in a cocktail shaker.
-- Fill with ice, cover, and shake until outside of shaker is frosty, about 30 seconds.
-- Strain into a rocks glass filled with fresh ice.
-- Gently pour 1/2 ounce fruity red wine (such as Shiraz or Malbec) over the back of a spoon held just above the drink's surface so wine floats on top.
+- 1.5 oz Bourbon
+- 3/4 oz Fresh lemon juice
+- 1/2 oz Rich demerara syrup (2:1 sugar:water)
+- 1/2 oz Egg white or aquafaba
+- 3/4 oz red wine (float)

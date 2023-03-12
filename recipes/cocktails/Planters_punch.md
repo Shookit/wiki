@@ -1,6 +1,3 @@
-Dashi
-=====
-
 Ingredients
 -----------
 

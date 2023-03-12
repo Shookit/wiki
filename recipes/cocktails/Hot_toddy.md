@@ -1,6 +1,3 @@
-Hot toddy
-=========
-
 Ingredients
 -----------
 

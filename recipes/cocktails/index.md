@@ -4,7 +4,7 @@ Cocktails
 Rum
 ---
 
-- Daiquiri
+- [Daiquiri](Daiquiri.md)
 - [Blue Hawaii](Blue_hawaii.md)
 - [Mojito](Mojito.md)
 - [Painkiller](Painkiller.md)
@@ -22,33 +22,35 @@ Whisky
 - [Old fashioned](Old_fashioned.md)
 - [Sazerac](Sazerac.md)
 - [Whisky smash](Whisky_smash.md)
-- Whisky sour
+- [Whisky sour](Whisky_sour.md)
 
 
 Gin
 ---
 
+- [Aviation](Aviation.md)
+- [Bramble](Bramble.md)
 - [Gimlet](Gimlet.md)
-- Greyhound
 - [Last word](Last_word.md)
-- Negroni
+- [Martinez](Martinez.md)
+- [Negroni](Negroni.md)
+- [Paper plane](Paper_plane.md)
 - [Southside](Southside.md)
-- Tom collins
 
 
 Tequila
 -------
 
-- El diablo
 - [Hibiscus margarita](Hibiscus_margarita.md)
-- [Margarita](Margarita_cocktail.md)
+- [Margarita](Margarita.md)
 
 
 Brandy
 ------
 
-- Brandy old fashioned
 - [Brandy slush](Brandy_slush.md)
+- [Sidecar](Sidecar.md)
+- [Vieux Carre](Vieux_carre.md)
 
 
 Wine

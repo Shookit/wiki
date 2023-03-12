@@ -1,6 +1,3 @@
-Mulled wine
-===========
-
 Ingredients
 -----------
 

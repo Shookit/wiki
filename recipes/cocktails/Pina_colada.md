@@ -1,6 +1,3 @@
-Pina Colada
-===========
-
 Ingredients
 -----------
 

@@ -1,6 +1,3 @@
-Hibiscus margarita
-==================
-
 Ingredients
 -----------
 

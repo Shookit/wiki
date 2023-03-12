@@ -1,6 +1,3 @@
-Mojito
-======
-
 Ingredients
 -----------
 

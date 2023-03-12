@@ -1,15 +1,15 @@
-Old fashioned
-=============
-
 Ingredients
 -----------
 
-- 1 shot Bourbon, Canadian, or Rye whiskey
-- 1 sugar cube
-- 2 dashes Angostura bitters
-- Orange, cherries, lemon for garnish
+- 2oz bourbon
+- 0.25oz rich demerara syrup
+- 4 dashes Angostura bitters
+- Orange slice
+- Cocktail cherry 
 
-Preparation
------------
+Directions
+----------
 
-Place sugar cube in old fashioned glass and saturate with bitter, add a dash of water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange slice, lemon twist and two maraschino cherries.
+1. Stir together bourbon, syrup, bitters, and 1/2 of an orange wedge
+2. Strain into an old fashioned glass with a large ice cube
+3. Garnish with an orange slice and a cocktail cherry

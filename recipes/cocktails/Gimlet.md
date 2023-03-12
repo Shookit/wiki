@@ -1,6 +1,3 @@
-Gimlet
-======
-
 Ingredients
 -----------
 

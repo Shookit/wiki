@@ -7,6 +7,15 @@ Ingredients
 - 1/4 ounce absinthe, or anise liqueur
 - Lemon twist, for garnish
 
+Anders' recipe:
+- 1.5 oz Rye Whiskey
+- 1/2 oz VSOP Cognac
+- 1/4 oz semi-rich simple syrup (1.5:1 sugar:water)
+- 3 dashes Peychaud's Bitters
+- 1 dash Angostura Aromatic Bitters
+- Rinse of Absinthe
+- Lemon zest for garnish 
+
 
 Directions
 ----------

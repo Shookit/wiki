@@ -1,6 +1,3 @@
-Brandy slush
-============
-
 Ingredients
 -----------
 

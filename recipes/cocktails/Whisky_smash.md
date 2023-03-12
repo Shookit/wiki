@@ -1,6 +1,3 @@
-Whisky smash
-============
-
 Ingredients
 -----------
 
