@@ -151,4 +151,4 @@ Drinks
 - [Masala chai](Masala_Chai.md)
 
 
-## [Archived](Archived.md)
+## [Archived](archived/index.md)
