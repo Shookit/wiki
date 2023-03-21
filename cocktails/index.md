@@ -20,6 +20,7 @@ Whisky
 - [Manhattan](Manhattan.md)
 - [New York Sour](New_york_sour.md)
 - [Old fashioned](Old_fashioned.md)
+- [Paper plane](Paper_plane.md)
 - [Sazerac](Sazerac.md)
 - [Whisky smash](Whisky_smash.md)
 - [Whisky sour](Whisky_sour.md)
@@ -34,7 +35,6 @@ Gin
 - [Last word](Last_word.md)
 - [Martinez](Martinez.md)
 - [Negroni](Negroni.md)
-- [Paper plane](Paper_plane.md)
 - [Southside](Southside.md)
 
 
