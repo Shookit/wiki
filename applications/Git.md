@@ -1,6 +1,23 @@
 Git
 ===
 
+Bisect
+------
+
+```
+git bisect start
+git bisect good HEAD~400
+git bisect bad HEAD
+
+git bisect run <command>
+or
+git bisect bad
+git bisect good
+
+git bisect reset
+```
+
+
 Rebasing
 --------
 
