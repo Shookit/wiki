@@ -5,15 +5,18 @@ Bisect
 ------
 
 ```
+# Set extents of area that we want to check
 git bisect start
 git bisect good HEAD~400
 git bisect bad HEAD
 
+# Either run fully automatically, or mark each commit good/bad
 git bisect run <command>
 or
 git bisect bad
 git bisect good
 
+# Cleanup
 git bisect reset
 ```
 
