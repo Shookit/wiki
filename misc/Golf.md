@@ -7,6 +7,7 @@ General mechanics
 - Keep hands up high and arms straight when addressing the ball, don't drop them low. When you swing, your arms will be mostly straight due to momentum, so you want to address the ball in a similar stance.
 - Keep club path low (right elbow touching side); don't bring arms wide out away from the body
 - Keep weight shifting properly; right leg should break inward as weight shifts, not stay straight
+- Shifting your weight doesn't only apply to your driver... keep in mind with your irons as well!
 - Finish the swing; don't stop arms early, follow through
 - Maintain a wider base for bigger swings -- drives should be more than shoulder width, iron shots should be even with shoulders, chips can be even narrower
 - Approximate distances
