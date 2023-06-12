@@ -6,6 +6,7 @@ Rum
 
 - [Daiquiri](Daiquiri.md)
 - [Blue Hawaii](Blue_hawaii.md)
+- [Jungle Bird](Jungle_bird.md)
 - [Mojito](Mojito.md)
 - [Painkiller](Painkiller.md)
 - [Pina colada](Pina_colada.md)
