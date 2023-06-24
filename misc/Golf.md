@@ -12,15 +12,14 @@ General mechanics
 - Maintain a wider base for bigger swings -- drives should be more than shoulder width, iron shots should be even with shoulders, chips can be even narrower
 - Approximate distances
     - Driver - 260
-    - 3 hybrid - 190
-    - 4 hybrid - 180
-    - 5 Iron - 160
-    - 6 Iron - 150
-    - 7 Iron - 140
-    - 8 Iron - 130
-    - 9 Iron - 120
-    - Pitching Wedge - 105
-
+    - 3 hybrid - 210
+    - 4 hybrid - 200
+    - 5 Iron - 170
+    - 6 Iron - 160
+    - 7 Iron - 150
+    - 8 Iron - 140
+    - 9 Iron - 130
+    - Pitching Wedge - 115
 
 Specific shots
 --------------
