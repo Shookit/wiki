@@ -69,6 +69,7 @@ Rice/grains/pastas/starches
 ---------------------------
 
 - [Calico beans](Calico_beans.md)
+- [Chicken mushroom casserole](Chicken_mushroom_casserole.md)
 - [Crash hot potatoes](Crash_hot_potatoes.md)
 - [Dal tadka](Dal.md)
 - [Fried rice](Fried_rice.md)
@@ -97,11 +98,13 @@ Soups/stews
 - [Broccoli cheddar soup](Broccoli_cheddar_soup.md)
 - [Butternut squash soup with sage](Butternut_squash_soup_with_sage.md)
 - [Chili con carne](Chili_con_carne.md)
+- [French onion soup](French_onion_soup.md)
 - [Gumbo](Gumbo.md)
 - [Lentil soup](Lentil_soup.md)
 - [Lobster bisque](Lobster_bisque.md)
 - [Olive garden zuppa toscana](Olive_garden_zuppa_toscana.md)
 - [Roasted tomato basil soup](Roasted_tomato_basil_soup.md)
+- [Split pea soup](Split_pea_soup.md)
 
 
 Breads
@@ -129,7 +132,7 @@ Desserts
 --------
 
 - [7-layer bars](7-layer_bars.md)
-- [Apple crisp](Apple_crisp.md)
+- [Apple crumble](Apple_crumble.md)
 - [Belgian waffles](Belgian_waffles.md)
 - [Caramel sauce](Caramel_sauce.md)
 - [Carrot cake](Carrot_cake.md)
