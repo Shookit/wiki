@@ -17,7 +17,7 @@ Ingredients
 
 Directions
 ----------
-- Cook pinto beans in pressure cooker w/ sufficient water, on high pressure, for 30 minutes
+- Cook pinto beans in pressure cooker w/ sufficient water, on high pressure, for 30 minutes. Make sure you do a slow release, not a quick release.
 - In a medium saucepan over medium heat, cook onions in salt and olive oil until translucent.
 - Add the garlic, chili powder and cumin. Cook until fragrant, about 30 seconds. Pour in the drained beans and water. Stir, cover and cook for 5 minutes.
 - Reduce the heat to low and remove the lid. Use a hand blender until desired consistency. Cook uncovered, for 3 more minutes.
