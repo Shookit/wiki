@@ -62,3 +62,9 @@ Wine
 
 - [Mulled wine](Mulled_wine.md)
 - [Sangria](Sangria.md)
+
+
+Beer
+----
+
+- [Spaghett](Spaghett.md)
