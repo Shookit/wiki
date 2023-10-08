@@ -10,7 +10,7 @@ Ingredients
 - 1/2 teaspoon kosher salt, or slightly less table salt
 - 3 tablespoons sugar
 - 2 large eggs, lightly beaten
-- 2 cups buttermilk (sub: add milk to 4 tbsp vinegar; want 2 cups, not 2 cups + 4tbsp of liquid)
+- 2 cups buttermilk (sub: add 1 3/4 cup milk to 1/4 cup vinegar and let stand for 10 minutes)
 - 4 tablespoons unsalted butter, melted
 
 Directions
