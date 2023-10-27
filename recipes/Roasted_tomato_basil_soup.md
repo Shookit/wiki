@@ -1,6 +1,9 @@
 Roasted tomato basil soup
 =========================
 
+- Double this recipe for next time.
+- Consider making it entirely from canned tomatoes
+
 Ingredients
 -----------
 
