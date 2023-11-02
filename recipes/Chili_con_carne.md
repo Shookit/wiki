@@ -10,7 +10,7 @@ Ingredients
 - 2 lb lean (at least 80%) ground beef
 - 2 large onion, chopped (2 cup)
 - 8 cloves garlic, crushed
-- 2 28-oz can diced tomatoes, undrained
+- 2 28-oz can crushed tomatoes
 - 3 Tbsp fish sauce
 
 ### Dry ingredients
@@ -38,8 +38,6 @@ Ingredients
 
 Directions
 ----------
-
-** Next time, try blending onion, tomato, and garlic with the chile peppers**
 
 ### If using whole chilies
 
