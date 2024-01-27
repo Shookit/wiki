@@ -24,6 +24,7 @@ Whisky
 - [New York Sour](New_york_sour.md)
 - [Old fashioned](Old_fashioned.md)
 - [Paper plane](Paper_plane.md)
+- [Trinidad sour](Trinidad_sour.md)
 - [Sazerac](Sazerac.md)
 - [Whisky smash](Whisky_smash.md)
 - [Whisky sour](Whisky_sour.md)
@@ -53,6 +54,7 @@ Brandy
 ------
 
 - [Brandy slush](Brandy_slush.md)
+- [Egg nog](Egg_nog.md)
 - [Sidecar](Sidecar.md)
 - [Vieux Carre](Vieux_carre.md)
 

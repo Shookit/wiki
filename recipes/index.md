@@ -5,6 +5,7 @@ Breakfast
 ---------
 
 - [Biscuits and gravy](Biscuits_and_gravy.md)
+- [Hard-boiled Eggs](Hard_boiled_eggs.md)
 - [Egg casserole](Egg_casserole.md)
 - [Pancakes](Pancakes.md)
 - [Waffles](Waffles.md)
@@ -27,6 +28,7 @@ Poultry
 - [Mall chicken](Mall_chicken.md)
 - [Nashville hot fried chicken](Nashville_hot_fried_chicken.md)
 - [Roast chicken](Roast_chicken.md)
+- [Tikka masala](Tikka_masala.md)
 - [Turkey stuffing](Turkey_stuffing.md)
 - [Turkey](Turkey.md)
 
@@ -68,6 +70,7 @@ Veggies
 Rice/grains/pastas/starches
 ---------------------------
 
+- [Bolognese](Bolognese.md)
 - [Calico beans](Calico_beans.md)
 - [Chicken mushroom casserole](Chicken_mushroom_casserole.md)
 - [Crash hot potatoes](Crash_hot_potatoes.md)
@@ -133,6 +136,7 @@ Desserts
 
 - [7-layer bars](7-layer_bars.md)
 - [Apple crumble](Apple_crumble.md)
+- [Bananas foster](Bananas_foster.md)
 - [Belgian waffles](Belgian_waffles.md)
 - [Caramel sauce](Caramel_sauce.md)
 - [Carrot cake](Carrot_cake.md)
