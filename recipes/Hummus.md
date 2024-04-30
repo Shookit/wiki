@@ -8,7 +8,7 @@ Ingredients
 - 2/3 Cup(s) tahini
 - 1/2 Cup(s) lemon juice
 - 1 1/3 Teaspoon salt
-- 3 medium cloves garlic
+- 2 medium cloves garlic
 - Olive oil
 - 1 tsp cumin (or more, to taste)
 - 1/2 tsp cayenne pepper (or more, to taste)
