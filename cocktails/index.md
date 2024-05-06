@@ -70,3 +70,9 @@ Beer
 ----
 
 - [Spaghett](Spaghett.md)
+
+
+Other
+-----
+
+- [Milk clarification](Milk_clarification.md)
