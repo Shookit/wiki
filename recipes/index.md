@@ -122,13 +122,24 @@ Breads
 Sauces
 ------
 
-- [Bacon dressing](Bacon_dressing.md)
-- [Dry rub](Dry_rub.md)
-- [Hummus](Hummus.md)
 - [Tahini sauce](Tahini_sauce.md)
 - [Tzatziki sauce](Tzatziki_sauce.md)
-- [Salsa verde](Salsa_verde.md)
 - [Stir fry brown sauce](Stir_fry_brown_sauce.md)
+
+
+Sides
+-----
+
+- [Bacon dressing](Bacon_dressing.md)
+- [Hummus](Hummus.md)
+- [Obatzda](Obatzda.md)
+- [Salsa verde](Salsa_verde.md)
+
+
+Misc
+----
+
+- [Dry rub](Dry_rub.md)
 
 
 Desserts
