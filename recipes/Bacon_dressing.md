@@ -4,27 +4,21 @@ Bacon dressing
 Ingredients
 -----------
 
-- Drippings and browned bits from 12 oz bacon
-- Crumbled bacon from 3 sliecs of bacon
-- 2 Tbsp olive oil
-- 1/4 cup white vinegar
-- 1 Tbsp dijon mustard
-- 1 Tbsp honey
-- Salt
-- Pepper
-- Salad ingredients (recommend eggs, spinach, mushrooms, red onion, swiss cheese, croutons)
+- 12oz bacon
+- 1/4 tbsp vegetable oil
+- 1/2 cup white vinegar
+- 1/4 water
+- 1/4 cup sugar
+- 1/2 cup minced red onion
+- 1 Tbsp corn starch
+- Salt and pepper, to taste
 
-5 large eggs , boiled, peeled and sliced
-9 oz baby spinach
-6 oz button mushrooms , sliced
-1/2 small red onion , thinly sliced (run under cool water to remove harsh bite)
-1 cup shredded or finely cubed swiss cheese
-2 1/2 cups homemade or store bought croutons (optional)
-3 Tbsp reserved bacon drippings with browned bits
-Salt and freshly ground black pepper
 
 Directions
 ----------
 
-1. Whisk together bacon drippings with browned bits, olive oil, red wine vinegar, Dijon and honey. Season with salt and pepper.
-2. Toss with salad ingredients
+1. Cook bacon in oven at 425F until crispy, but not burnt
+2. Put half of bacon away. Crumble other half of bacon. Place bacon drippings in a small saucepan.
+3. Add vegetable oil, white vinegar, water, sugar, minced red onion, and corn starch to bacon drippings in saucepan.
+4. Cook on medium until onion is translucent.
+5. Add crumbled bacon when ready to serve. Add salt and pepper to taste.

@@ -13,7 +13,7 @@ Ingredients
 - 1/2 teaspoon salt
 - 1/4 teaspoon black pepper
 - 1 cups chicken broth
-- 2 cups beer
+- 24 oz beer (heavy domestic lager -- PBR, Budweiser, etc.)
 - 1/3 cup butter
 - 1/3 cup flour
 - 4 cups milk or half and half
