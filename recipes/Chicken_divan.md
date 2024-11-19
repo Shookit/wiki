@@ -6,12 +6,13 @@ Ingredients
 
 - 1/2 cup mayo
 - 2 cans cream of chicken soup
-- 2 packages (how much each pkg?) frozen broccoli, cooked until tender
+- 2 packages frozen broccoli
 - 4 chicken breasts, boiled
 - 1/2 tsp curry powder
 - 1/2 cup shredded cheddar cheese
 - 1/2 cup bread crumbs
-- Lemon juice
+- Juice from 1 lemon
+
 
 Directions
 ----------
