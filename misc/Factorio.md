@@ -4,6 +4,7 @@
 
 - Efficiency modules help a ton with pollution
 - Always smelt right under ore patch
+- For space logistics, use named logistic groups. These always "pull" resources. So you create a logistic group named `Vulcanus exports`. You pull into your space platform by setting it on your space platform, and pull into a cargo pod on e.g., Nauvis by setting it on your cargo landing pad. But you can reuse the same named logistic group in both of those "pull" spots.
 
 
 ## Expansion
@@ -57,19 +58,41 @@
 
 ## Vulcanus
 
+### Notes
+
+- Don't need to bring anything for defense
+- Solar is highly efficient
+- Fluid has basically unlimited capacity, so bus molten iron/copper instead of lava
+
+
 ### Starter bus
 
-???
+- Need to do this fresh next time
+- Ship around molten copper and iron wherever possible instead of doing a ton of plate smelting
+- Try using logistic bots for calcite instead of belting it everywhere
 
+
+### Exports
+
+- Science
+- Foundries
+- Big miners
+- Calcite
+
+
+## Fulgora
 
 ### Notes
 
-- Solar is highly efficient
-- Fluid has basically unlimited capacity, so bus molten iron/copper instead of lava
+- Don't need to bring anything for defense
+
+
+### Exports
+
+- Science
+- Electromagnetic plant
 
 
 ## Questions
 
 - What should a minimal belt mall include?
-- Ship red/green/blue/white science for some of the initial research? Depends on how much 
-- Can you ship a rocket silo or its constituent parts to the location? Otherwise just ship science over to drop.
