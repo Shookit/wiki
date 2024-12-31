@@ -7,6 +7,7 @@ Rum
 - [Daiquiri](Daiquiri.md)
 - [Blue Hawaii](Blue_hawaii.md)
 - [Hurricane](Hurricane.md)
+- [Jasper's Rum Punch](Jaspers_rum_punch.md)
 - [Jungle Bird](Jungle_bird.md)
 - [Mojito](Mojito.md)
 - [Painkiller](Painkiller.md)
