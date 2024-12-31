@@ -123,6 +123,7 @@ Breads
 Sauces
 ------
 
+- [Chimichurri](Chimichurri.md)
 - [Tahini sauce](Tahini_sauce.md)
 - [Tzatziki sauce](Tzatziki_sauce.md)
 - [Stir fry brown sauce](Stir_fry_brown_sauce.md)
