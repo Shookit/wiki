@@ -5,6 +5,7 @@ Breakfast
 ---------
 
 - [Biscuits and gravy](Biscuits_and_gravy.md)
+- [Cinnamon rolls](Cinnamon_rolls.md)
 - [Hard-boiled Eggs](Hard_boiled_eggs.md)
 - [Egg casserole](Egg_casserole.md)
 - [Pancakes](Pancakes.md)
