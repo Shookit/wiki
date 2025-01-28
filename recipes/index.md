@@ -73,6 +73,7 @@ Rice/grains/pastas/starches
 
 - [Bolognese](Bolognese.md)
 - [Calico beans](Calico_beans.md)
+- [Chicago tavern pizza](Chicago_tavern_pizza.md)
 - [Chicken mushroom casserole](Chicken_mushroom_casserole.md)
 - [Crash hot potatoes](Crash_hot_potatoes.md)
 - [Dal tadka](Dal.md)
