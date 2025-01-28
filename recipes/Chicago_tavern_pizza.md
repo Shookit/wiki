@@ -7,10 +7,11 @@ Things to try for next time:
 - Batch build a bunch of crusts?
 
 
-# Crust
+Crust
+=====
 
 Ingredients
-===========
+-----------
 
 - 300g bread flour
 - 7g sugar
@@ -22,7 +23,7 @@ Ingredients
 
 
 Directions
-==========
+----------
 
 1. Combine the flour, sugar, salt and yeast in the bowl of a stand mixer. Whisk together to combine, then add the water and oil. Mix at low speed with the dough hook attachment until the dough comes together in a shaggy ball. Cover the bowl and let the dough rest for 10 minutes. Mix on medium-low speed until the dough is silky and pulls away from the sides of the bowl, about 5 minutes.
 2. Separate the dough into two even pieces, about 250 grams each. Shape each piece into a smooth ball, then lightly coat each with oil, using your hands to cover every surface. Transfer each ball to a quart-size zipper-lock bag or other sealable container at least three times its volume.
@@ -31,10 +32,11 @@ Directions
 5. Transfer the doughs to a flat surface lined with parchment paper. Rest uncovered at room temperature for at least 8 hours. The top surface of the dough should end up dry to the touch with a leathery feel.
 
 
-# Sauce
+Sauce
+=====
 
 Ingredients
-===========
+-----------
 
 - 1(28-ounce) can whole peeled tomatoes with their juices
 - 1(6-ounce) can tomato paste
@@ -48,14 +50,15 @@ Ingredients
 
 
 Directions
-==========
+----------
 
 1. Combine all ingredients in a blender or food processor, and pulse until mostly smooth but a few small bits of tomato remain. Store in a sealed container in the refrigerator for up to 1 week.
 
-# Pizza
+Pizza
+=====
 
 Ingredients
-===========
+-----------
 
 - 1 stretched, cured crust
 - 3/4-1c pizza sauce
@@ -68,7 +71,7 @@ Ingredients
 
 
 Directions
-==========
+----------
 
 1. At least 45 minutes before baking, set baking steel on an oven rack in the lower-middle position and heat the oven to 500 degrees.
 2. Flip the pizza crust so that the exposed (dry) side is down and dust with cornmeal so that it slides well.
