@@ -83,6 +83,7 @@ Rice/grains/pastas/starches
 - [Pastitsio](Pastitsio.md)
 - [Pintos and cheese](Pintos_and_cheese.md)
 - [Kartoffelpuffer](Kartoffelpuffer.md)
+- [Spaghetti carbonara](Spaghetti_carbonara.md)
 - [Sweet potato casserole](Sweet_potato_casserole.md)
 - [Red beans and rice](Red_beans_and_rice.md)
 
