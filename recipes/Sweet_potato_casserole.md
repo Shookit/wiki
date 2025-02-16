@@ -1,0 +1,28 @@
+Sweet potato casserole
+======================
+
+Ingredients
+-----------
+
+- Filling
+    - 4 tablespoons unsalted butter, melted, plus more for buttering the baking dish
+    - 3 cups mashed sweet potatoes (3 to 4 large potatoes; about 1 3/4 pounds)
+    - 1/2 cup milk
+    - 1/4 cup brown sugar, packed
+    - 1 teaspoon pure vanilla extract
+    - 1/2 teaspoon kosher salt
+    - 2 large eggs
+- Topping
+    - 1/2 cup all-purpose flour
+    - 1/2 cup brown sugar, packed
+    - 4 tablespoons unsalted butter, melted
+    - 1/4 teaspoon kosher salt
+    - 3/4 cup chopped pecans
+
+Directions
+----------
+
+1. For the filling: Preheat the oven to 350 degrees F and butter a 2-quart baking dish.
+2. Whisk together the butter, mashed sweet potatoes, milk, brown sugar, vanilla, salt and the eggs in a large bowl. Transfer to the prepared baking dish.
+3. For the topping: Combine the flour, brown sugar, butter and salt in a medium bowl until moist and the mixture clumps together. Stir in the pecans and spread over the top of the sweet potatoes in an even layer. Bake until mostly set in the center and golden on top, 25 to 30 minutes. Serve hot.
+
