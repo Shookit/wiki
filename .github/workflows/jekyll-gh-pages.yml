@@ -20,19 +20,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      
       - name: Setup Pages
         uses: actions/configure-pages@v2
+      
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+      
       - name: Debug Build Output
-        run: ls -la ./_site
+        run: |
+          echo "Checking _site directory:"
+          ls -la ./_site || echo "_site directory not found"
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+          name: github-pages
+          fail-on-empty: true
 
   deploy:
     environment:
@@ -44,3 +52,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+        with:
+          artifact_name: github-pages
