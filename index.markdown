@@ -1,6 +1,18 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+## [Recipes](recipes/index.md)
 
-layout: home
----
+
+## [Cocktails](cocktails/index.md)
+
+
+## Tech
+- [Applications](applications/index.md)
+- [Programming concepts](programming/index.md)
+- [Programming languages](languages/index.md)
+
+
+## Misc
+
+- [Games](misc/index.md)
+- [Guitar](guitar/index.md)
+- [Piano](piano/index.md)
+- [Sports](misc/index.md)
