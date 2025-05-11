@@ -10,7 +10,7 @@ Ingredients
 - 1g instant yeast
 - 150g cold water
 - 30g neutral oil, such as light olive oil, vegetable oil or corn oil
-- Cornmeal, for dusting
+- Flour and cornmeal, for dusting
 
 
 Directions
@@ -19,7 +19,7 @@ Directions
 1. Combine the flour, sugar, salt and yeast in the bowl of a stand mixer. Whisk together to combine, then add the water and oil. Mix at low speed with the dough hook attachment until the dough comes together in a shaggy ball. Cover the bowl and let the dough rest for 10 minutes. Mix on medium-low speed until the dough is silky and pulls away from the sides of the bowl, about 5 minutes.
 2. Separate the dough into two even pieces, about 250 grams each. Shape each piece into a smooth ball, then lightly coat each with oil, using your hands to cover every surface. Transfer each ball to a quart-size zipper-lock bag or other sealable container at least three times its volume.
 3. Let the dough rest at room temperature until doubled in volume, about 3 hours. For better results, refrigerate the dough overnight. For best results, refrigerate the dough for at least 3 and up to 5 days.
-4. The morning of baking, take dough ball out of fridge. Ideally rest an hour to make rolling easier. Place on a work surface generously dusted with cornmeal. Roll the dough into a very thin circle 14 inches in diameter, lifting and rotating it occasionally. The dough shouldn't be translucent, but close.
+4. The morning of baking, take dough ball out of fridge. Ideally rest an hour to make rolling easier. Place on a work surface dusted with flour. Roll the dough into a very thin circle 14 inches in diameter, lifting and rotating it occasionally. The dough shouldn't be translucent, but close.
 5. Transfer the doughs to a flat surface lined with parchment paper. Rest uncovered at room temperature for at least 8 hours. The top surface of the dough should end up dry to the touch with a leathery feel.
 
 
@@ -55,7 +55,6 @@ Ingredients
 - 3/4-1c pizza sauce
 - 2oz finely shredded or powdered Pecorino Romano or Parmesan
 - 8-12oz full-fat low-moisture mozzarella, shredded
-- Cornmeal, for dusting
 - Toppings
     - Use small balls of raw sausage, don't precook
     - Use mandolin-sliced mushrooms, don't precook
@@ -66,6 +65,6 @@ Directions
 ----------
 
 1. At least 45 minutes before baking, set baking steel on an oven rack in the lower-middle position and heat the oven to 500 degrees.
-2. Flip the pizza crust so that the exposed (dry) side is down and dust with cornmeal so that it slides well.
+2. Flip the pizza crust so that the exposed (dry) side is down.
 3. Spread sauce, then cheese, then toppings. Sauce should be thin (you should see some crust color underneath), and you should put this on all the way to the edges.
 4. Transfer the pizza to heated baking steel. Bake until done, around 10 minutes.
