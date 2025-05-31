@@ -29,6 +29,5 @@
 - [Rose - APT](Rose-APT.md)
 - [Semisonic - Closing Time](Semisonic-closing_time.md)
 - [Taylor Swift - I Knew You Were Trouble](Taylor_swift-I_knew_you_were_trouble.md)
-- [The Verve Pipe - The Freshmen](The_Verve_Pipe-The_Freshmen.md)
 - [Tracy Chapman - Fast Car](Tracy_chapman_fast_car.md)
 - [Weezer - Say It Ain't So](Weezer-say_it_aint_so.md)
