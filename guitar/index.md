@@ -6,6 +6,7 @@
 - [Blessid Union of Souls - Light In Your Eyes](Blessid_Union_of_Souls-Light_In_Your_Eyes.md)
 - [Bryan Adams - Summer of 69](Bryan_adams_summer_of_69.md)
 - [Cascada - Every Time we Touch](Cascada_every_time_we_touch.md)
+- [Cranberries - Zombie](Cranberries-zombie.md)
 - [Creedence Clearwater Revival - Bad Moon Rising](Creedence_clearwater_revival-bad_moon_rising.md)
 - [Dolly Parton - Jolene](Dolly_parton-jolene.md)
 - [Eagles Take it Easy](Eagles_take_it_easy.md)
