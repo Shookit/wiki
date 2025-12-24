@@ -29,6 +29,7 @@ Poultry
 - [Mall chicken](Mall_chicken.md)
 - [Nashville hot fried chicken](Nashville_hot_fried_chicken.md)
 - [Roast chicken](Roast_chicken.md)
+- [Fajitas](Fajitas.md)
 - [Tikka masala](Tikka_masala.md)
 - [Turkey stuffing](Turkey_stuffing.md)
 - [Turkey](Turkey.md)
