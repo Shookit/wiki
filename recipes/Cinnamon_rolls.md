@@ -22,7 +22,7 @@ Ingredients
 - 2 tablespoons ground cinnamon
 
 ### Glaze
-- 1 8-ounce block cream cheese, at room temperature
+- 4oz cream cheese, at room temperature
 - 1 cup powdered sugar
 - 1/2 teaspoon vanilla extract
 
