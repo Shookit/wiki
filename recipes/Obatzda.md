@@ -19,6 +19,7 @@ Ingredients
 Directions
 ----------
 
-- Combine all ingredients with hands
+- Combine all ingredients except shallot/onion with hands
 - Add beer to achieve sticky (but not wet) consistency
 - Refrigerate for at least 2 hours
+- Add shallot/onion after refrigerating so it doesn't become wet

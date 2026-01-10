@@ -87,6 +87,7 @@ Rice/grains/pastas/starches
 - [Spaghetti carbonara](Spaghetti_carbonara.md)
 - [Sweet potato casserole](Sweet_potato_casserole.md)
 - [Red beans and rice](Red_beans_and_rice.md)
+- [Zeera rice](Zeera_rice.md)
 
 
 Sandwiches
