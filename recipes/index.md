@@ -82,6 +82,7 @@ Rice/grains/pastas/starches
 - [Kasespatzle](Kasespatzle.md)
 - [Mom's cheesy potatoes](Moms_cheesy_potatoes.md)
 - [Pastitsio](Pastitsio.md)
+- [Pinto beans](Pinto_beans.md)
 - [Pintos and cheese](Pintos_and_cheese.md)
 - [Kartoffelpuffer](Kartoffelpuffer.md)
 - [Spaghetti carbonara](Spaghetti_carbonara.md)
