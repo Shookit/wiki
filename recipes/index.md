@@ -26,7 +26,7 @@ Poultry
 - [Chicken divan](Chicken_divan.md)
 - [Frank's buffalo chicken dip](Franks_buffalo_chicken_dip.md)
 - [Fried chicken](Fried_chicken.md)
-- [Greek chicken salad])(Greek_chicken_salad.md)
+- [Greek chicken salad](Greek_chicken_salad.md)
 - [Mall chicken](Mall_chicken.md)
 - [Nashville hot fried chicken](Nashville_hot_fried_chicken.md)
 - [Roast chicken](Roast_chicken.md)
