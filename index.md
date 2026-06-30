@@ -17,3 +17,4 @@
 - [Guitar](guitar/index.md)
 - [Lifting](misc/Lifting.md)
 - [Piano](piano/index.md)
+- [Soundbar](misc/Soundbar.md)
