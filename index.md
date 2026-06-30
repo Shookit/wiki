@@ -12,7 +12,8 @@
 
 ## Misc
 
-- [Games](misc/index.md)
+- [Factorio](misc/Factorio.md)
+- [Golf](misc/Golf.md)
 - [Guitar](guitar/index.md)
+- [Lifting](misc/Lifting.md)
 - [Piano](piano/index.md)
-- [Sports](misc/index.md)
