@@ -5,38 +5,38 @@
 This is also great with a can of chickpeas or paneer instead of chicken, but add some extra spices from the marinade and directly simmer instead of doing a full marinade + grill
 
 Marinated chicken
-- 1.5 lbs. boneless chicken
-- 1/2 cup Greek yogurt
-- 1/2 to 1 teaspoon Kashmiri red chili powder
-- 1 teaspoon garam masala
-- 1/4 teaspoon turmeric
-- 1 teaspoon coriander powder
-- 1/2 teaspoon cumin powder
-- 1/2 teaspoon salt
-- 1 tablespoon lemon juice
-- 1 tablespoon kasuri methi
-- 1 tablespoon ginger garlic paste
-- 1 tablespoon oil (mustard oil if available)
+- 3 lbs. boneless chicken
+- 1 cup Greek yogurt
+- 1 to 2 teaspoons Kashmiri red chili powder
+- 2 teaspoons garam masala
+- 1/2 teaspoon turmeric
+- 2 teaspoons coriander powder
+- 1 teaspoon cumin powder
+- 1 teaspoon salt
+- 2 tablespoons lemon juice
+- 2 tablespoons kasuri methi
+- 2 tablespoons ginger garlic paste
+- 2 tablespoons oil (mustard oil if available)
 
 Tikka gravy
-- 3 tablespoons ghee
-- 1.5 cups onions, finely chopped
-- 1 green chili
-- 1 teaspoon salt
-- 1 tablespoon ginger garlic paste
-- 1/2 Kashmiri red chili powder
-- 2 teaspoons garam masala
-- 1 tablespoon coriander powder
-- 1.5 teaspoon cumin powder
-- 1 teaspoon sugar
-- 10 oz pureed tomatoes
-- 1 cup hot water
-- 1 tablespoon kasuri methi (dried fenugreek leaves)
-- 1/2 cup heavy cream/whipping cream
+- 6 tablespoons ghee
+- 3 cups onions, finely chopped
+- 2 green chilies
+- 2 teaspoons salt
+- 2 tablespoons ginger garlic paste
+- 1 teaspoon Kashmiri red chili powder
+- 4 teaspoons garam masala
+- 2 tablespoons coriander powder
+- 3 teaspoons cumin powder
+- 2 teaspoons sugar
+- 20 oz pureed tomatoes
+- 2 cups hot water
+- 2 tablespoons kasuri methi (dried fenugreek leaves)
+- 1 cup heavy cream/whipping cream
 
 Garnish
-- 3 tablespoons heavy cream (or any cream)
-- 3 tablespoons cilantro (fine chopped)
+- 6 tablespoons heavy cream (or any cream)
+- 6 tablespoons cilantro (fine chopped)
 - Basmati rice or naan
 
 ## Directions
@@ -48,7 +48,7 @@ Marinated chicken
 4. Grill, bake, or skillet chicken until well-browned and 160F.
 
 Tikka gravy
-1. Heat oil or ghee in a pot or pan. Add onions and sprinkle 1 teaspoon salt. Saute until deep golden.
+1. Heat oil or ghee in a pot or pan. Add onions and sprinkle 2 teaspoons salt. Saute until deep golden.
 2. Add ginger garlic paste and green chili. Saute until aromatic, for 40 to 60 seconds.
 3. Reduce the heat to low. Add red chili powder, coriander powder, garam masala and cumin powder. Stir well quickly.
 4. Pour tomato puree and cook on a medium high heat until the onion tomato masala becomes really thick and begins to leave the sides of the pan.

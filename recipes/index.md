@@ -122,6 +122,7 @@ Breads
 
 - [Banana bread](Banana_bread.md)
 - [Grandma's rolls](Grandmas_rolls.md)
+- [Pretzels](Pretzels.md)
 - [Pumpkin bread](Pumpkin_bread.md)
 - [Zucchini bread](Zucchini_bread.md)
 
@@ -142,6 +143,7 @@ Sides
 - [Bacon dressing](Bacon_dressing.md)
 - [Hummus](Hummus.md)
 - [Obatzda](Obatzda.md)
+- [Obatzda (cooking class)](Obatzda_cooking_class.md)
 - [Salsa verde](Salsa_verde.md)
 
 
@@ -149,6 +151,7 @@ Misc
 ----
 
 - [Dry rub](Dry_rub.md)
+- [Garlicky dill pickles (no sugar, extra sour)](Garlicky_dill_pickles.md)
 
 
 Desserts
@@ -164,6 +167,7 @@ Desserts
 - [Fudge](Fudge.md)
 - [Haystacks](Haystacks.md)
 - [Hershey kiss peanut butter cookies](Hershey_kiss_peanut_butter_cookies.md)
+- [Kaiserschmarrn](Kaiserschmarrn.md)
 - [Lemon bars](Lemon_bars.md)
 - [Pie dough](Pie_dough.md)
 - [Pumpkin pie](Pumpkin_pie.md)
