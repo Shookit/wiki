@@ -10,7 +10,7 @@ Ingredients
 - 1 pound dry lentils, rinsed (about 2 1/2 cups)
 - 3 teaspoons ground cumin
 - 3 teaspoons ground coriander
-- 8 cups water
+- 6 cups water
 - 1/2 teaspoon ground cinnamon
 - Juice of 1 1/2 lemons, strained (about 5 tablespoons)
 - 2 teaspoons salt
