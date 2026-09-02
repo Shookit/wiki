@@ -153,5 +153,3 @@
 - [Kombucha](Kombucha.md)
 - [Masala chai](Masala_Chai.md)
 - [Matcha latte](Matcha_latte.md)
-
-## [Archived](archived/index.md)
