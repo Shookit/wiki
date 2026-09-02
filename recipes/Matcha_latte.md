@@ -2,6 +2,7 @@
 
 ## Ingredients
 
+- 1/4 cup water
 - 1 tsp matcha powder
 - 3/4 cup whole milk
 - Simple syrup

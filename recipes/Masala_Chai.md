@@ -4,20 +4,20 @@
 
 ### Initial boil
 
-- 6 cup water
+- 6 cups water
 - 1/2 cup sugar
 - 1/2 tsp cloves
-- 1/2 tsp black Peppercorns
+- 1/2 tsp black peppercorns
 - 2 black cardamom
 - 6 green cardamom pods
 - 6 bay leaves
 - 3 medium cinnamon sticks
-- 4 inches ginger
+- 4-inch piece of ginger root, peeled and chopped
 
 ### Final simmer
 
 - 1/4 cup black tea
-- 6 cup milk
+- 6 cups milk
 
 ## Directions
 

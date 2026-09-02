@@ -18,7 +18,7 @@ Fajitas
 
 - 1.5 lbs chicken breast, sliced into strips or cubes
 - 3 bell peppers (red, yellow, or green), sliced
-- 2 large onion, sliced
+- 2 large onions, sliced
 - 2 tablespoons olive oil
 - Salt and pepper to taste
 

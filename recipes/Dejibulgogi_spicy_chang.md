@@ -10,7 +10,7 @@
 - 1 Tbsp mirim (cooking wine)
 - 1 Tbsp minced garlic
 - 1 tsp sesame oil
-- 1 cup green onion
+- 4 green onions, sliced
 - 1/2 onion
 - 1 carrot, julienned
 - 1 green chili pepper

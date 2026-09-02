@@ -5,7 +5,7 @@
 - 12oz bacon
 - 1/4 tbsp vegetable oil
 - 1/2 cup white vinegar
-- 1/4 water
+- 1/4 cup water
 - 1/4 cup sugar
 - 1/2 cup minced red onion
 - 1 Tbsp corn starch

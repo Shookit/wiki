@@ -4,7 +4,7 @@
 
 - Chicken, thinly sliced (full breast into halves or thirds)
 - Brine
-  - 1 cups buttermilk
+  - 1 cup buttermilk
   - 2/3T kosher salt
   - 1T sugar
 - Flour coating

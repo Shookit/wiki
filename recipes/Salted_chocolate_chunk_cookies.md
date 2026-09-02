@@ -6,10 +6,10 @@
 - 4 tablespoons granulated sugar
 - 4 tablespoons turbinado sugar (aka Sugar in the Raw; you can use more brown or white if you don’t have this, but the subtle crunch it adds is delightful)
 - 1 3/4 cup packed light or dark brown sugar
-- 2 large egg
+- 2 large eggs
 - 2 teaspoon vanilla extract
 - 1 1/2 teaspoon baking soda
-- Heaped 3/4 teaspoon fine sea or table salt
+- 3/4 teaspoon kosher or finishing salt
 - 3 1/2 cups all-purpose flour
 - 1 pound semi- or bittersweet chocolate, cut into roughly 1/2-inch chunks with a serrated knife
 - Flaky sea salt, to finish

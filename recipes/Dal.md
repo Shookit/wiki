@@ -3,7 +3,7 @@
 ## Ingredients
 
 - For dal:
-  - 2 cup red and/or yellow lentils
+  - 2 cups red and/or yellow lentils
   - 1/2 jalapeno
   - 2 inch ginger, finely minced
   - 2 tsp turmeric pwd

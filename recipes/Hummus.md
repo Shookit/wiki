@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 can garbanzo beans (or 3 cups of cooked garbanzo beans)
+- 2 cans garbanzo beans (or 3 cups of cooked garbanzo beans)
 - 2/3 Cup(s) tahini
 - 1/2 Cup(s) lemon juice
 - 1 1/3 Teaspoon salt

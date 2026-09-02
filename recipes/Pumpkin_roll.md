@@ -15,7 +15,7 @@ Filling:
 
 - 1 package (8 ounces) cream cheese, softened
 - 1 tablespoon butter, softened
-- 1 cup powder sugar
+- 1 cup powdered sugar
 - 1 teaspoon vanilla
 
 ## Directions

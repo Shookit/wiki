@@ -4,10 +4,9 @@
 
 - 4 slices bacon, cut into small pieces
 - 2 1/2 pounds boneless beef chuck, cut into 2-inch pieces
-- 1 teaspoon salt, or more to taste
+- 1 1/2 teaspoons salt, or more to taste
 - freshly ground black pepper to taste
 - 2 onions, coarsely chopped
-- 1/2 teaspoon salt
 - 4 cloves garlic, minced
 - 1 (14.9 ounce) can dark beer (such as Guinness®)
 - 1/4 cup tomato paste

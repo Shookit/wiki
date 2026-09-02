@@ -5,7 +5,7 @@
 ### Base ingredients
 
 - 2 lb lean (at least 80%) ground beef
-- 2 large onion, chopped (2 cup)
+- 2 large onions, chopped (2 cup)
 - 8 cloves garlic, crushed
 - 2 28-oz can crushed tomatoes
 - 3 Tbsp fish sauce
@@ -17,11 +17,11 @@
 - 2 tsp dried oregano leaves
 - 2 tsp unsweetened baking cocoa
 - 1 tsp salt
-- 1 pinch cinnamon
+- a pinch of cinnamon
 
 ### Finishing
 
-- 2 can (19 oz) red kidney beans, drained
+- 2 cans (19 oz) red kidney beans, drained
 - 2 can black beans, drained
 
 ### Chili powder alternative

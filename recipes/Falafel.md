@@ -18,6 +18,6 @@
 
 1. Put the chickpeas in a large bowl and add enough cold water to cover them by at least 2 inches. Let soak overnight, then drain. Or use canned chickpeas, drained.
 2. Place the drained, uncooked chickpeas and the onions in the bowl of a food processor fitted with a steel blade. Add the parsley, cilantro, salt, hot pepper, garlic, and cumin. Process until blended but not pureed.
-3. Sprinkle in the baking powder and 4 tablespoons of the flour, and pulse. You want to add enough bulgur or flour **so that the dough no longer sticks to your hands**. Turn into a bowl and refrigerate, covered, for several hours.
+3. Sprinkle in the baking powder and 4 tablespoons of the flour, and pulse. You want to add enough flour **so that the dough no longer sticks to your hands**. Turn into a bowl and refrigerate, covered, for several hours.
 4. Form the chickpea mixture into balls about the size of walnuts, or use a falafel scoop, available in Middle-Eastern markets.
 5. Heat 3 inches of oil to 375 degrees in a deep pot or wok and fry 1 ball to test. If it falls apart, add a little flour. Then fry about 6 balls at once for a few minutes on each side, or until golden brown. Drain on paper towels.

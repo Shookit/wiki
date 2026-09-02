@@ -36,6 +36,6 @@ NOTE FOR NEXT TIME:
 4. Cut log into 12 or 16 even segments. 12 will make classic, generously-sized buns, as shown here. 16 will make more of a muffin-sized bun, and for some reason, smaller pans always look better to me with 8 buns in each.
 5. If you’re baking the buns now: Let buns rest at room temperature for 30 minutes to finish proofing. Heat oven to 350°F.
 6. If you’re baking the buns tomorrow morning: Lightly coat a piece (or pieces) of plastic with nonstick spray, cover your pan(s), and transfer them to the fridge to chill overnight. You can bake them directly from the fridge in the morning.
-7. Bake the buns: For 25 minutes, or until golden at edges and a toothpick inserted into the center of a few buns will come out with cinnamon goo on it, but not stretchy, uncooked dough.
+7. Bake the buns: Preheat oven to 350°F. Bake for 25 minutes, or until golden at edges and a toothpick inserted into the center of a few buns will come out with cinnamon goo on it, but not stretchy, uncooked dough.
 8. While the buns bake, make your glaze: In a large bowl, whisk together the cream cheese, powdered sugar, and vanilla until smooth.
 9. Finish and eat: When buns come out of the oven, cool on a rack for 5 minutes, then spoon cream cheese glaze on each. Eat right away, which I hope nobody was waiting for my permission to do.

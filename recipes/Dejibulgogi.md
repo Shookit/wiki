@@ -13,5 +13,5 @@
 
 ## Directions
 
-1. Marinade overnight
-2. Cook in a pan on stove, as high as possible, until slightly charred
+1. In a bowl, mix garlic, sesame oil, sugar, korean hot pepper paste, and black pepper. Add pork and toss to coat. Cover and refrigerate overnight.
+2. Cook in a pan on stove over high heat until slightly charred.

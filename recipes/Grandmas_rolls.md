@@ -7,7 +7,7 @@
 - 1/2 c. sugar
 - 4 1/2 c. sifted flour (try bread flour next time)
 - 1 t. salt
-- 2 1/4 t. yeast
+- 2 1/4 tsp yeast
 - 1 stick butter
 
 ## Directions

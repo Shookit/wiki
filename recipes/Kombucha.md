@@ -5,7 +5,7 @@
 - 14 cups water
 - 1 cup white sugar
 - 2 Tbsp black or green tea (jasmine or unflavored)
-- 2 cups (470 mL) unflavored kombucha (either from a previous batch or unpasteurized, unflavored store bought kombucha
+- 2 cups (470 mL) unflavored kombucha (either from a previous batch or unpasteurized, unflavored store bought kombucha)
 - 1 or 2 SCOBYs (1 per fermentation container being used)
 
 ## Directions

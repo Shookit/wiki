@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 cups camebert (or brie)
+- 2 cups camembert (or brie)
 - 2/3 cup marscapone (or cream cheese)
 - 1/2 cup butter
 - 1/2 cup shallot (or onion), finely minced

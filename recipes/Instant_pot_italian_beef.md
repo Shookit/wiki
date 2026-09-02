@@ -21,4 +21,4 @@
 2. Cook at high pressure for 55 minutes, and allow a full natural pressure release.
 3. Remove beef from pot and shred. Return beef to cooking pot.
 4. Butter inside of french bread, and sprinkle garlic powder. Broil until slightly golden. Add beef and cheese, and broil until melted.
-5. Place a pepperoncini peppers on top of meat. Serve with reserved juice, for dipping.
+5. Place pepperoncini peppers on top of meat. Serve with reserved juice, for dipping.

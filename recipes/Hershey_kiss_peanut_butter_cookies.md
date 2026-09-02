@@ -5,7 +5,7 @@
 - 48 HERSHEY'S KISSES Brand Milk Chocolates
 - 1/2 cup shortening
 - 3/4 cup REESE'S Creamy Peanut Butter
-- 1/3 cup granulated sugar
+- 1/3 cup granulated sugar, divided
 - 1/3 cup packed light brown sugar
 - 1 egg
 - 2 tablespoons milk
