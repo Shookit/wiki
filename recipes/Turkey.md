@@ -1,9 +1,6 @@
-Turkey
-======
+# Turkey
 
-
-Ingredients
------------
+## Ingredients
 
 - Turkey
 - Flour
@@ -13,9 +10,7 @@ Ingredients
 - Salt
 - Pepper
 
-
-Directions
-----------
+## Directions
 
 1. Apply [brine][Chicken_brine.md])
 2. Add [stuffing](Turkey_stuffing.md)

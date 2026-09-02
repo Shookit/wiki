@@ -1,8 +1,6 @@
-Salsa verde
-===========
+# Salsa verde
 
-Ingredients
------------
+## Ingredients
 
 - 15 medium tomatillos
 - 1/2 fresh jalapeno pepper
@@ -12,8 +10,7 @@ Ingredients
 - ~30 sprigs of cilantro minced
 - 2 teaspoon salt
 
-Directions
-----------
+## Directions
 
 1. Dehusk and wash tomatillos.
 2. Cut tomatillos in half, place on baking sheet. Broil for 7-9 minutes, until slightly charred.

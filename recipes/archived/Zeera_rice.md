@@ -1,8 +1,6 @@
-Zeera rice
-==========
+# Zeera rice
 
-Ingredients
------------
+## Ingredients
 
 - 2 c basmati rice
 - 3 c water
@@ -11,7 +9,6 @@ Ingredients
 - 1 T ghee or vegetable oil
 - fresh cilantro for garnish
 
-Directions
-----------
+## Directions
 
 1. Combine all ingredients in rice cooker

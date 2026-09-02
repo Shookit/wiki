@@ -1,16 +1,13 @@
-Mashed potatoes
-===============
+# Mashed potatoes
 
-Ingredients
------------
+## Ingredients
 
 - 6 medium potatoes
 - 2-4 T butter
 - salt to taste
 - milk
 
-Directions
-----------
+## Directions
 
 1. Boil potatoes until soft; drain
 2. Add butter to potatoes and a moderate amount of milk

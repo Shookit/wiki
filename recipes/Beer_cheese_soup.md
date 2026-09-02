@@ -1,8 +1,6 @@
-Beer cheese soup
-================
+# Beer cheese soup
 
-Ingredients
------------
+## Ingredients
 
 - 1 1/2 cups diced carrots
 - 1 1/2 cups diced onion
@@ -22,8 +20,7 @@ Ingredients
 - 2 teaspoons Worcestershire sauce
 - 1 teaspoon dry mustard
 
-Directions
-----------
+## Directions
 
 1. In a large saucepan over medium heat, stir together carrots, onion, celery, and garlic. Stir in hot pepper sauce, cayenne pepper, salt, and pepper. Pour in chicken broth and beer; simmer until vegetables are tender, about 12 minutes. Remove from heat.
 2. Meanwhile, heat butter in a large soup pot over medium-high heat. Stir in flour with a wire whisk; cook, stirring until the flour is light brown, about 3 or 4 minutes. Gradually stir in milk, whisking to prevent scorching, until thickened. Remove from heat, and gradually stir in cheese. Keep warm.

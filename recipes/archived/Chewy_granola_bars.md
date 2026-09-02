@@ -1,8 +1,6 @@
-Chewy granola bars
-==================
+# Chewy granola bars
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup oat flour\* (or 1 cup oats finely ground in food processor or blender)
 - 1 tsp baking powder
@@ -20,8 +18,7 @@ Ingredients
 - 1/2 cup raisins
 - 1/2 cup chopped pecans
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350°; line a 9 x 9 baking pan with 2 long pieces of parchment paper, long enough to go up over the sides for easy removal. Lightly spray with oil.
 2. In a medium bowl, whisk together oat flour, baking powder, baking soda, salt and cinnamon.

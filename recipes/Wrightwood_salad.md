@@ -1,8 +1,6 @@
-Wrightwood salad
-================
+# Wrightwood salad
 
-Ingredients
------------
+## Ingredients
 
 - Lettuce
 - Rotissary chicken
@@ -10,4 +8,3 @@ Ingredients
 - Goat cheese
 - Croutons
 - Lime vinaigrette dressing
-

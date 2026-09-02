@@ -12,7 +12,6 @@
 - Optional: 1 maraschino cherry, for garnish
 - Optional: 1 fresh pineapple slice, for garnish
 
-
 ## Directions
 
 1. Combine rum, orange juice, pineapple juice, lemon juice, grenadine, and simple syrup in a cocktail shaker filled with ice. Shake well, until the outside of the shaker becomes frosty.

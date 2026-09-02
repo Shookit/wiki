@@ -1,8 +1,6 @@
-Southwestern black bean, quinoa and mango medley
-================================================
+# Southwestern black bean, quinoa and mango medley
 
-Ingredients
------------
+## Ingredients
 
 - 15-ounce can black beans, no salt added, rinsed and drained
 - 1 cup quinoa, cooked according to package directions
@@ -19,8 +17,7 @@ Ingredients
 - 1/2 tsp chili powder
 - 1/4 tsp ground turmeric
 
-Directions
-----------
+## Directions
 
 1. Mix together the beans, quinoa, corn, bell pepper, mango, onion, cilantro, and jalapeño in a mixing bowl.
 2. Whisk together the lemon juice, olive oil, garlic, cumin, chili powder, and turmeric in a small bowl.

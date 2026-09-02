@@ -1,8 +1,6 @@
-Palak paneer
-============
+# Palak paneer
 
-Ingredients
------------
+## Ingredients
 
 - 2 bunches palak/Indian spinach
 - 1 big onion
@@ -24,8 +22,7 @@ Garam masala (to roast and powder):
 - 1 tsp pepper
 - 1 tsp cumin seeds
 
-Directions
-----------
+## Directions
 
 1. Clean the spinach and remove the stem part from the leaf. (Tear off any thick stem part in the middle of the leaves too..) Chop the onion and tomatoes finely.In a pan,heat 1/2 tsp of ghee and fry the items in the To roast and powder table. Add every thing together except cumin seeds and roast. Add cumin seeds lastly as it gets fried in no time. Do not burn anything which will turn the gravy bitter. Keep a side.I powdered this using a hand mortar and pestle in to a fine powder.
 2. In the same pan, add the washed palak leaves and fry till it reduces in volume. The water in the leaves is enough to make it shrink. If you need all few drops of oil while frying. I sautéed in two batches.Transfer to a plate and cool down.

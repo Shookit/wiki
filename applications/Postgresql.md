@@ -1,8 +1,6 @@
-Postgresql
-==========
+# Postgresql
 
-Dump and restore
-----------------
+## Dump and restore
 
 ### Dump
 
@@ -17,9 +15,7 @@ pg_dumpall > database.psql
 psql -f database.psql postgres
 ```
 
-
-SQL commands
-------------
+## SQL commands
 
 ```sql
 /* List databases */

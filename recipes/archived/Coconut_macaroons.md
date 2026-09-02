@@ -1,8 +1,6 @@
-Coconut macaroons
-=================
+# Coconut macaroons
 
-Ingredients
------------
+## Ingredients
 
 - 1 (14 oz.) can Eagle Brand® Sweetened Condensed Milk
 - 1 large egg white, beaten
@@ -11,8 +9,7 @@ Ingredients
 - 1/2 teaspoon almond extract
 - Semi-sweet chocolate chips (optional)
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 325°F. Line baking sheets with foil. Spray foil with flour no-stick cooking spray.
 2. Combine sweetened condensed milk, egg white, coconut and vanilla and almond extracts in large bowl; mix well. Drop by rounded teaspoonfuls onto prepared baking sheets.

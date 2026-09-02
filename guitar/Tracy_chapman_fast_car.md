@@ -1,6 +1,4 @@
-Tracy Chapman - Fast Car
-========================
-
+# Tracy Chapman - Fast Car
 
 ```
  Cmaj7

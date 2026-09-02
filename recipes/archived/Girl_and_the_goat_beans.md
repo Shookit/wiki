@@ -1,8 +1,6 @@
-Girl and the goat beans
-=======================
+# Girl and the goat beans
 
-Ingredients
------------
+## Ingredients
 
 - 2 oz. lemon juice
 - 2.5 oz. fish sauce
@@ -15,8 +13,7 @@ Ingredients
 - shallots
 - cashews
 
-Directions
-----------
+## Directions
 
 1. combine lemon juice, fish sauce, soy, dijon, garlic, and sriracha
 2. create ailoi - whisk together some of the vinaigrette and mayo until ailoi consistency

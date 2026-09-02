@@ -1,15 +1,12 @@
-Roti
-====
+# Roti
 
-Ingredients
------------
+## Ingredients
 
 - 2 Cups Wheat Flour
 - Water
 - Salt, to taste
 
-Directions
-----------
+## Directions
 
 1. Take wheat flour and make a well. Add water gradually, pinching into the flour, until a doughy consistnecy, and then knead the dough.
 2. When well kneaded, divide dough into 8-10 portions and roll into balls. Cover surface with flour, and roll thin.

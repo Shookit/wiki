@@ -1,12 +1,10 @@
-Redux
-=====
+# Redux
 
 Redux is useful for handling react application state. Instead of passing state updates between components (via props or callbacks on props), it behaves via action bubbling into reducers, which updates a global state. The end result is that you solely end up with a bunch props being passed in (either from react or redux) instead of this.state.
 
 In a single-page application, you'd start with a static initial state, and populate it either from AJAX or user interactions. If instead hydrating data from the backend, it will go into the initial state in the store.
 
-Main react entrypoint (adds store hooks to all sub-components)
---------------------------------------------------------------
+## Main react entrypoint (adds store hooks to all sub-components)
 
 ```
 <Provider store={store}>
@@ -14,9 +12,7 @@ Main react entrypoint (adds store hooks to all sub-components)
 </Provider>,
 ```
 
-
-Store
------
+## Store
 
 ```
 const today = new Date();
@@ -35,9 +31,7 @@ const state = {
 store = createStore(reducers, state);
 ```
 
-
-Reducer
--------
+## Reducer
 
 ```
 export function calendarReducer (state = {}, action) {
@@ -55,9 +49,7 @@ export function calendarReducer (state = {}, action) {
 }
 ```
 
-
-Component
----------
+## Component
 
 ```
 class Calendar extends React.Component {

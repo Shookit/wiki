@@ -1,8 +1,6 @@
-Cauliflower cheese
-==================
+# Cauliflower cheese
 
-Ingredients
------------
+## Ingredients
 
 - 1 medium head (about 2 to 2 1/4 pounds) cauliflower
 - 4 tablespoons (55 grams or 2 ounces) unsalted butter
@@ -14,8 +12,7 @@ Ingredients
 - 1 1/4 cups plus 2 tablespoons (about 155 grams or 5 1/2 ounces total) grated cheddar, the strongest you can get, \*preferably English or Irish
 - Chopped chives or flat-leaf parsley, for garnish (optional)
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 400 degrees.
 2. Trim cauliflower and remove tough core. Cut into 1 to 2-inch florets. Steam (for about 10 minutes) or par-boil (6 to 7 minutes) florets until firm but tender. Drain, if needed, and spread florets on a towel so that it can wick out as much moisture as possible

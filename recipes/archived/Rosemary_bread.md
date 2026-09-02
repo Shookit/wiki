@@ -1,8 +1,6 @@
-Rosemary bread
-==============
+# Rosemary bread
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup water
 - 3 tablespoons olive oil
@@ -14,7 +12,6 @@ Ingredients
 - 2 1/2 cups bread flour
 - 1 1/2 teaspoons active dry yeast
 
-Directions
-----------
+## Directions
 
 1. (Is it necessary to mix the yeast and sugar in hot water for 10 mins previous?) Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select white bread cycle; press Start.

@@ -1,8 +1,6 @@
-Peanut sauce
-============
+# Peanut sauce
 
-Ingredients
------------
+## Ingredients
 
 - 1/2 cup peanut butter
 - 1/4 cup hot water
@@ -17,7 +15,6 @@ Ingredients
 - 2 teaspoons red curry paste (optional, can omit or reduce red pepper flakes if including)
 - Salt, to taste
 
-Directions
-----------
+## Directions
 
 1. Blend all ingredients in a blender or food processor. Serve on top of steamed spinach or use as a veggie dip.

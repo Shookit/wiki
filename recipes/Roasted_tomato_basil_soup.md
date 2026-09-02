@@ -1,11 +1,9 @@
-Roasted tomato basil soup
-=========================
+# Roasted tomato basil soup
 
 - Double this recipe for next time.
 - Consider making it entirely from canned tomatoes
 
-Ingredients
------------
+## Ingredients
 
 - 3 pounds ripe plum tomatoes, cut in half lengthwise
 - 1/4 cup plus 2 tablespoons good olive oil
@@ -21,8 +19,7 @@ Ingredients
 - 2 cups chicken stock
 - Heavy cream (optional)
 
-Directions
-----------
+## Directions
 
 1. Preheat the oven to 400 degrees F. Toss together the tomatoes, 1/4 cup olive oil, salt, and pepper. Spread the tomatoes in 1 layer on a baking sheet and roast for 45 minutes.
 2. In an 8-quart stockpot over medium heat, saute the onions and garlic with 2 tablespoons of olive oil, the butter, and red pepper flakes for 10 minutes, until the onions start to brown. Add the canned tomatoes, basil, thyme, and chicken stock. Add the oven-roasted tomatoes, including the liquid on the baking sheet. Bring to a boil and simmer uncovered for 40 minutes. Pass through a food mill fitted with the coarsest blade. Taste for seasonings. Serve hot or cold.

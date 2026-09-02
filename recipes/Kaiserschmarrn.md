@@ -1,10 +1,8 @@
-Kaiserschmarrn
-==============
+# Kaiserschmarrn
 
 Serves 5
 
-Ingredients
------------
+## Ingredients
 
 - 4 eggs
 - 150 g flour
@@ -15,9 +13,7 @@ Ingredients
 - 2 T butter for caramelizing
 - 1/4 cup sugar for caramelizing
 
-
-Directions
-----------
+## Directions
 
 1. Mix eggs and sugar. Add the flour and the salt.
 2. Slowly add the milk to keep a smooth batter.

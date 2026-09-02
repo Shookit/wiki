@@ -1,8 +1,6 @@
-Calico beans
-============
+# Calico beans
 
-Ingredients
------------
+## Ingredients
 
 - 1/2 cup bacon, chopped
 - 1 pound lean ground beef
@@ -16,8 +14,7 @@ Ingredients
 - 3 tablespoons vinegar
 - 1 teaspoon mustard powder
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350 degrees F (175 C).
 2. Place bacon, ground beef, and onion in a large, deep skillet. Cook over medium high heat until evenly brown. Drain and set aside.

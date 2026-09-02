@@ -1,5 +1,4 @@
-Final ward
-==========
+# Final ward
 
 - 3/4 oz Rittenhouse 100 proof Rye Whiskey
 - 3/4 oz Green Chartreuse

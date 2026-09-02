@@ -1,8 +1,6 @@
-Banana bread
-============
+# Banana bread
 
-Ingredients
------------
+## Ingredients
 
 - 3 to 4 ripe bananas, smashed
 - 1/3 cup melted salted butter
@@ -17,8 +15,7 @@ Ingredients
 - Pinch of ground cloves
 - 1 1/2 cups flour
 
-Directions
-----------
+## Directions
 
 1. Preheat the oven to 350°F.
 2. With a wooden spoon, mix butter into the mashed bananas in a large mixing bowl.

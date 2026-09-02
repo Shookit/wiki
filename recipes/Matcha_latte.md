@@ -1,16 +1,13 @@
-Matcha Latte
-============
+# Matcha Latte
 
-Ingredients
------------
+## Ingredients
 
 - 1 tsp matcha powder
 - 3/4 cup whole milk
 - Simple syrup
 - Ice
 
-Directions
-----------
+## Directions
 
 1. Heat water to 180 degrees
 2. Fill glass with hot water to preheat glass

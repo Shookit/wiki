@@ -1,8 +1,6 @@
-Hollandaise sauce
-=================
+# Hollandaise sauce
 
-Ingredients
------------
+## Ingredients
 
 - 3 egg yolks
 - 1 tablespoon water
@@ -10,8 +8,7 @@ Ingredients
 - 6-8 ounces very soft unsalted butter
 - 1 dash cayenne pepper salt, to taste fresh ground white pepper, to taste
 
-Directions
-----------
+## Directions
 
 1. Whisk the yolks, water, and lemon juice in the saucepan for a few moments, until thick and pale.
 2. Set the pan over LOW heat and continue to whisk at reasonable speed, reaching all over the bottom and insides of the pan, where the eggs tend to overcook.

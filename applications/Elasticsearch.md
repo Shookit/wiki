@@ -1,13 +1,10 @@
-Elasticsearch
-=============
+# Elasticsearch
 
-General
--------
+## General
 
 Watch out for how many indexed fields you have. Each of these must be searched when making a query, so it can lead to significant slowdowns. Disable unnecessary ones.
 
-Queries
--------
+## Queries
 
 ### Get data from index
 
@@ -42,7 +39,6 @@ curl -XGET http://localhost:9200/someindex/_search?format=yaml\&sort=@timestamp:
 }'
 ```
 
-
 ### Search by some ID w/ wildcards and nested
 
 ```bash
@@ -59,7 +55,6 @@ curl -XGET http://localhost:9200/someindex/_search?format=yaml\&sort=@timestamp:
     }
 }' > out.yml
 ```
-
 
 ### Search by ids and time
 
@@ -113,9 +108,7 @@ curl -H "Content-Type: application/json" -XGET localhost:9200/_search?format=yam
 }'
 ```
 
-
-Indices/templates
------------------
+## Indices/templates
 
 ### See all indices
 
@@ -298,7 +291,6 @@ PUT _index_template/application-logs
 }
 ```
 
-
 ### Add data to index
 
 ```bash
@@ -325,10 +317,7 @@ curl -XPUT localhost:9200/tst-x/type1/3 -H 'Content-Type: application/json' -d '
 '
 ```
 
-
-Elasticsearch Python scroll
----------------------------
-
+## Elasticsearch Python scroll
 
 ```python
 import elasticsearch
@@ -396,13 +385,10 @@ while (scroll_size > 0):
     scroll_size = len(page['hits']['hits'])
 ```
 
-
-Kibana queries
---------------
+## Kibana queries
 
 ### See if a field exists
 
 ```
 _exists_:@fields.@message
 ```
-

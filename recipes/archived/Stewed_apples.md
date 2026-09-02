@@ -1,8 +1,6 @@
-Stewed apples
-=============
+# Stewed apples
 
-Ingredients
------------
+## Ingredients
 
 - 4 tablespoons butter
 - 7 cups cooking apples (thinly sliced, approximately 6, I like Granny Smith)
@@ -14,8 +12,7 @@ Ingredients
 - On Sale Near You
 - See what's on sale in recipes and in your Grocery List.
 
-Directions
-----------
+## Directions
 
 1. In a 10" skillet (w/lid) melt butter over medium heat; turn off heat.
 2. Mix in sugar and brown sugar, cinnamon, nutmeg and add 1/2 cup water, stirring to combine.

@@ -1,8 +1,6 @@
-Barenaked Ladies - Brian Wilson
-===============================
+# Barenaked Ladies - Brian Wilson
 
-
-This is Steven Page's own version of the tab.  He does not use the 7th chords that the other
+This is Steven Page's own version of the tab. He does not use the 7th chords that the other
 tabs on here have. <https://youtu.be/aDS2GkMvhmk> is Steven himself giving you the
 exact chords and tutorial for the song.
 

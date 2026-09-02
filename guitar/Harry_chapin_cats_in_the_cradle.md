@@ -1,6 +1,4 @@
-Harry Chapin - Cat's in the Cradle
-==================================
-
+# Harry Chapin - Cat's in the Cradle
 
 ```
   Em7       G/F#       Em/D      Em/B

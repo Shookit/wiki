@@ -1,8 +1,6 @@
-MySQL
-=====
+# MySQL
 
-Get size of all tables
-----------------------
+## Get size of all tables
 
 ```
 SELECT

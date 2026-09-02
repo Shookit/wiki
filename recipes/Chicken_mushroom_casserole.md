@@ -1,8 +1,6 @@
-Chicken mushroom casserole
-==========================
+# Chicken mushroom casserole
 
-Ingredients
------------
+## Ingredients
 
 - 2 cans condensed cream of mushroom soup
 - 1 cup milk
@@ -17,9 +15,7 @@ Ingredients
 - 1/2 cup sour cream
 - 2 cups shredded mozzarella cheese
 
-
-Directions
-----------
+## Directions
 
 1. Preheat oven to 425°.
 2. In an 8x12" casserole dish, whisk together condensed soup, milk, chicken broth, thyme, salt, garlic powder, and pepper. Stir in mushrooms, raw chicken, and uncooked pasta.

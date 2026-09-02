@@ -1,8 +1,6 @@
-Frank's buffalo chicken dip
-===========================
+# Frank's buffalo chicken dip
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups shredded cooked chicken
 - 1 (8 oz. pkg.) cream cheese, softened
@@ -10,8 +8,7 @@ Ingredients
 - 1/2 cup Hidden Valley® Original Ranch® Dressing
 - 1/2 cup crumbled bleu cheese or your favorite shredded cheese
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350°F.
 2. Combine all ingredients and spoon into shallow 1-quart baking dish.

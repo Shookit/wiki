@@ -1,8 +1,6 @@
-Chicken divan
-=============
+# Chicken divan
 
-Ingredients
------------
+## Ingredients
 
 - 1/2 cup mayo
 - 2 cans cream of chicken soup
@@ -13,9 +11,7 @@ Ingredients
 - 1/2 cup bread crumbs
 - Juice from 1 lemon
 
-
-Directions
-----------
+## Directions
 
 1. Layer brocolli, then chicken in pan
 2. Pour over mayo, cream of chicken soup, and curry powder mixture

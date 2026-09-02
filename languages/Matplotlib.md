@@ -1,8 +1,6 @@
-Matplotlib
-==========
+# Matplotlib
 
-Setup
------
+## Setup
 
 ```python
 # Get a new figure
@@ -21,8 +19,7 @@ fig.savefig("motivating1.pdf")
 pyplot.close()
 ```
 
-Labels and legends
-------------------
+## Labels and legends
 
 ```python
 # Set label
@@ -76,8 +73,7 @@ def to_percent(y, position):
 axis.get_xaxis().set_major_formatter(matplotlib.ticker.FuncFormatter(to_percent))
 ```
 
-Plots
------
+## Plots
 
 ### New x/y plot
 
@@ -117,8 +113,7 @@ axis_rate.set_xticklabels(data_labels)
 Use seaborn-specific boxplot for better looking plots
 ```
 
-Seaborn
--------
+## Seaborn
 
 Library built on top of matplotlib. Generally prettier looking, and has some interesting color palette support, but has some strange (nasty global) behavior.
 

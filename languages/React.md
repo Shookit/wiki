@@ -1,12 +1,8 @@
-React
-=====
+# React
 
-
-Basics
-------
+## Basics
 
 The JSX extension allows standard-formatted HTML inside of javascript. This also allows for the use of templated calls to other JS functions, which cuts down on extra typing significantly:
-
 
 ```
 function getGreeting(user) {
@@ -18,7 +14,6 @@ function getGreeting(user) {
 ```
 
 Since JSX is not a standard web language, babel is required to convert JSX to plain Javascript. Babel compiles JSX elements down to React.createElement() calls:
-
 
 ```
 const element = (
@@ -39,9 +34,7 @@ const element = React.createElement(
 
 The React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state. Hence, if you re-render an element with, say, the just content of an `<H1>` changed, react's virtual DOM diffing functionality will only update what changed in the actual DOM, rather than re-rendering the entire element.
 
-
-Components
-----------
+## Components
 
 Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called "props") and return React elements describing what should appear on the screen.
 
@@ -77,9 +70,7 @@ React is very explicit in emphasizing that
 
 > All React components must act like pure functions with respect to their props
 
-
-Component state
----------------
+## Component state
 
 ```
 class Clock extends React.Component {
@@ -142,9 +133,7 @@ this.setState((prevState, props) => ({
 
 Neither parent nor child components can know if a certain component is stateful or stateless, and they shouldn't care whether it is defined as a function or a class. This is why state is often called local or encapsulated. It is not accessible to any component other than the one that owns and sets it. This is commonly called a "top-down" or "unidirectional" data flow. Any state is always owned by some specific component, and any data or UI derived from that state can only affect components "below" them in the tree.
 
-
-Events
-------
+## Events
 
 ```
 class Toggle extends React.Component {
@@ -172,9 +161,7 @@ class Toggle extends React.Component {
 }
 ```
 
-
-Lists and Keys
---------------
+## Lists and Keys
 
 Lists of elements can be rendered directly to the DOM.
 
@@ -203,13 +190,11 @@ ReactDOM.render(
 );
 ```
 
-The only item to note is that a 'key' should be provided when using lists of elements. Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.  The best way to pick a key is to use a string that uniquely identifies a list item among its siblings. Most often you would use IDs from your data as keys. When you don't have stable IDs for rendered items, you may use the item index as a key as a last resort. A good rule of thumb is that elements inside the map() call need keys.
+The only item to note is that a 'key' should be provided when using lists of elements. Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity. The best way to pick a key is to use a string that uniquely identifies a list item among its siblings. Most often you would use IDs from your data as keys. When you don't have stable IDs for rendered items, you may use the item index as a key as a last resort. A good rule of thumb is that elements inside the map() call need keys.
 
 This is used by the tree diffing system to avoid re-rendering entire trees when just a single element is added.
 
-
-Forms
------
+## Forms
 
 React takes over standard form handling (including typing), so you will manually handle changes made by the user via keyboard.
 This is true for radio buttons and text fields.
@@ -254,9 +239,7 @@ class FlavorForm extends React.Component {
 }
 ```
 
-
-Rendering notes
----------------
+## Rendering notes
 
 Don't put much logic inside `render` besides basic elements and properties; all logic should get figured out by in component functions (or sub-components' functions). Can maybe put a 'map' in render, but use sparingly. Render must return a react element. A list is not a react element, but a list encapsulated in a DOM element is.
 
@@ -291,9 +274,7 @@ class Group extends React.Component {
 }
 ```
 
-
-Binds
------
+## Binds
 
 Callbacks (e.g., onClick) requires the function to be bound if 'this' is anywhere in the callback.
 There are 4 ways of accomplishing this:
@@ -319,12 +300,9 @@ handleChange = () => {
 
 ```
 
-
-propTypes
----------
+## propTypes
 
 Proptypes let you do dynamic typechecking on components constructors. This is useful for documenting and checking constructor parameters.
-
 
 ```
 SomeComponent.propTypes = {

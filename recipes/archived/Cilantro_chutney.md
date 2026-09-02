@@ -1,8 +1,6 @@
-Cilantro chutney
-================
+# Cilantro chutney
 
-Ingredients
------------
+## Ingredients
 
 - Bunch of cilantro
 - 4-5 green Chilies
@@ -11,7 +9,6 @@ Ingredients
 - 4-5 drops mustard oil
 - Salt to taste
 
-Directions
-----------
+## Directions
 
 1. Blend ingredients together (or use mortar and pestle). Can serve it with Parokas or Parathas.

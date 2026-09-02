@@ -1,8 +1,6 @@
-Shrimp quesadillas with tomato avocado salsa
-============================================
+# Shrimp quesadillas with tomato avocado salsa
 
-Ingredients
------------
+## Ingredients
 
 - 1 medium tomato, diced
 - 1 hass avocado, diced
@@ -21,8 +19,7 @@ Ingredients
 - 6 oz Cabot's 75% Light Vermont Cheddar, shredded
 - 8 (6") low carb whole wheat flour tortillas (I used La Tortilla Factory)
 
-Directions
-----------
+## Directions
 
 1. In a medium bowl, combine tomatoes, avocado, red onion, lime juice, cilantro, salt and pepper.
 2. Season shrimp with salt, pepper, cumin, and garlic powder. Lightly spray a hot skillet on medium heat with cooking spray, add shrimp and scallions. Cook 2-3 minutes on each side until shrimp is cooked though. Remove from heat and cut shrimp in half lengthwise, set aside.

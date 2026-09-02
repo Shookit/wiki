@@ -1,8 +1,6 @@
-Lemon cake
-==========
+# Lemon cake
 
-Ingredients
------------
+## Ingredients
 
 ### Cake
 
@@ -17,22 +15,17 @@ Ingredients
 - 3/4 cup buttermilk
 - 1 teaspoon vanilla extract
 
-
 ### Syrup
 
 - 1/2 cup sugar
 - 1/2 cup lemon juice
-
 
 ### Glaze
 
 - 2 cups confectioners sugar
 - 3 1/2 tablespoons lemon juice
 
-
-
-Directions
-----------
+## Directions
 
 1. Heat oven to 350 degrees F. Grease and flour bundt cake pan.
 2. Cream butter and in the bowl of an electric mixer fitted with a paddle attachment for about 5 minutes, or until light and fluffy. Mixing at medium speed, add eggs, one at a time.

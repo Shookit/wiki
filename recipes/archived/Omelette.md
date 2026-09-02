@@ -1,8 +1,6 @@
-Omelette
-========
+# Omelette
 
-Ingredients
------------
+## Ingredients
 
 - Green pepper
 - Mushrooms
@@ -13,8 +11,7 @@ Ingredients
 - Salt and pepper
 - Hot sauce
 
-Directions
-----------
+## Directions
 
 1. Saute green peppers, mushrooms, onions, etc. in pan until tender
 2. Beat 3 eggs in a bowl, add to mixture pan once cooked. Reduce heat to low and cover until all but top of eggs are cooked.

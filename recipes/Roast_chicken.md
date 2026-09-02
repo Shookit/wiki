@@ -1,8 +1,6 @@
-Roast chicken
-=============
+# Roast chicken
 
-Ingredients
------------
+## Ingredients
 
 - 1 (5 to 6 pound) roasting chicken
 - Kosher salt
@@ -16,8 +14,7 @@ Ingredients
 - 2-3 potatoes, diced
 - Olive oil
 
-Directions
-----------
+## Directions
 
 1. Preheat the oven to 425 degrees F.
 2. Remove the chicken giblets. Rinse the chicken inside and out. Remove any excess fat and leftover pin feathers and pat the outside dry. Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken. Place the onions, carrots, and fennel in a roasting pan. Toss with salt, pepper, 20 sprigs of thyme, and olive oil. Spread around the bottom of the roasting pan and place the chicken on top.

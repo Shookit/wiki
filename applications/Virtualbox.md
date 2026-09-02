@@ -1,8 +1,6 @@
-Virtualbox
-==========
+# Virtualbox
 
-Compress Virtualbox image
--------------------------
+## Compress Virtualbox image
 
 ### Reclaim space
 
@@ -61,7 +59,6 @@ sudo shutdown now
 VBoxManage modifyhd --compact "C:\Users\Shook\VirtualBox VMs\Arch\Arch 2-disk1.vdi"
 ```
 
-VM options
-----------
+## VM options
 
 Use all available logical CPUs (not just physical ones)

@@ -1,8 +1,6 @@
-Mall chicken
-============
+# Mall chicken
 
-Ingredients
------------
+## Ingredients
 
 - 1/3 C honey
 - 1/4 C ketchup
@@ -11,14 +9,13 @@ Ingredients
 - 2 T brown sugar
 - 1 T minced garlic
 - 2 lbs boneless, skinless chicken thighs or breasts, or a mix, cut into 1" pieces
-- + kosher salt
+- - kosher salt
 - 1/4 C cornstarch
 - 1 T oil
 - 2 T sesame seeds, for topping
-- + cooked white rice, for serving (optional)
+- - cooked white rice, for serving (optional)
 
-Directions
-----------
+## Directions
 
 1. Heat the oven to 375°F.
 2. Whisk the honey, ketchup, soy sauce, vinegar, sugar, and garlic in a bowl until smooth.

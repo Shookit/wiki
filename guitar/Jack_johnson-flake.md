@@ -1,6 +1,4 @@
-Jack Johnson - Flake
-====================
-
+# Jack Johnson - Flake
 
 ```
    Dm         F          Bb

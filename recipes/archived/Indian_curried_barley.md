@@ -1,8 +1,6 @@
-Indian curried barley
-=====================
+# Indian curried barley
 
-Ingredients
------------
+## Ingredients
 
 - 1/4 cup butter
 - 1 onion, diced
@@ -16,8 +14,7 @@ Ingredients
 - 1/4 cup slivered almonds
 - 1/4 cup raisins (optional)
 
-Directions
-----------
+## Directions
 
 1. Melt butter in a large skillet placed over medium-high heat. Add the onion and barley; cook, stirring frequently, until the onion begins to soften, about 5 minutes. Stir in the allspice, turmeric, curry powder, salt, and black pepper. Pour in the chicken broth, and bring to a simmer.
 2. Cover skillet with lid, and reduce heat to low; simmer until the barley is tender, about 30 to 40 minutes. Fluff the pilaf with a fork, and gently stir in the slivered almonds and raisins.

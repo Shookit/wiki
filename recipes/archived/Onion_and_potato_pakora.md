@@ -1,8 +1,6 @@
-Onion and potato pakora
-=======================
+# Onion and potato pakora
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup gram flour (besan or chick pea flour)
 - 1/2 t cumin
@@ -14,8 +12,7 @@ Ingredients
 - 2 potatoes, thinly sliced
 - salt to taste
 
-Directions
-----------
+## Directions
 
 1. Heat The 03 Cups of Oil into the pan
 2. Combine gram flour, cumin, red chili, turmeric, finely sliced chili, and salt to taste. Mix it well with water. Add the water slowly to get a paste.

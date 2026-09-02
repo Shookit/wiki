@@ -1,8 +1,6 @@
-Cocktails
-=========
+# Cocktails
 
-Rum
----
+## Rum
 
 - [Daiquiri](Daiquiri.md)
 - [Blue Hawaii](Blue_hawaii.md)
@@ -14,9 +12,7 @@ Rum
 - [Pina colada](Pina_colada.md)
 - [Planters punch](Planters_punch.md)
 
-
-Whisky
-------
+## Whisky
 
 - [Boulevardier](The_Boulevardier.md)
 - [Final Ward](Final_ward.md)
@@ -30,9 +26,7 @@ Whisky
 - [Whisky smash](Whisky_smash.md)
 - [Whisky sour](Whisky_sour.md)
 
-
-Gin
----
+## Gin
 
 - [Aviation](Aviation.md)
 - [Bramble](Bramble.md)
@@ -44,37 +38,27 @@ Gin
 - [Southside](Southside.md)
 - [Strawberry mint gimlet](Strawberry_mint_gimlet.md)
 
-
-Tequila
--------
+## Tequila
 
 - [Hibiscus margarita](Hibiscus_margarita.md)
 - [Margarita](Margarita.md)
 
-
-Brandy
-------
+## Brandy
 
 - [Brandy slush](Brandy_slush.md)
 - [Egg nog](Egg_nog.md)
 - [Sidecar](Sidecar.md)
 - [Vieux Carre](Vieux_carre.md)
 
-
-Wine
-----
+## Wine
 
 - [Mulled wine](Mulled_wine.md)
 - [Sangria](Sangria.md)
 
-
-Beer
-----
+## Beer
 
 - [Spaghett](Spaghett.md)
 
-
-Other
------
+## Other
 
 - [Milk clarification](Milk_clarification.md)

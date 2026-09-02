@@ -1,8 +1,6 @@
-Nashville hot fried chicken
-===========================
+# Nashville hot fried chicken
 
-Ingredients
------------
+## Ingredients
 
 - 2 3 1/2-4-pound chickens, each cut into 10 pieces (breasts halved)
 - 1 tablespoon freshly ground black pepper
@@ -18,8 +16,7 @@ Ingredients
 - 1 teaspoon garlic powder
 - 1 teaspoon paprika
 
-Directions
-----------
+## Directions
 
 1. Toss chicken with black pepper and 2 tablespoon salt in a large bowl. Cover and chill at least 3 hours.
 2. Whisk eggs, buttermilk, and hot sauce in a large bowl. Whisk flour and remaining 4 teaspoons salt in another large bowl.

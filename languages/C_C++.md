@@ -1,43 +1,34 @@
-C/C++
-=====
+# C/C++
 
-Data types
-----------
+## Data types
 
 - std::map
 - std::vector (vector is array implementation, list is pointer implementation; typically prefer vector for general purpose)
 - std::set
 
-
-Syntax/general notes
-------------
+## Syntax/general notes
 
 ### Typedeffing
 
 Using something like `typedef struct usb_dev_handle usb_dev_handle` in a library declares the struct, but doesn't actually define it. This is used in situations where a library is trying to completely hide the implementation details within the header.
 
-
 ### Callbacks
 
 Member functions aren't allowed, since the caller would need the full object+state.
-
 
 ### Common naming scheme
 
 - mFoo = member variable
 - pFoo = pointer
 
-
 ### Incrementing
 
 Pre-increment ++i increments the value of i and evaluates to the new incremented value. Post-increment i++ increments the value of i and evaluates to the original non-incremented value. Probably generally better to do this explicitly for clarity's sake.
-
 
 ### Volatile variables
 
 - volatile is (nearly) useless for platform-agnostic, multithreaded application programming. It does not provide any synchronization, it does not create memory fences, nor does it ensure the order of execution of operations. It does not make operations atomic. It does not make your code magically thread safe.
 - Volatile was specifically intended to be used when interfacing with memory-mapped hardware, signal handlers and the setjmp machine code instruction. One use is to prevent an optimizing compiler from removing a chunk of code where it assumes a variable will never change (but actually can due to I/O mapped nature).
-
 
 ### Headers
 
@@ -54,9 +45,7 @@ Pre-increment ++i increments the value of i and evaluates to the new incremented
 - `new` should be used as little as possible in C++; use a wrapper function which allocates (and deallocates!) data automatically for you! <http://stackoverflow.com/questions/6500313/why-should-new-be-used-as-little-as-possible>
 - The 100% only time that you will ever need to use `free` is on `malloc`/`calloc`/`realloc`'ed data.
 
-
-Object-oriented programming
----------------------------
+## Object-oriented programming
 
 ### Scope
 
@@ -68,22 +57,18 @@ Inheritance with : during class declaration. Inherit protected and public variab
 
 Multiple inheritance is allowed (but probably use interfaces instead): `class CRectangle: public CPolygon, public COutput{ }`
 
-
 ### Overloading
 
 Basic operators are overloadable. Can create a 'vector class' where you would 'add' two classes together. Would normally fail unless you overload this w/ 'operator' designation.
-
 
 ### Struct vs class
 
 In a class definition, the default access for members and base classes is private. In a struct definition, the default is public. That is the only difference between a class and a struct, although by convention, some programmers use struct only for POD (plain old data) classes and use class for all other classes.
 
-
 ### Static variables and functions
 
 - Normally `static` means that a variable has static duration - is allocated at the beginning of the program and exists for the whole duration. Thus, variables are shared between all object instances of a class ('class variable'). Static functions can be called them without instantiating an object ('instance method' vs 'class method').
-- C has no objects, thus `static` has a different meaning: the function or variable is only accessible via functions inside the same source file, comparable to private functions and members in C++, Java and C\#.
-
+- C has no objects, thus `static` has a different meaning: the function or variable is only accessible via functions inside the same source file, comparable to private functions and members in C++, Java and C#.
 
 ### Templates
 
@@ -121,59 +106,50 @@ Colon after constructor is an 'initialization list'. By default, when you initia
 
 Default constructor = the constructor with no arguments.
 
-
-Pointers and references
------------------------
+## Pointers and references
 
 - When declaring variables, a reference is effectively just an alias for a variable name that you can't do pointer arithmetic on. In C++, only use pointers when you plan on using pointer arithmetic; otherwise use a reference.
-    - Pointer: `*`
-    - Reference: `&`
+  - Pointer: `*`
+  - Reference: `&`
 - Pointer manipulation
-    - `&`: "Address of"
-    - `*`: "Value pointed by"
-    - void\* = generic pointer: can later cast to whatever necessary data type
+  - `&`: "Address of"
+  - `*`: "Value pointed by"
+  - void\* = generic pointer: can later cast to whatever necessary data type
 - Pass by value:
-    - `funct(Objecttype obj)`
+  - `funct(Objecttype obj)`
 - Pass by reference
-    - `funct(Objecttype \*obj)`
-    - `funct(Objecttype &obj)`
-    - The pointer (`*`) will have to be de-reffed (`*`) to access the member functions or variables. The reference (`&`) is automatically de-reffed, and can be used as if you are directly manipulating the object, even though you are just manipulating a reference to the object.
+  - `funct(Objecttype \*obj)`
+  - `funct(Objecttype &obj)`
+  - The pointer (`*`) will have to be de-reffed (`*`) to access the member functions or variables. The reference (`&`) is automatically de-reffed, and can be used as if you are directly manipulating the object, even though you are just manipulating a reference to the object.
 - References can't change value.
 - References don't exist in C.
 
+## C vs C++
 
-
-C vs C++
---------
-
-- C uses <stdio.h>, the C++ equivalent library is <cstdio>. Even better, <iostream> enables `cout <<` style-print statments, which are generally easier to work with.
+- C uses \<stdio.h>, the C++ equivalent library is <cstdio>. Even better, <iostream> enables `cout <<` style-print statments, which are generally easier to work with.
 - C uses malloc/free, C++ uses new/delete
 - Since C++ has overloading of function names and C does not, the C++ compiler cannot just use the function name as a unique id to link to, so it mangles the name by adding information about the arguments. A C compiler does not need to mangle the name since you can not overload function names in C. When you state that a function has extern "C" linkage in C++, the C++ compiler does not add argument/parameter type information to the name used for linkage.
 - C++ has:
-    - Namespaces
-    - Class encapsulation
-    - Templates
-    - Streams
-    - Inheritance
-    - Virtual methods
-    - Overloaded operators
-    - Reference passing (& in the function arguments)
-    - Exceptions
+  - Namespaces
+  - Class encapsulation
+  - Templates
+  - Streams
+  - Inheritance
+  - Virtual methods
+  - Overloaded operators
+  - Reference passing (& in the function arguments)
+  - Exceptions
 
+## Windows C/C++/C# Flavors
 
-Windows C/C++/C# Flavors
-------------------------
-
-- C\# and Visual Basic are the two primary .NET languages. There are also languages such as C++/CLI (CLR) and J\#, but they are not as commonly used. Just a side note, C++/CLI (CLR) is different than simple C++; C++ runs native (non-bytecode) programs, while C++/CLI (CLR) is first translated into .NET bytecode, and then finally run on the .NET virtual machine. All of these languages are the standard within Visual Studio.
+- C# and Visual Basic are the two primary .NET languages. There are also languages such as C++/CLI (CLR) and J#, but they are not as commonly used. Just a side note, C++/CLI (CLR) is different than simple C++; C++ runs native (non-bytecode) programs, while C++/CLI (CLR) is first translated into .NET bytecode, and then finally run on the .NET virtual machine. All of these languages are the standard within Visual Studio.
 - MFC is a C++ wrapper for the Win32 API. This is starting to age, and is falling out of support by Microsoft.
 - Use Qt if you need to use C++ and/or need cross-platform.
-- WPF is a C\# (.NET) library - currently the most state-of-the-art GUI library supported by microsoft. Does need .NET, though, so don't use if the .NET requirement is a problem.
-- MFC is a framework for creating GUI applications in native (unmanaged) C++ like the C++ you learned in college. The .NET Framework supports writing managed code in C++/CLI, C\#, VB.NET or a number of other languages. There are two ways of building a desktop GUI application on the .NET Framework - Windows Forms and WPF. Windows Forms is older and no longer under active development. WPF is newer.
-- If you know C++ and intend to deploy to machines without the .NET Framework, MFC is a good choice. It creates modern-looking UIs and supports Windows 7 features. If you're willing to learn C\# and deploy to machines with the .NET Framework, consider WPF or Windows Forms. For your basic "drag on a button, double-click to edit the handler, type some code in the click handler" apps there is no difference between them. WPF has better support for graphical coolness (gradients, transparency) and for multi-touch, Windows 7 goodies etc. Some people find it harder to learn, but I think that's just because they learned Windows Forms ages ago. If you're starting from nothing you could learn either and might as well learn the newer one.
+- WPF is a C# (.NET) library - currently the most state-of-the-art GUI library supported by microsoft. Does need .NET, though, so don't use if the .NET requirement is a problem.
+- MFC is a framework for creating GUI applications in native (unmanaged) C++ like the C++ you learned in college. The .NET Framework supports writing managed code in C++/CLI, C#, VB.NET or a number of other languages. There are two ways of building a desktop GUI application on the .NET Framework - Windows Forms and WPF. Windows Forms is older and no longer under active development. WPF is newer.
+- If you know C++ and intend to deploy to machines without the .NET Framework, MFC is a good choice. It creates modern-looking UIs and supports Windows 7 features. If you're willing to learn C# and deploy to machines with the .NET Framework, consider WPF or Windows Forms. For your basic "drag on a button, double-click to edit the handler, type some code in the click handler" apps there is no difference between them. WPF has better support for graphical coolness (gradients, transparency) and for multi-touch, Windows 7 goodies etc. Some people find it harder to learn, but I think that's just because they learned Windows Forms ages ago. If you're starting from nothing you could learn either and might as well learn the newer one.
 
-
-Libraries
----------
+## Libraries
 
 A library is a package of code that is meant to be reused by many programs. Typically, a C++ library comes in two pieces:
 
@@ -196,9 +172,7 @@ If you don't have a .lib file, or want control over when the .dll is loaded, you
 
 Windows, by default, will look for .dll files in the application's current directory, as well as the path variable. To inspect what is contained within a .dll file on Windows, use the dumpbin utility. To see what dlls are being loaded in Windows, use the process explorer (sysinternals).
 
-
-Qt
----
+## Qt
 
 ### Qobjects
 

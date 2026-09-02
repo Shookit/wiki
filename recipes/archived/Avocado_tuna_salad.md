@@ -1,8 +1,6 @@
-Avocado tuna salad
-==================
+# Avocado tuna salad
 
-Ingredients
------------
+## Ingredients
 
 - 2 5oz cans of tuna
 - 1 avocado
@@ -12,7 +10,6 @@ Ingredients
 - Hardboiled egg, optional
 - Parmesan cheese, optional
 
-Directions
-----------
+## Directions
 
 1. Mix dat up

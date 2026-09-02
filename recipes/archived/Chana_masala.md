@@ -1,8 +1,6 @@
-Chana masala
-============
+# Chana masala
 
-Ingredients
------------
+## Ingredients
 
 - 2 tablespoons vegetable oil
 - 4 medium onions, minced
@@ -23,8 +21,7 @@ Ingredients
 - 1 teaspoon salt
 - 1 lemon (juiced) (see note; I used an extra lemon to swap for the amchoor powder)
 
-Directions
-----------
+## Directions
 
 1. Heat oil in a large skillet. Add onion, garlic, ginger and pepper and sauté over medium heat until browned, about 5 minutes. Turn heat down to medium-low and add the coriander, cumin, cayenne, turmeric, cumin seeds, amchoor (if using it), paprika and garam masala. Cook onion mixture with spiced for a minute or two, then add the tomatoes and any accumulated juices, scraping up any bits that have stuck to the pan. Add the water and chickpeas. Simmer until reduced to a thicker gravy (15-30 minutes), then stir in salt and lemon juice.
 2. Eat up or put a lid on it and reheat it when needed. Curries such as this reheat very well, later or or in the days that follow, should it last that long.

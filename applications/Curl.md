@@ -1,8 +1,6 @@
-Curl
-====
+# Curl
 
-POST
-----
+## POST
 
 ```bash
 curl -H "Content-Type: application/json" -X POST -d '{"username":"xyz","password":"xyz"}' https://foo:bar@localhost:5000/post_endpoint/ -k -v
@@ -13,15 +11,13 @@ curl -H "Content-Type: application/json" -X POST -d '{"username":"xyz","password
 # -H impacts how data is decoded and used on the receiving end; application-specific
 ```
 
-GET
----
+## GET
 
 ```
 curl -X GET https://localhost:5000/get_endpoint/
 ```
 
-Content-Type
-------------
+## Content-Type
 
 Content-Type id application-specific, but here are some notes on how Flask handles incoming POST data:
 

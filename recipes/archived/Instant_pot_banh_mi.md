@@ -1,8 +1,6 @@
-Instant pot banh mi
-===================
+# Instant pot banh mi
 
-Ingredients
------------
+## Ingredients
 
 - 3.5 lbs. pork shoulder, trimmed
 - 2 tsp Chinese five spice
@@ -21,9 +19,7 @@ Ingredients
 - 1/4 cup fresh cilantro, divided
 - 1 small jalapeno pepper, seeded and sliced, optional
 
-
-Directions
-----------
+## Directions
 
 1. Heat Instant Pot on the “Sauté” setting.
 2. Rub pork with Chinese five spice, kosher salt, and black pepper; slice pork against the grain into 8 pieces. Add olive oil to Instant Pot and sear pork on all sides until a deep color develops, about 7 minutes. Add rice vinegar, lime juice, and water. Seal lid and pressure cook on HIGH for 1 hour.

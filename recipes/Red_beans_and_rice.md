@@ -1,8 +1,6 @@
-Red beans and rice
-==================
+# Red beans and rice
 
-Ingredients
------------
+## Ingredients
 
 - 1 pound dried red beans, rinsed and sorted over
 - 3 tablespoons bacon grease (or oil)
@@ -21,8 +19,7 @@ Ingredients
 - 1 tablespoon powdered chicken stock
 - Cooked white rice
 
-Directions
-----------
+## Directions
 
 1. In a large pot, heat the bacon grease over medium-high heat. Add the onions, celery and bell peppers to the grease in the pot. Season with the pepper cayenne, and cook until the vegetables are soft, about 4 minutes.
 2. Add the bay leaves, parsley, thyme, sausage, and ham, and cook to brown the sausage and ham hocks, about 4 minutes.

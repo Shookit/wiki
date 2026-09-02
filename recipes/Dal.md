@@ -1,35 +1,32 @@
-Dal
-===
+# Dal
 
-Ingredients
------------
+## Ingredients
 
 - For dal:
-    - 2 cup red and/or yellow lentils
-    - 1/2 jalapeno
-    - 2 inch ginger, finely minced
-    - 2 tsp turmeric pwd
+  - 2 cup red and/or yellow lentils
+  - 1/2 jalapeno
+  - 2 inch ginger, finely minced
+  - 2 tsp turmeric pwd
 
 <!-- -->
 
 - For onion/tomato mixture:
-    - 2 tsp coriander
-    - 2 onion, finely chopped
-    - 4 tomatoes, finely chopped
-    - 1 tbsp ghee
+  - 2 tsp coriander
+  - 2 onion, finely chopped
+  - 4 tomatoes, finely chopped
+  - 1 tbsp ghee
 
 <!-- -->
 
 - For tempering/poppu/tadka:
-    - 8 cloves garlic
-    - 2 tbsp cumin seeds
-    - 1 tsp red pepper flakes
-    - 1/2 jalapeno
-    - 2 tsp garam masala
-    - 1 tbsp ghee
+  - 8 cloves garlic
+  - 2 tbsp cumin seeds
+  - 1 tsp red pepper flakes
+  - 1/2 jalapeno
+  - 2 tsp garam masala
+  - 1 tbsp ghee
 
-Directions
-----------
+## Directions
 
 1. Combine 6 cups of water, dal, 1/2 jalapeno, ginger, and turmeric. Cook on high until the dals are almost cooked.
 2. Heat ghee in a pan add coriander and stir fry for few secs. Add the chopped tomato and onions and saute for 4 minutes.

@@ -1,8 +1,6 @@
-Green veggies with lemon and garlic
-===================================
+# Green veggies with lemon and garlic
 
-Ingredients
------------
+## Ingredients
 
 - 2 pounds green beans, ends trimmed (or 2lbs broccoli)
 - 4 tablespoons butter
@@ -12,8 +10,7 @@ Ingredients
 - Grated Parmesan cheese to taste
 - Salt and freshly ground black pepper
 
-Directions
-----------
+## Directions
 
 1. For green beans: blanch green beans in a large stock pot of well salted boiling water until bright green in color and tender crisp, roughly 2-4 minutes. Cool slightly under warm water.
 2. For broccoli: toss broccoli crowns in olive oil, roast at 400F for 15-20 minutes.

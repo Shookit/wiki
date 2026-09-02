@@ -1,5 +1,4 @@
-Weezer - Say It Ain't So
-========================
+# Weezer - Say It Ain't So
 
 ```
 Weezer - Say it Ain't So

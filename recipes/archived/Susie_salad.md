@@ -1,8 +1,6 @@
-Susie salad
-===========
+# Susie salad
 
-Ingredients
------------
+## Ingredients
 
 - 2 stalks uncooked broccoli
 - 1 bunch cauliflower
@@ -15,7 +13,6 @@ Ingredients
 - 1 cup mayo
 - 4 Tbsp vinegar
 
-Directions
-----------
+## Directions
 
 1. Combine dry ingredients. Combine wet ingredients. Combine wet and dry before serving.

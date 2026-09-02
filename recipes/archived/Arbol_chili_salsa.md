@@ -1,8 +1,6 @@
-Arbol chili salsa
-=================
+# Arbol chili salsa
 
-Ingredients
------------
+## Ingredients
 
 - About 12 chile de arbol
 - 6x, large garlic cloves, unpeeled
@@ -10,8 +8,7 @@ Ingredients
 - Salt
 - About 1/2teaspoon sugar (optional)
 
-Directions
-----------
+## Directions
 
 1. In an ungreased skillet set over medium heat, toast the chiles, stirring them around for a minute or so until they are very aromatic (some will have slightly darkened spots on them). Cover with hot tap water and let rehydrate for 30 minutes.
 2. In the same skillet, roast the garlic, turning regularly, until soft and blotchy-dark in places, about 15 minutes. Cool and slip off the papery skin.

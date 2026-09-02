@@ -1,8 +1,6 @@
-Duck soup (rice cakes, not ducks!)
-==================================
+# Duck soup (rice cakes, not ducks!)
 
-Ingredients
------------
+## Ingredients
 
 - 1/2lb chuck roast, sliced as thin as possible
 - 1tsp sesame oil
@@ -12,8 +10,7 @@ Ingredients
 - Beef stock or bouillon powder, to taste
 - Green onion (optional)
 
-Directions
-----------
+## Directions
 
 1. Brown chuck roast in sesame oil
 2. Add water, heat to a simmer

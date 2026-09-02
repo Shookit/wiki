@@ -1,8 +1,6 @@
-Android platform
-================
+# Android platform
 
-Building platform
------------------
+## Building platform
 
 ### Environment setup
 
@@ -58,9 +56,7 @@ fastboot flash whatever2 whatever2.img
 fastboot flash whatever3 whatever3.img
 ```
 
-
-Building kernel
----------------
+## Building kernel
 
 ### Compiling the kernel
 
@@ -113,8 +109,7 @@ adb reboot bootloader
 fastboot boot boot.img
 ```
 
-Tracing
--------
+## Tracing
 
 ### Overview
 
@@ -153,8 +148,7 @@ For event tracing:
 echo 16384 > /d/tracing/buffer_size_kb && echo "" > /d/tracing/set_event && echo "" > /d/tracing/trace && echo "irq:* sched:* power:cpu_frequency" > /d/tracing/set_event && sleep 60 && cat /d/tracing/trace > /data/local/ftrace.txt &
 ```
 
-NDK
----
+## NDK
 
 The NDK has the option of using a cross-compiler (directly to a Linux binary) instead of compiling to a APK with embedded machine code.
 
@@ -171,9 +165,7 @@ chmod 777 hello
 ./hello
 ```
 
-
-Data sources
-------------
+## Data sources
 
 ### Getting battery drain
 
@@ -182,7 +174,6 @@ Current drain given in uA
 ```bash
 cat /sys/class/power_supply/battery/current_now
 ```
-
 
 ### Get FPS data in logcat
 
@@ -194,9 +185,7 @@ start
 adb logcat time -v
 ```
 
-
-TGID information in ftrace
---------------------------
+## TGID information in ftrace
 
 Only new versions of the kernel have TGID info in ftrace. Apply the patch below and recompile the kernel to add this information.
 

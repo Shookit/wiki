@@ -1,8 +1,6 @@
-Redis
-=====
+# Redis
 
-Data type operations
---------------------
+## Data type operations
 
 ```
 # get/set for strings
@@ -16,8 +14,7 @@ LRANGE mylist 0 3
 LRANGE mylist -2 3
 ```
 
-DB monitoring commands
-----------------------
+## DB monitoring commands
 
 ```
 INFO

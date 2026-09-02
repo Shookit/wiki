@@ -1,24 +1,21 @@
-Pretzel rolls
-=============
+# Pretzel rolls
 
-Ingredients
------------
+## Ingredients
 
 - Rolls
-    - 3/4 cup plus 2 tablespoons milk
-    - 1 1/2 tablespoons granulated sugar
-    - 1 1/4 teaspoons (half a 1/4-ounce or 7-gram packet) active dry yeast
-    - 3 tablespoons unsalted butter, melted, plus extra to coat bowl
-    - 2 cups flour, either all-purpose or bread flour, or a mix thereof, plus extra for dusting
-    - 1 teaspoon fine sea or table salt
+  - 3/4 cup plus 2 tablespoons milk
+  - 1 1/2 tablespoons granulated sugar
+  - 1 1/4 teaspoons (half a 1/4-ounce or 7-gram packet) active dry yeast
+  - 3 tablespoons unsalted butter, melted, plus extra to coat bowl
+  - 2 cups flour, either all-purpose or bread flour, or a mix thereof, plus extra for dusting
+  - 1 teaspoon fine sea or table salt
 - To finish
-    - 1/2 cup water
-    - 1T baking soda (possibly even more; already doubled from original)
-    - 1 egg, beaten with 1 teaspoon water
-    - Pretzel salt, coarse salt or sesame seeds
+  - 1/2 cup water
+  - 1T baking soda (possibly even more; already doubled from original)
+  - 1 egg, beaten with 1 teaspoon water
+  - Pretzel salt, coarse salt or sesame seeds
 
-Directions
-----------
+## Directions
 
 1. Make dough: Warm milk and sugar together until they’re about 105 to 110°F (41 to 44°C) in the bottom of a large mixing bowl. If you don’t have a thermometer, the correct temperature is when you can dip your finger into the liquid without noticing any temperature change (i.e. not warmer or cooler than your finger). Add yeast to milk-sugar mixture and let stand for 5 to 7 minutes. It should dissolve and become slightly foamy.
 2. Stir in butter, then 3/4 of flour, the salt, then remaining flour. Using spoon (for manual mixing) or dough hook (of a stand mixer), mix the dough until it forms a slightly sticky dough that balls together. If making by hand, turn out onto a floured counter and knead until smooth and elastic, about 10 minutes. If using a machine, let the dough hook do the work, running it for 5 minutes on low. If, at the end of the kneading process, the dough still feels quite sticky (a little sticky is good; more tips here), add 1 more tablespoon flour.

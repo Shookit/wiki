@@ -1,5 +1,4 @@
-Blues scales and improvising
-============================
+# Blues scales and improvising
 
 12-bar blues (maybe?)
 

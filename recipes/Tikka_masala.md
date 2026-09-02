@@ -5,6 +5,7 @@
 This is also great with a can of chickpeas or paneer instead of chicken, but add some extra spices from the marinade and directly simmer instead of doing a full marinade + grill
 
 Marinated chicken
+
 - 3 lbs. boneless chicken
 - 1 cup Greek yogurt
 - 1 to 2 teaspoons Kashmiri red chili powder
@@ -19,6 +20,7 @@ Marinated chicken
 - 2 tablespoons oil (mustard oil if available)
 
 Tikka gravy
+
 - 6 tablespoons ghee
 - 3 cups onions, finely chopped
 - 2 green chilies
@@ -35,6 +37,7 @@ Tikka gravy
 - 1 cup heavy cream/whipping cream
 
 Garnish
+
 - 6 tablespoons heavy cream (or any cream)
 - 6 tablespoons cilantro (fine chopped)
 - Basmati rice or naan
@@ -42,12 +45,14 @@ Garnish
 ## Directions
 
 Marinated chicken
+
 1. Cube chicken to 1 to 1½ inch pieces. Add them to a mixing bowl.
 2. Add red chili powder, garam masala, cumin powder, coriander powder, turmeric, salt, lemon juice, oil, ginger garlic paste, yogurt and kasuri methi.
 3. Mix well. Cover with a cling wrap and refrigerate for minimum of 8 hours and up to 48 hours.
 4. Grill, bake, or skillet chicken until well-browned and 160F.
 
 Tikka gravy
+
 1. Heat oil or ghee in a pot or pan. Add onions and sprinkle 2 teaspoons salt. Saute until deep golden.
 2. Add ginger garlic paste and green chili. Saute until aromatic, for 40 to 60 seconds.
 3. Reduce the heat to low. Add red chili powder, coriander powder, garam masala and cumin powder. Stir well quickly.

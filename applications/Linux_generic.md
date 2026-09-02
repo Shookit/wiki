@@ -1,13 +1,10 @@
-Linux generic
-=============
+# Linux generic
 
-Misc
-----
+## Misc
 
 Reverse proxy is basically a load balancer
 
-Chmod
------
+## Chmod
 
 ```bash
 chmod +r # adds read permissions (to all)
@@ -23,8 +20,7 @@ chmod u+x # adds execute permissions just for the user
 chmod a+x # adds execute permissions for all three (same as +x)
 ```
 
-Grep
-----
+## Grep
 
 ### Invert search
 
@@ -50,8 +46,7 @@ grep -R "A"
 grep -i pattern file
 ```
 
-btrfs
------
+## btrfs
 
 btrfs RAID1 will write 2 chunk groups/blocks at a time, each one in a different device, while trying make unused/unallocated space equal between devices.
 
@@ -89,9 +84,7 @@ sudo btrfs filesystem defragment -r -c /mnt/root
 man mkfs.btrfs
 ```
 
-
-Drive maintenance
------------------
+## Drive maintenance
 
 ```bash
 # Disconnect
@@ -113,9 +106,7 @@ sudo smartctl -t long -C /dev/sdX
 sudo smartctl -a /dev/sdX | grep -i sector
 ```
 
-
-SELinux
--------
+## SELinux
 
 Don't disable SELinux. It's there for a reason, ya dingus. Just learn how it works.
 
@@ -132,9 +123,7 @@ The Z option indicates that the bind mount content is private and unshared.
 
 From what I've seen, SELinux will deny mounts unless you specify Z, which is the most restrictive.
 
-
-Btrfs Rescue from live cd
--------------------------
+## Btrfs Rescue from live cd
 
 ```bash
 # Get BTRFS and EFI partitions
@@ -157,9 +146,7 @@ rm /boot/grub2/grub.cfg
 dnf reinstall shim-* grub2-efi-* grub2-common
 ```
 
-
-Customize grub timeouts
------------------------
+## Customize grub timeouts
 
 ```bash
 vi /etc/default/grub
@@ -169,9 +156,7 @@ rm /boot/grub2/grub.cfg
 dnf reinstall shim-* grub2-efi-* grub2-common
 ```
 
-
-Systemd
--------
+## Systemd
 
 ### Journal
 
@@ -214,8 +199,7 @@ ExecStart=/usr/bin/Xvfb :99 -screen 0 1024x768x24
 WantedBy=multi-user.target
 ```
 
-reptyr
-------
+## reptyr
 
 Use to attach a PID to the current terminal (useful for attaching an unattached screen session)
 
@@ -223,31 +207,26 @@ Use to attach a PID to the current terminal (useful for attaching an unattached 
 reptyr $PID
 ```
 
-pkill
------
+## pkill
 
 ```
 pkill -f 'to kill process matching multiple words'
 ```
 
-
-dos2unix
---------
+## dos2unix
 
 ```bash
 # Convert all windows line endings to unix line endings
 find . -type f -exec dos2unix {} \;
 ```
 
-Apply patch
------------
+## Apply patch
 
 ```bash
 patch -p1 < baz.patch
 ```
 
-Benchmark IO
-------------
+## Benchmark IO
 
 ```
 fio --name=seqread   --rw=read      --direct=1 --ioengine=libaio --bs=32k --numjobs=16 --size=512m --runtime=600 --group_reporting
@@ -257,8 +236,7 @@ fio --name=randwrite --rw=randwrite --direct=1 --ioengine=libaio --bs=32k --numj
 fio --name=randrw    --rw=randrw    --direct=1 --ioengine=libaio --bs=32k --numjobs=16 --size=512m --runtime=600 --group_reporting --rwmixread=90
 ```
 
-Run test coverage in python
-----------------------------
+## Run test coverage in python
 
 ```bash
 coverage run tests.py test -n module.target
@@ -267,8 +245,7 @@ coverage html --skip-covered --include=target_module/*
 firefox htmlcov/index.html
 ```
 
-jq
---
+## jq
 
 ### Pretty print JSON in file
 
@@ -288,8 +265,7 @@ cat ok.json | jq '.' > out.json
 curl -u admin:0biIIz4XMMFc http://localhost:15673/api/queues | jq '.' > out.json
 ```
 
-Rsync
------
+## Rsync
 
 ### Rsync entire remote system to local directory
 
@@ -297,8 +273,7 @@ Rsync
 rsync -aAXv --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} pi@192.168.1.110:/ ./raspi
 ```
 
-DNS
-------------------
+## DNS
 
 ```bash
 # Reverse lookup
@@ -308,8 +283,7 @@ dig +short +answer -x 172.16.1.12
 dig @192.168.4.100 google.com
 ```
 
-Pacman
-------
+## Pacman
 
 ### Remove orphaned packages
 
@@ -323,8 +297,7 @@ sudo pacman -Rns $(pacman -Qtdq)
 pacman -Qet
 ```
 
-iptables
---------
+## iptables
 
 ```
 # Give access to a port
@@ -338,17 +311,14 @@ sudo iptables -nL
 sudo iptables -nL -t nat
 ```
 
-fail2ban
---------
+## fail2ban
 
 ```bash
 sudo fail2ban-client status sshd
 sudo fail2ban-client set sshd unbanip 75.15.249.246
 ```
 
-
-firewalld (an iptables successor)
----------------------------------
+## firewalld (an iptables successor)
 
 ```
 # Query
@@ -382,8 +352,8 @@ sudo firewall-cmd --zone=public --add-service=https --permanent
 
 ```
 
-Scan ports via nmap
--------------------
+## Scan ports via nmap
+
 ```
 # One port
 sudo nmap -Pn -p 8080 web1.4cinsights.com
@@ -395,8 +365,7 @@ sudo nmap -Pn -p- web1.4cinsights.com
 sudo nmap -Pn web1.4cinsights.com
 ```
 
-Loopback filesystems
---------------------
+## Loopback filesystems
 
 ```bash
 # FS-in-a-file
@@ -407,9 +376,7 @@ mkfs.ext4 test
 mount -o loop /dev/loop0 testdir
 ```
 
-
-LVM
----
+## LVM
 
 ```
 # See physical volume size
@@ -428,9 +395,7 @@ lvremove /dev/some-physical-pool/docker-pool
 lvreduce --size -500G /dev/cl_r3-r310-1/vol
 ```
 
-
-mdadm
------
+## mdadm
 
 Some of the btrfs parity options (RAID 5/6) have some problematic edge case scenarious during unclean power-off.
 I originally used mdadm and LVM on a simple btrfs partition to try to work around this problem.
@@ -449,9 +414,7 @@ mdadm --stop /dev/md0
 mdadm --assemble /dev/md0 --update=devicesize /dev/sda /dev/sdc /dev/sdd
 ```
 
-
-Drive status checks
--------------------
+## Drive status checks
 
 ```
 hddtemp /dev/sd?
@@ -462,9 +425,7 @@ smartctl -H /dev/sdc
 smartctl -H /dev/sdd
 ```
 
-
-Connect two machines behind NAT
--------------------------------
+## Connect two machines behind NAT
 
 Reverse SSH from the Target PC (htpc) to the middleman:
 
@@ -486,5 +447,3 @@ Now you can ssh the Target PC from the Client PC:
 ssh localhost -p {PortForwardedFromTargetPC}
 ssh localhost -p 19999
 ```
-
-

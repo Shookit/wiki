@@ -1,8 +1,6 @@
-IRC
-====
+# IRC
 
-Client setup
-------------
+## Client setup
 
 ```
 pacman -S weechat

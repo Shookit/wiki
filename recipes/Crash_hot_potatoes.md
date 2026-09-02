@@ -1,8 +1,6 @@
-Crash hot potatoes
-==================
+# Crash hot potatoes
 
-Ingredients
------------
+## Ingredients
 
 - 12 whole New Potatoes (or Other Small Round Potatoes)
 - 3 Tablespoons Olive Oil
@@ -10,8 +8,7 @@ Ingredients
 - Black Pepper To Taste
 - Rosemary (or Other Herbs Of Choice) To Taste
 
-Directions
-----------
+## Directions
 
 1. Bring a pot of salted water to a boil. Add in as many potatoes as you wish to make and cook them until they are fork-tender.
 2. On a sheet pan, generously drizzle olive oil. Place tender potatoes on the cookie sheet leaving plenty of room between each potato.

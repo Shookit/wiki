@@ -1,14 +1,10 @@
-Javascript
-==========
+# Javascript
 
-Callback hell
--------------
+## Callback hell
 
 Don't overuse anonymous functions. This leads to confusing over-nesting. Flatten as much as possible. Prefer named functions that are generalizable.
 
-
-Common ES6 procedures
----------------------
+## Common ES6 procedures
 
 ```
 // Get element by ID
@@ -41,9 +37,7 @@ Array.from(elementChildren).forEach((child, index) => {  // index is optional
 });
 ```
 
-
-Prototypes
-----------
+## Prototypes
 
 In Javascript, EVERY SINGLE object has a prototype object inside of it (e.g., object1.prototype). If you add to this prototype, all objects of that same constructor will get that additional functionality. That said, ES6 has class support, so you can probably just use that instead.
 
@@ -75,8 +69,7 @@ var hello = "hello world";
 alert(hello.sheep());
 ```
 
-File loading via Javascript
----------------------------
+## File loading via Javascript
 
 ```
 $(function(){
@@ -90,8 +83,7 @@ When accessing another file via javascript (like above) on the local filesystem,
 python -m http.server
 ```
 
-Module formats
---------------
+## Module formats
 
 Two major JS module specs: AMD and CommonJS.
 
@@ -147,9 +139,7 @@ Two major JS module specs: AMD and CommonJS.
         });
 ```
 
-
-Q Promises
-----------
+## Q Promises
 
 ```
 //
@@ -269,4 +259,3 @@ q.delay(10).then(function(){
     q1.reject()
 });
 ```
-

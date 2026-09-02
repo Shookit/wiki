@@ -1,8 +1,6 @@
-Bacon dressing
-==============
+# Bacon dressing
 
-Ingredients
------------
+## Ingredients
 
 - 12oz bacon
 - 1/4 tbsp vegetable oil
@@ -13,9 +11,7 @@ Ingredients
 - 1 Tbsp corn starch
 - Salt and pepper, to taste
 
-
-Directions
-----------
+## Directions
 
 1. Cook bacon in oven at 425F until crispy, but not burnt
 2. Put half of bacon away. Crumble other half of bacon. Place bacon drippings in a small saucepan.

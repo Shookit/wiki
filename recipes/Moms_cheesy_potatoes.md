@@ -1,8 +1,6 @@
-Mom's cheesy potatoes
-=====================
+# Mom's cheesy potatoes
 
-Ingredients
------------
+## Ingredients
 
 - 2lb bag frozen hash browns (prefer cubed)
 - 1.5 sticks butter
@@ -14,8 +12,7 @@ Ingredients
 - garlic salt to taste
 - 2c corn flakes
 
-Directions
-----------
+## Directions
 
 1. Mix all ingredients together (including 1 stick of butter), except for 1/2 stick butter and corn flakes. Put in greased 9x13 pan.
 2. Sprinkle corn flakes and sliced butter.

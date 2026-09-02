@@ -1,15 +1,12 @@
-Scrambled eggs
-==============
+# Scrambled eggs
 
-Ingredients
------------
+## Ingredients
 
 - Eggs, you dumbass
 - Butter
 - Sour cream
 
-Directions
-----------
+## Directions
 
 1. Place a scoop of butter (~1T?), and x eggs in a pan (scramble in pan), set to medium heat
 2. Stir constantly, remove from heat when the eggs start to solidify

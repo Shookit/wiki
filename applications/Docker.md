@@ -1,8 +1,6 @@
-Docker
-======
+# Docker
 
-Image manipulation
-------------------
+## Image manipulation
 
 ```bash
 # Download prebuilt image
@@ -33,9 +31,7 @@ docker push image_host:5000/image_name:latest
 docker pull image_host:5000/image_name:latest
 ```
 
-
-Container manipulation
-----------------------
+## Container manipulation
 
 ```bash
 # See container instances
@@ -81,9 +77,7 @@ docker volume ls
 docker volume rm $(docker volume ls -q)
 ```
 
-
-Small docker images
--------------------
+## Small docker images
 
 When building docker images, if one of the stages of your build involves grabbing a ton of dependencies to build some binary/lib that aren't required afterward, you can use the "builder" pattern to only keep the binary (and not the rest of the dependencies:
 
@@ -101,9 +95,7 @@ COPY --from=builder /go/src/github.com/alexellis/href-counter/app .
 CMD ["./app"]
 ```
 
-
-Sample docker-compose file
----------------------------
+## Sample docker-compose file
 
 ```
 # Note: avoid using /home/shook on the right (docker) side of a volume mount, or it will populate your local directory with .rc files
@@ -140,9 +132,7 @@ volumes:
     mariadbvolume:
 ```
 
-
-Docker-compose commands
------------------------
+## Docker-compose commands
 
 ```bash
 # Build a specific docker-compose file

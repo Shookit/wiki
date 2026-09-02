@@ -1,8 +1,6 @@
-Algorithms and data structures
-==============================
+# Algorithms and data structures
 
-Definitions
------------
+## Definitions
 
 ### Functions
 
@@ -31,8 +29,7 @@ Definitions
 - Greedy - Always choose the largest/smallest item/path
 - Divide and Conquer
 
-Big O notation
---------
+## Big O notation
 
 - O(n) is a higher bound, omega(n) is a lower bound, theta(n) is a tight bound
 - O(1) - constant - array indexing
@@ -44,27 +41,24 @@ Big O notation
 - O(c^n) - exponential
 - O(n!) - factorial - brute force traveling salesman
 
-Sorting
--------
+## Sorting
 
 - `Bubble sort`: go from 0->n, swapping entries if out of order. Then do 0->(n-1), 0->(n-2), etc.
 - `Heapsort`: creates a heap to sort values. Each time the top value is removed, you reheap (take one of the leaves, move to top, and re-sort). This is n logn operations, so O(nlogn)
 - `Mergesort`: Full divide and conquer sort
 - `Quicksort`: Practically the fastest. Find pivot (best if median), move data smaller than pivot to left, larger than pivot to right, move pivot to middle. Recursively run quicksort on each half. Knowledge of pivot selection algo can be used to force to run in O(n^2) - security hazard. Mergesort for security.
 
-| Sort algo | Best       | Avg        | Worst      | Notes                                                                                          |
-|-----------|------------|------------|------------|------------------------------------------------------------------------------------------------|
-| Hash      | O(n)       | O(n)       | O(n)       | Good if sorting something w/ frequent repeats (e.g., 1mil people, sorting by Age in years)     |
-| Bubble    | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                     |
-| Insertion | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                     |
-| Selection | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                     |
-| Quick     | O(n\*logn) | O(n\*logn) | O(n^2)     | (common implementation not in-place)                                                           |
-| Merge     | O(n\*logn) | O(n\*logn) | O(n\*logn) | (common implementation not in-place)                                                           |
-| Heap      | O(n\*logn) | O(n\*logn) | O(n\*logn) | (in-place)                                                                                     |
+| Sort algo | Best       | Avg        | Worst      | Notes                                                                                      |
+| --------- | ---------- | ---------- | ---------- | ------------------------------------------------------------------------------------------ |
+| Hash      | O(n)       | O(n)       | O(n)       | Good if sorting something w/ frequent repeats (e.g., 1mil people, sorting by Age in years) |
+| Bubble    | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                 |
+| Insertion | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                 |
+| Selection | O(n^2)     | O(n^2)     | O(n^2)     | (in-place)                                                                                 |
+| Quick     | O(n\*logn) | O(n\*logn) | O(n^2)     | (common implementation not in-place)                                                       |
+| Merge     | O(n\*logn) | O(n\*logn) | O(n\*logn) | (common implementation not in-place)                                                       |
+| Heap      | O(n\*logn) | O(n\*logn) | O(n\*logn) | (in-place)                                                                                 |
 
-
-Data structures
----------------
+## Data structures
 
 ### Stack (LIFO) - list/array structure
 
@@ -124,12 +118,10 @@ Data structures
 
 - Tree which doesn't store the value of a node, only traversing to a leaf gives you the total saved value
 
-
-Data structure performance
---------------------------
+## Data structure performance
 
 | Header text                | Linked list   | Array | Dynamic array | Balanced tree | Random access list |
-|----------------------------|---------------|-------|---------------|---------------|--------------------|
+| -------------------------- | ------------- | ----- | ------------- | ------------- | ------------------ |
 | Indexing                   | T(n)          | T(1)  | T(1)          | T(log n)      | T(log n)           |
 | Insert/delete at beginning | T(1)          | N/A   | T(n)          | T(log n)      | T(1)               |
 | Insert/delete at end       | T(1)          | N/A   | T(1)amortized | T(log n)      | T(log n) updating  |
@@ -137,9 +129,7 @@ Data structure performance
 | Wasted space (average)     | T(n)          | 0     | T(n)          | T(n)          | T(n)               |
 | Search                     | T(n)          | T(n)  | T(n)          | T(logn)       | T(n)               |
 
-
-Specific solutions
-------------------
+## Specific solutions
 
 ### Permutation
 
@@ -186,4 +176,3 @@ print permutation(strngy)
 ### Shortest path algorithms
 
 - Dijkstra: from starting node/subgraph, calculate distance to all unvisited neighbors. Select shortest distance to an unvisited neighbor. Repeat.
-

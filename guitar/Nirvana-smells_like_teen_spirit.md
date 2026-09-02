@@ -1,6 +1,4 @@
-Nirvana - Smells Like Teen Spirit
-=================================
-
+# Nirvana - Smells Like Teen Spirit
 
 ```
 [Intro]

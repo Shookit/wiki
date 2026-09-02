@@ -1,8 +1,6 @@
-Dejibulgogi
-===========
+# Dejibulgogi
 
-Ingredients
------------
+## Ingredients
 
 - 1 lb pork, thinly sliced
 - 4 cloves of minced garlic
@@ -13,8 +11,7 @@ Ingredients
 - 3 T korean hot pepper paste
 - a pinch of ground black pepper
 
-Directions
-----------
+## Directions
 
 1. Marinade overnight
 2. Cook in a pan on stove, as high as possible, until slightly charred

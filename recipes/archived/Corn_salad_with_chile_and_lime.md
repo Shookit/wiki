@@ -1,8 +1,6 @@
-Corn salad with chile and lime
-==============================
+# Corn salad with chile and lime
 
-Ingredients
------------
+## Ingredients
 
 - 1/2 a small red onion, thinly sliced
 - 2 tablespoons red wine vinegar
@@ -16,9 +14,7 @@ Ingredients
 - Tajín seasoning or chile powder
 - Handful of fresh cilantro leaves
 
-
-Directions
-----------
+## Directions
 
 1. Combine red onion, red wine vinegar, 2 tablespoons cold water, salt, and sugar in a bowl or jar. Set in fridge until needed. Onions will be very lightly pickled by the time you’re done assembling the salad, but if you can give it 1 to 2 hours in the fridge, they’ll be moreso.
 2. Heat a grill to medium-high. Lightly oil grill grates and place corn cobs directly on them. Cook corn until charred in spots all over, turning as often as needed. Transfer them to a cutting board to cool slightly. Don’t have a grill? I have often charred corn directly over the gas flame on my stove (be careful; it will crackle and spatter a little). You oven’s broiler, should it be more robust than mine, might also work for the task.

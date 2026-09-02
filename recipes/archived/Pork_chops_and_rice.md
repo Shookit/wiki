@@ -1,8 +1,6 @@
-Pork chops and rice
-===================
+# Pork chops and rice
 
-Ingredients
------------
+## Ingredients
 
 - 6 pork chops
 - salt and pepper
@@ -11,8 +9,7 @@ Ingredients
 - 1 can cream of chicken soup
 - 1 cup milk
 
-Directions
-----------
+## Directions
 
 1. Salt and pepper the pork chops, and brown in oil in frying pan.
 2. Place in 9x13" baking dish. Cover w/ rice, soup, milk.

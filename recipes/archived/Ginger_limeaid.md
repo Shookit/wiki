@@ -1,15 +1,12 @@
-Ginger limeaid
-==============
+# Ginger limeaid
 
-Ingredients
------------
+## Ingredients
 
 - Ginger
 - Limes
 - Sugar
 
-Directions
-----------
+## Directions
 
 1. Puree ginger in a food processor or chopper
 2. Combine juice from limes, pureed ginger, water and sugar in a pitcher

@@ -1,8 +1,6 @@
-Tacos
-=====
+# Tacos
 
-Ingredients
------------
+## Ingredients
 
 - 3-4 T Chili powder
 - 1-2 T Cumin
@@ -10,8 +8,7 @@ Ingredients
 - 1lb chicken/pork/shrimp
 - Veggie oil
 
-Directions
-----------
+## Directions
 
 1. If cooking shrimp or pork (not shrimp) and you want it to be shredded rather than chunked, slow cook on low for 6 hours. Shred with a fork.
 2. From here, all meats are cooked the same.

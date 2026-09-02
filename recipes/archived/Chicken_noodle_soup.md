@@ -1,8 +1,6 @@
-Chicken noodle soup
-===================
+# Chicken noodle soup
 
-Ingredients
------------
+## Ingredients
 
 ### Stock
 
@@ -25,9 +23,7 @@ Ingredients
 - 1 tsp MSG
 - Finish with salt
 
-
-Directions
-----------
+## Directions
 
 1. Combine ingredients in pressure cooker
 2. Cook on high for 4 hours and a natural pressure release

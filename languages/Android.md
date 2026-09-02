@@ -1,8 +1,6 @@
-Android
-=======
+# Android
 
-Adb and system notes
---------------------
+## Adb and system notes
 
 ### Universal drivers
 
@@ -20,8 +18,7 @@ mount -o remount,rw /system
 
 Superuser by clockworkmod is the most reliable x86 su program (in my experience).
 
-Android application conventions
--------------------------------
+## Android application conventions
 
 ### Application lifespan and threading/processing
 
@@ -43,29 +40,23 @@ Activity represents the presentation layer of an Android application. A simplifi
 
 Views are user interface widgets, e.g. buttons or text fields. The base class for all Views is android.view.View. The layout of the Views is managed by subclasses of type android.view.ViewGroups. Views often have attributes which can be used to change their appearance and behavior.
 
-
 ### Intents
 
 Intents are asynchronous messages which allow the application to request functionality from other components of the Android systen, e.g. from Services or Activities. An application can call a component directly (explicit intent) or ask the Android system to evaluate registered components for a certain Intents (implicit intents). For example the application could implement sharing of data via an Intent and all components which allow sharing of data would be available for the user to select. Applications register themselves to an intent via an IntentFilter. Intents allow to combine loosely coupled components to perform certain tasks. Typically in android, `_ACTION` after a string means it's an intent.
 
-An Intent is exactly what it describes. It's an "intention" to do an action. An Intent is basically a message to say you did or want something to happen. Depending on the intent, apps or the OS might be listening for it and will react accordingly. Think of it as a blast email to a bunch of friends, in which you tell your friend John to do something. The other folks will ignore the email, but John will react to it.  To listen for an intent (like the phone ringing, or an SMS is received), you implement a broadcast receiver. If you want to fire off an intent to do something, like pop up the dialer, you fire off an intent saying you will.  To send an intent from adb: `adb shell am broadcast -a com.whereismywifeserver.intent.TEST --es sms_body "test from adb"`.
+An Intent is exactly what it describes. It's an "intention" to do an action. An Intent is basically a message to say you did or want something to happen. Depending on the intent, apps or the OS might be listening for it and will react accordingly. Think of it as a blast email to a bunch of friends, in which you tell your friend John to do something. The other folks will ignore the email, but John will react to it. To listen for an intent (like the phone ringing, or an SMS is received), you implement a broadcast receiver. If you want to fire off an intent to do something, like pop up the dialer, you fire off an intent saying you will. To send an intent from adb: `adb shell am broadcast -a com.whereismywifeserver.intent.TEST --es sms_body "test from adb"`.
 
 Broadcasts WILL NOT BE RECEIVED if an application hasn't ever been launched since it was installed; run a dummy activity if necessary. An application is in the "stoped state" until an activity on it has been launched (some cockeyed security measure).
-
 
 ### Context
 
 As the name suggests, context is the context of current state of the application/object. It lets newly created objects understand what has been going on. Typically you call it to get information regarding another part of your program (activity, package/application). You can get the context by invoking `getApplicationContext()`, `getContext()`, `getBaseContext()` or `this` (when in the activity class). Activities are a subclass of context.
 
-
-Image resource folders
-----------------------
+## Image resource folders
 
 These automatically scale images depending on the DPI. To disable this autoscaling, place the image in the drawable-nodpi folder.
 
-
-Snippets
---------
+## Snippets
 
 ### Threads and Runnables (Java convention)
 
@@ -185,4 +176,3 @@ nameValuePairs.add(new BasicNameValuePair("data", dataString));
 httppost.setEntity(new UrlEncodedFormEntity(nameValuePairs));
 httpclient.execute(httppost);
 ```
-

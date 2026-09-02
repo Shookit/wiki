@@ -1,15 +1,10 @@
-Spacemacs
-=========
+# Spacemacs
 
-
-Issues
-------
+## Issues
 
 Changing projects won't reload python or activate the new virtualenv at the moment; need to run `mode python` at the moment.
 
-
-Hotkeys
--------
+## Hotkeys
 
 ```
 Python find references

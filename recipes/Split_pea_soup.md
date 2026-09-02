@@ -1,8 +1,6 @@
-Split Pea and Ham Soup
-======================
+# Split Pea and Ham Soup
 
-Ingredients
------------
+## Ingredients
 
 - 3 tablespoons butter
 - 1 medium onion, finely diced
@@ -15,8 +13,7 @@ Ingredients
 - 1/2 teaspoon baking soda
 - Kosher salt and freshly ground black pepper
 
-Directions
-----------
+## Directions
 
 1. In a large Dutch oven, melt butter over medium heat. Add onion, celery, and ham and cook, stirring, until softened but not browned, about 3 minutes. Add garlic and cook until aromatic, about 30 seconds.
 2. Add peas, chicken stock, bay leaves, and baking soda. Stir to combine, bring to a boil, reduce to a bare simmer, and cover, leaving lid slightly ajar. Cook until peas are tender, about 1 hour.

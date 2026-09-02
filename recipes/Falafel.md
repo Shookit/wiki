@@ -1,8 +1,6 @@
-Falafel
-=======
+# Falafel
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup dried chickpeas (or 2 15-oz cans)
 - 1/2 large onion, roughly chopped (about 1 cup)
@@ -16,8 +14,7 @@ Ingredients
 - 4-6 (possibly more) tablespoons flour
 - Soybean or vegetable oil for frying
 
-Directions
-----------
+## Directions
 
 1. Put the chickpeas in a large bowl and add enough cold water to cover them by at least 2 inches. Let soak overnight, then drain. Or use canned chickpeas, drained.
 2. Place the drained, uncooked chickpeas and the onions in the bowl of a food processor fitted with a steel blade. Add the parsley, cilantro, salt, hot pepper, garlic, and cumin. Process until blended but not pureed.

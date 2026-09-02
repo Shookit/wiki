@@ -1,15 +1,13 @@
 ## [Recipes](recipes/index.md)
 
-
 ## [Cocktails](cocktails/index.md)
 
-
 ## Tech
+
 - [Factorio](misc/Factorio.md)
 - [Soundbar](misc/Soundbar.md)
 - [Programming concepts](programming/index.md)
 - [Programming languages](languages/index.md)
-
 
 ## Misc
 

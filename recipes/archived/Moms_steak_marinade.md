@@ -1,8 +1,6 @@
-Mom's steak marinade
-====================
+# Mom's steak marinade
 
-Ingredients
------------
+## Ingredients
 
 - 1/2 cup soy sauce
 - 1/4 cup water
@@ -12,7 +10,6 @@ Ingredients
 - 1/4 tsp. ground ginger
 - Garlic powder, to taste
 
-Directions
-----------
+## Directions
 
 1. Combine ingredients, marinade with beef, chicken, or steak

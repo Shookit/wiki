@@ -1,14 +1,11 @@
-Chicken BBQ drumsticks
-======================
+# Chicken BBQ drumsticks
 
-Ingredients
------------
+## Ingredients
 
 - 3 lbs chicken drumsticks
 - BBQ Sauce
 
-Directions
-----------
+## Directions
 
 1. Grill chicken on grill until skin is crispy
 2. Add BBQ sauce, grill until BBQ has partially caramelized.

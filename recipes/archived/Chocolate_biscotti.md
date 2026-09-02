@@ -1,8 +1,6 @@
-Chocolate biscotti
-==================
+# Chocolate biscotti
 
-Ingredients
------------
+## Ingredients
 
 - 2 1/2 cups flour, plus flour for work surface
 - 1/2 cup Dutch-style cocoa powder
@@ -13,8 +11,7 @@ Ingredients
 - 4 large eggs
 - 1 1/3 cups sugar.
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350 degrees.
 2. Sift the flour, cocoa, espresso powder, salt, baking soda and baking powder together and set aside.

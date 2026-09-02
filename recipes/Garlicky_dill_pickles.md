@@ -1,10 +1,8 @@
-Garlicky dill pickles (no sugar, extra sour)
-============================================
+# Garlicky dill pickles (no sugar, extra sour)
 
 Yields: 1 quart jar (or 2 pint jars)
 
-Ingredients
------------
+## Ingredients
 
 - 1 1/2 lb pickling or Persian cucumbers
 - 358 g white vinegar (5% acidity)
@@ -17,8 +15,7 @@ Ingredients
 - 1 tsp red pepper flakes
 - 1 tsp coriander seeds
 
-Directions
-----------
+## Directions
 
 1. Wash the cucumbers well and trim off the blossom ends (this end has enzymes that can make pickles soft). Cut into spears, chips, or leave whole depending on your jar size and preference.
 2. In a saucepan, combine the vinegar, water, and salt. Bring to a boil, stirring until the salt fully dissolves, then remove from heat. This brine is deliberately vinegar-heavy with no sugar for max sourness. ⏱ 3m

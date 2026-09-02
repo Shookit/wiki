@@ -1,6 +1,4 @@
-Foo Fighters - Everlong
-=======================
-
+# Foo Fighters - Everlong
 
 ```
 Tuning: drop D (D A D G B E)

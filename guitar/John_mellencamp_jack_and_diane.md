@@ -1,5 +1,4 @@
-John Cougar Mellencamp - Jack and Diane
-=======================================
+# John Cougar Mellencamp - Jack and Diane
 
 ```
 [Intro]

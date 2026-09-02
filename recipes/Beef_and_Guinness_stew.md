@@ -1,8 +1,6 @@
-Beef and Guinness stew
-======================
+# Beef and Guinness stew
 
-Ingredients
------------
+## Ingredients
 
 - 4 slices bacon, cut into small pieces
 - 2 1/2 pounds boneless beef chuck, cut into 2-inch pieces
@@ -21,8 +19,7 @@ Ingredients
 - 2 1/2 cups chicken stock, or as needed to cover
 - 4 cups mashed potatoes (optional)
 
-Directions
-----------
+## Directions
 
 1. Cook and stir bacon in a heavy skillet over medium-high heat until bacon is browned and crisp, 3 to 4 minutes. Turn off heat and transfer bacon into a large stew pot, reserving bacon fat in the skillet.
 2. Season beef chuck cubes generously with 1 teaspoon salt and black pepper to taste. Turn heat to high under skillet and sear beef pieces in the hot fat on both sides until browned, about 5 minutes. Place beef in stew pot with bacon, leaving fat in skillet. Turn heat down to medium; cook and stir onions in the retained fat in the skillet until lightly browned, 5 to 8 minutes; season with a large pinch of salt.

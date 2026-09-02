@@ -6,7 +6,7 @@
 - 0.25oz rich demerara syrup
 - 4 dashes Angostura bitters
 - Orange slice
-- Cocktail cherry 
+- Cocktail cherry
 
 ## Directions
 

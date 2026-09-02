@@ -1,8 +1,6 @@
-Cajun shrimp in foil
-====================
+# Cajun shrimp in foil
 
-Ingredients
------------
+## Ingredients
 
 - 1 tablespoon Cajun or Creole seasoning
 - 24 (1 pound) cleaned large shrimp
@@ -15,8 +13,7 @@ Ingredients
 - 1/4 cup dry white wine, such as Pinot Grigio
 - 2 tbsp olive oil
 
-Directions
-----------
+## Directions
 
 1. In a medium bowl, combine the Cajun seasoning, salt, and pepper. Add the shrimp and toss to coat.
 2. Place 4 large (10 x 18-inch) pieces of heavy-duty aluminum foil on a flat surface.

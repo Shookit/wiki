@@ -1,8 +1,6 @@
-Meatball sauce
-==============
+# Meatball sauce
 
-Ingredients
------------
+## Ingredients
 
 - 2 tablespoons Worcestershire sauce
 - 2 tablespoons white vinegar
@@ -11,7 +9,6 @@ Ingredients
 - 1/4 teaspoon garlic powder
 - 1 tablespoon white sugar
 
-Directions
-----------
+## Directions
 
 1. In a medium sauce pan mix ingredients and simmer til blended, add your prepared meatballs and simmer about fifteen minutes.

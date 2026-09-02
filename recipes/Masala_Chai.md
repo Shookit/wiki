@@ -1,8 +1,6 @@
-Masala chai
-===========
+# Masala chai
 
-Ingredients
------------
+## Ingredients
 
 ### Initial boil
 
@@ -21,9 +19,7 @@ Ingredients
 - 1/4 cup black tea
 - 6 cup milk
 
-
-Directions
-----------
+## Directions
 
 1. Boil water, spices, and sugar for 10 minutes
 2. Add milk and tea, boil for 5 minutes

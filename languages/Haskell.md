@@ -1,8 +1,6 @@
-Haskell
-=======
+# Haskell
 
-Types
------
+## Types
 
 ### What type is this
 
@@ -23,7 +21,6 @@ Types
 b :: Char
 ```
 
-
 ### Declare a complex data type
 
 ```
@@ -36,8 +33,7 @@ data Person = Person { firstName :: String
 } deriving (Show)
 ```
 
-Functions
----------
+## Functions
 
 ### Defining a function
 
@@ -49,8 +45,6 @@ addThree :: Int -> Int -> Int -> Int
 addThree x y z = x + y + z
 ```
 
-
 ### Partial functions
 
 If you have a function like `a->a->a` and only call the first, you can then use that function elsewhere if you want since the other a isn't filled in.
-

@@ -1,8 +1,6 @@
-Macaroni and Cheese
-===================
+# Macaroni and Cheese
 
-Ingredients
------------
+## Ingredients
 
 - 2 tablespoons butter
 - 1 cup cottage cheese (not low fat)
@@ -15,8 +13,7 @@ Ingredients
 - 1 pound sharp or extra-sharp cheddar cheese, grated (I’m a big fan of Cabot extra-sharp, in the purple wrapper)
 - 1/2 pound elbow pasta, uncooked.
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 375°F and position an oven rack in upper third of oven. Use one tablespoon butter to grease a 9-inch round or square baking pan.
 2. In a blender, purée cottage cheese, milk, mustard, cayenne, nutmeg and salt and pepper together.\* Reserve 1/4 cup grated cheese for topping. In a large bowl, combine remaining grated cheese, milk mixture and uncooked pasta. Pour into prepared pan, cover tightly with foil and bake 30 minutes.

@@ -1,8 +1,6 @@
-Broiled lobster
-===============
+# Broiled lobster
 
-Ingredients
------------
+## Ingredients
 
 - 2 whole lobster tails
 - 1/2 cup butter, melted
@@ -11,8 +9,7 @@ Ingredients
 - ground white pepper, to taste
 - 1 lemon - cut into wedges, for garnish
 
-Directions
-----------
+## Directions
 
 1. Preheat the broiler.
 2. Place lobster tails on a baking sheet. With a sharp knife or kitchen shears, carefully cut top side of lobster shells lengthwise. Pull apart shells slightly, and season meat with equal amounts butter, paprika, salt, and white pepper.

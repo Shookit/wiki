@@ -1,11 +1,9 @@
-Winmerge
-========
+# Winmerge
 
 - Open->Compare->Folder->Compare method->Modified Date and Size
 - View->Uncheck "Tree mode", Uncheck "Identical Items"
 
-Filter
-------
+## Filter
 
 Use file filter (below)
 

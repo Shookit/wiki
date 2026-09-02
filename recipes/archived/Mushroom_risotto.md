@@ -1,8 +1,6 @@
-Mushroom risotto
-================
+# Mushroom risotto
 
-Ingredients
------------
+## Ingredients
 
 - 6 cups chicken broth, divided
 - 3 tablespoons olive oil, divided
@@ -17,9 +15,7 @@ Ingredients
 - 4 tablespoons butter
 - 1/3 cup freshly grated Parmesan cheese
 
-
-Directions
-----------
+## Directions
 
 1. In a saucepan, warm the broth over low heat.
 2. Warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Stir in the mushrooms, and cook until soft, about 3 minutes. Remove mushrooms and their liquid, and set aside.

@@ -1,10 +1,8 @@
-Linting
-=======
+# Linting
 
 Every repository should have a linter, even plaintext repos!
 
-Python
-------
+## Python
 
 ### Pylint
 
@@ -33,7 +31,6 @@ pylint --generate-rcfile > .pylintrc
 find . -name "*.py" | xargs pylint
 ```
 
-
 ### Autopep8
 
 ```bash
@@ -44,9 +41,7 @@ autopep8 --list-fixes
 autopep8 -r --in-place --max-line-length 50000000000 --select E,W
 ```
 
-
-Javascript
-----------
+## Javascript
 
 eslint scans upward in a project to search for a .eslintrc file (similar to pylint)
 
@@ -57,8 +52,7 @@ eslint dir/
 eslint dir/file.js
 ```
 
-Markdown
---------
+## Markdown
 
 Ruby must be installed to install gems
 
@@ -67,8 +61,7 @@ gem install mdl
 ~/.gem/ruby/2.4.0/bin/mdl -s ./mdlrc .
 ```
 
-Ansible
--------
+## Ansible
 
 ```
 pip2 install ansible-lint

@@ -1,42 +1,39 @@
-Instant pot pork shoulder
-=========================
+# Instant pot pork shoulder
 
-Ingredients
------------
+## Ingredients
 
 - Pork
-    - 5 garlic cloves, grated on a Microplane or minced
-    - 2 tablespoons brown sugar or honey
-    - 1 tablespoon Korean chile flakes (gochugaru) or other chile flakes (Maras, Aleppo or crushed red pepper)
-    - 1 tablespoon kosher salt, more to taste
-    - 1 teaspoon ground black pepper
-    - 5 pounds boneless pork shoulder, cut into two or three pieces
+  - 5 garlic cloves, grated on a Microplane or minced
+  - 2 tablespoons brown sugar or honey
+  - 1 tablespoon Korean chile flakes (gochugaru) or other chile flakes (Maras, Aleppo or crushed red pepper)
+  - 1 tablespoon kosher salt, more to taste
+  - 1 teaspoon ground black pepper
+  - 5 pounds boneless pork shoulder, cut into two or three pieces
 - Sauce
-    - 1 tablespoon peanut oil
-    - 4 garlic cloves, grated on a Microplane
-    - 2 tablespoons grated fresh ginger root
-    - ⅓ cup gochujang (Korean chile paste) or other chile paste or sauce such as Sriracha
-    - ¼ cup soy sauce
-    - 2 tablespoons ketchup
-    - 2 tablespoons mirin
-    - 2 tablespoons honey
-    - 1 tablespoon rice wine vinegar
-    - 1 teaspoon Asian fish sauce
-    - 1 teaspoon sesame oil
+  - 1 tablespoon peanut oil
+  - 4 garlic cloves, grated on a Microplane
+  - 2 tablespoons grated fresh ginger root
+  - ⅓ cup gochujang (Korean chile paste) or other chile paste or sauce such as Sriracha
+  - ¼ cup soy sauce
+  - 2 tablespoons ketchup
+  - 2 tablespoons mirin
+  - 2 tablespoons honey
+  - 1 tablespoon rice wine vinegar
+  - 1 teaspoon Asian fish sauce
+  - 1 teaspoon sesame oil
 - Pickled cucumbers
-    - 6 Persian cucumbers, thinly sliced (or about 4 cups sliced cucumbers)
-    - 1 ½ tablespoons rice vinegar
-    - 2 teaspoons sesame oil
-    - 2 teaspoons brown sugar
-    - ½ teaspoon fine sea salt
-    - ¼ cup thinly sliced red onion
-    - 2 teaspoons sesame seeds
+  - 6 Persian cucumbers, thinly sliced (or about 4 cups sliced cucumbers)
+  - 1 ½ tablespoons rice vinegar
+  - 2 teaspoons sesame oil
+  - 2 teaspoons brown sugar
+  - ½ teaspoon fine sea salt
+  - ¼ cup thinly sliced red onion
+  - 2 teaspoons sesame seeds
 - For serving
-    - Cooked rice or toasted slider rolls
-    - Kimchi (optional)
+  - Cooked rice or toasted slider rolls
+  - Kimchi (optional)
 
-Directions
-----------
+## Directions
 
 1. To prepare pork, combine garlic, brown sugar, chile flakes, salt and pepper. Rub marinade all over pork. If you have time, cover and refrigerate for 1 hour to up to 24 hours. Otherwise, proceed with recipe.
 2. Set electric pressure cooker to sauté (or use a large skillet). Add pork in batches and sear until browned all over, about 2 minutes per side. Add 3/4 cup water to pot (or to skillet to deglaze, then move to pot), cover, and set to cook for 90 minutes on high pressure. Or cook in a slow cooker for 5 to 7 hours until tender.

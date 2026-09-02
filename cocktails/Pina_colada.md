@@ -9,7 +9,6 @@
 - 2 tablespoons fresh lime juice
 - Maraschino cherries and lime wedges (for serving)
 
-
 ## Directions
 
 - Shake cream of coconut and coconut milk in their cans before measuring. Purée pineapple, cream of coconut, coconut milk, white rum, lime juice, and 3 cups ice (about 15 oz.) in a blender until smooth. Transfer blender cup to freezer and freeze until mixture is thickened (it should be the consistency of a milkshake), 25–35 minutes.

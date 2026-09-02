@@ -1,10 +1,9 @@
-Fajitas
-=======
+# Fajitas
 
-Ingredients
------------
+## Ingredients
 
 Marinade
+
 - Juice from 4 limes
 - 1/4 cup of worchestershire
 - 2 tablespoons olive oil
@@ -16,6 +15,7 @@ Marinade
 - 1/4 teaspoon black pepper
 
 Fajitas
+
 - 1.5 lbs chicken breast, sliced into strips or cubes
 - 3 bell peppers (red, yellow, or green), sliced
 - 2 large onion, sliced
@@ -23,14 +23,14 @@ Fajitas
 - Salt and pepper to taste
 
 Serving
+
 - Flour tortillas, warmed
 - Sour cream
 - Shredded cheese
 - Cilantro
 - Lime wedges
 
-Directions
-----------
+## Directions
 
 1. In a bowl, combine all marinade ingredients with chicken, refrigerate for 4 hours
 2. Heat 1 tablespoon olive oil in a large skillet or cast iron pan over high heat

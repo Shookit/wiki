@@ -1,32 +1,29 @@
-Pan burgers
-===========
+# Pan burgers
 
-Ingredients
------------
+## Ingredients
 
 - Burgers
-    - 1 pound freshly ground beef (3/4 pound ground sirloin + 1/4 pound brisket is recommended, but if you can’t find, use chuck) with an 80/20 fat ratio
+  - 1 pound freshly ground beef (3/4 pound ground sirloin + 1/4 pound brisket is recommended, but if you can’t find, use chuck) with an 80/20 fat ratio
 - Sauce
-    - 1/4 cup mayonnaise
-    - 1 1/2 teaspoons juice from a pickle jar
-    - 1 1/2 teaspoons ketchup
-    - 1 teaspoon yellow mustard
-    - 1/4 teaspoon smoked paprika
-    - 1/4 teaspoon garlic powder
-    - 1/4 teaspoon onion powder
+  - 1/4 cup mayonnaise
+  - 1 1/2 teaspoons juice from a pickle jar
+  - 1 1/2 teaspoons ketchup
+  - 1 teaspoon yellow mustard
+  - 1/4 teaspoon smoked paprika
+  - 1/4 teaspoon garlic powder
+  - 1/4 teaspoon onion powder
 - Assembly
-    - 2 tablespoons unsalted butter, plus more if needed
-    - 4 potato rolls, preferably Martin’s brand
-    - 2 tablespoons vegetable oil
-    - Kosher salt, to taste
-    - Freshly ground black pepper, to taste
-    - 4 slices cheese, American or whatever you like on burgers, if you’re making cheeseburgers
-    - Four 1/4-inch-thick tomato slices
-    - Thinly sliced pickles, if desired
-    - 4 burger-sized pieces green-leaf lettuce (I used curly green leaf lettuce)
+  - 2 tablespoons unsalted butter, plus more if needed
+  - 4 potato rolls, preferably Martin’s brand
+  - 2 tablespoons vegetable oil
+  - Kosher salt, to taste
+  - Freshly ground black pepper, to taste
+  - 4 slices cheese, American or whatever you like on burgers, if you’re making cheeseburgers
+  - Four 1/4-inch-thick tomato slices
+  - Thinly sliced pickles, if desired
+  - 4 burger-sized pieces green-leaf lettuce (I used curly green leaf lettuce)
 
-Directions
-----------
+## Directions
 
 1. Prepare the meat: Form the meat into four equal-sized four-ounce meat “pucks,” roughly 2 1/2 inches thick. Place them on a plate lined with plastic wrap or waxed paper and freeze for 15 minutes, but no longer. We don’t want to freeze the meat, but we’d like it to be extra-cold when it hits the pan.
 2. Make the sauce: Combine all of the ingredients, tasting it and making any adjustments you’d prefer. A dash of hot sauce, perhaps?

@@ -1,8 +1,6 @@
-Fried rice
-==========
+# Fried rice
 
-Ingredients
------------
+## Ingredients
 
 - 3/4 cup finely chopped onion
 - 2 1/2 tablespoons oil
@@ -17,8 +15,7 @@ Ingredients
 - 2 cups bean sprouts
 - 2 tablespoons light soy sauce (add more if you like)
 
-Directions
-----------
+## Directions
 
 1. Heat 1 tbsp oil in wok; add chopped onions and stir-fry until onions turn a nice brown color, about 8-10 minutes; remove from wok.
 2. Allow wok to cool slightly.

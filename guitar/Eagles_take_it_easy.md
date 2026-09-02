@@ -1,5 +1,4 @@
-Eagles - Take it Easy
-=====================
+# Eagles - Take it Easy
 
 ```
 [Intro]

@@ -1,5 +1,4 @@
-Kenny Loggins - Danger Zone
-===========================
+# Kenny Loggins - Danger Zone
 
 Capo on 6
 

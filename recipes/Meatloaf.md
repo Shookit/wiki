@@ -1,8 +1,6 @@
-Meatloaf
-========
+# Meatloaf
 
-Ingredients
------------
+## Ingredients
 
 - 1/4 cup packed brown sugar
 - 1/2 cup ketchup
@@ -15,8 +13,7 @@ Ingredients
 - 1/4 teaspoon ground ginger
 - 3/4 cup finely crushed saltine cracker crumbs
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 5x9 inch loaf pan.
 2. Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar.

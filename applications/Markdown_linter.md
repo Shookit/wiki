@@ -1,5 +1,4 @@
-Markdown linter
-===============
+# Markdown linter
 
 ```bash
 gem install mdl

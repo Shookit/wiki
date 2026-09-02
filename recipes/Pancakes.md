@@ -1,8 +1,6 @@
-Pancakes
-========
+# Pancakes
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups all-purpose flour
 - 2 teaspoons baking powder
@@ -13,8 +11,7 @@ Ingredients
 - 2 cups buttermilk (sub: add 1 3/4 cup milk to 1/4 cup vinegar and let stand for 10 minutes)
 - 4 tablespoons unsalted butter, melted
 
-Directions
-----------
+## Directions
 
 1. Preheat an electric griddle to 375°F, or place a griddle pan or cast-iron skillet over medium heat. Whisk together the flour, baking powder, baking soda, salt, and sugar in a medium bowl. Add the eggs, buttermilk, and 4 tablespoons melted butter, and whisk to combine. The batter should have small to medium lumps.
 2. Test the griddle by sprinkling a few drops of water on it. If the water bounces and spatters, the griddle is hot enough. Using a pastry brush, brush the remaining 1/2 teaspoon butter onto the griddle. Wipe off the excess with a folded paper towel.

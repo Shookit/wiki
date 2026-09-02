@@ -1,8 +1,6 @@
-Databases
-=========
+# Databases
 
-Tables/collections
-------------------
+## Tables/collections
 
 Tables (collections in non-relational stores) and indices generally store data on a one-file-per basis.
 Because of this, you can get extremely high query performance when the entire index or table fits into RAM.
@@ -24,9 +22,7 @@ Intelligent breaking up of tables is critically important here.
 As a rule, don't break your system up into too many tables, as it becomes difficult to manage, and don't prematurely optimize things.
 If your data set is always going to remain small, it's better to just leave things as a unified set.
 
-
-Columnar databases
-------------------
+## Columnar databases
 
 Databases traditionally store data row-by-row, where if you write a few rows of data, the row is stored sequentially on disk.
 You can also store data column-by-column, where if you write a few rows of data, the columns are grouped together.
@@ -66,8 +62,7 @@ But are not so good at:
     Online Transaction Processing (OLTP) usage
 ```
 
-Rules of thumb
---------------
+## Rules of thumb
 
 http://mysql.rjweb.org/doc.php/ricksrots
 

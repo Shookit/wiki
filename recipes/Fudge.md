@@ -1,8 +1,6 @@
-Fudge
-=====
+# Fudge
 
-Ingredients
------------
+## Ingredients
 
 - 4 cups sugar
 - 1 cup milk
@@ -13,8 +11,7 @@ Ingredients
 - 13 ounces semi-sweet chocolate chips
 - 1 cup walnuts (Chopped)
 
-Directions
-----------
+## Directions
 
 1. Mix sugar, milk, vanilla and butter in pan. Bring to a boil for 2 minutes, turn off heat.
 2. Add marshmallows and stir until melted.

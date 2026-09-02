@@ -1,8 +1,6 @@
-Waffles
-=======
+# Waffles
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups all-purpose flour
 - 1/2 teaspoon salt
@@ -14,8 +12,7 @@ Ingredients
 - 1/2 teaspoon vanilla extract
 - Canola or other neutral oil for brushing on waffle pan (Deb note: Pam works great!)
 
-Directions
-----------
+## Directions
 
 1. Combine the dry ingredients. Mix together the buttermilk, egg yolks, butter and vanilla.
 2. Stir the wet into the dry ingredients. Beat the egg whites with the whisk or electric mixer (spotlessly clean ones work best) until they hold soft peaks. Stir them gently into the batter.

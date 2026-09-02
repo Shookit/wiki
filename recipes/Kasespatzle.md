@@ -1,8 +1,6 @@
-Kasespatzle
-===========
+# Kasespatzle
 
-Ingredients
------------
+## Ingredients
 
 - 1 1/2 cups all-purpose flour
 - 3/4 teaspoon ground nutmeg
@@ -14,8 +12,7 @@ Ingredients
 - 1 onion, sliced
 - 1 1/2 cups shredded Emmentaler cheese
 
-Directions
-----------
+## Directions
 
 1. Sift together flour, nutmeg, salt and pepper. Beat eggs in a medium bowl. Alternately mix in milk and the flour mixture until smooth. Let stand for 30 minutes.
 2. Bring a large pot of lightly salted water to a boil. Press batter through a spaetzle press into the water. You may also use a potato ricer, colander, or a cheese grater. When the spaetzle has floated to the top of the water, remove it to a bowl with a slotted spoon. Mix in 1 cup of the cheese.

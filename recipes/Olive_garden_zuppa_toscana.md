@@ -1,8 +1,6 @@
-Olive garden zuppa toscana
-==========================
+# Olive garden zuppa toscana
 
-Ingredients
------------
+## Ingredients
 
 - 1 lb ground Italian sausage
 - 1½ tsp crushed red peppers
@@ -15,8 +13,7 @@ Ingredients
 - 1 lb sliced Russet potatoes, or about 3 large potatoes
 - ¼ of a bunch of kale
 
-Directions
-----------
+## Directions
 
 1. Sauté Italian sausage and crushed red pepper in a large pot. Drain excess fat, refrigerate while you prepare other ingredients.
 2. In the same pan, sauté bacon, onions and garlic over low-medium heat for approximately 15 mins. or until the onions are soft.

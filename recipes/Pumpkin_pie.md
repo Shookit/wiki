@@ -1,8 +1,6 @@
-Pumpkin pie
-===========
+# Pumpkin pie
 
-Ingredients
------------
+## Ingredients
 
 - 1 3/4 cups pumpkin puree, from a 15-ounce (425 gram) can or homemade
 - 2/3 cup (130 grams) granulated sugar
@@ -15,8 +13,7 @@ Ingredients
 - 3 large eggs
 - Pie crust
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 400F
 2. Combine pumpkin, sugar, salt and spices in a medium saucepan over medium heat. Bring to a sputtering simmer and cook for 5 to 7 minutes, stirring frequently. Scoop cooked pumpkin filling into bowl, and whisk in cold cream until smooth. Whisk in eggs, one at a time. Pour filling into prepared pie crust.

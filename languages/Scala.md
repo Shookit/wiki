@@ -1,9 +1,6 @@
-Scala
-=====
+# Scala
 
-
-Basics
-------
+## Basics
 
 ### Environment and structure
 
@@ -21,7 +18,6 @@ object HelloWorld {
 }
 ```
 
-
 ### Best practices
 
 - Don't return early, match instead
@@ -31,17 +27,14 @@ object HelloWorld {
 - Allow as few IO access inside functions as possible. Prefer to pass data in as args to keep functions pure.
 - Using a mutable object is not bad in itself, it becomes bad in a functional programming environment, where you try to avoid side-effects by keeping functions pure and objects immutable. However, if you create a mutable object inside a function and modify this object, the function is still pure if you don't release a reference to this object outside the function.
 
-
 ### Variables
 
 - val=final
 - var=variable
 
-
 ### Strings vs Symbols
 
 Symbols are interned (use a hash table to reference duplicates). Strings are not. Thus, comparing two symbols for equality is faster and saves space, but creation can be slower (need hash lookup).
-
 
 ```scala
 // String:
@@ -52,9 +45,7 @@ var y: Int = Symbol("Hi")
 var z: Int = 'Hi
 ```
 
-
-Collection types
-----------------
+## Collection types
 
 ### Overview
 
@@ -83,9 +74,7 @@ Nil is just a shortened (idiomatic) form of List():
 Nil == List()
 ```
 
-
-Classes and OOP
----------------
+## Classes and OOP
 
 ### Intro
 
@@ -101,7 +90,6 @@ Use 'new' if you want the constructor to be called. If you don't use new, 'apply
 For case classes, new and apply are one and the same, but this isn't always true.
 
 Java rarely has an apply method, so you typically have to use new if working with Java classes
-
 
 ### Constructor parameters
 
@@ -136,14 +124,13 @@ val myCase = new MyCase("v")
 println(myCase.v)
 ```
 
-
 - If no val or var is given, the variable is solely private. If val/var is used, then it sticks around as an instance variable ('field'). Technically, fields are 100% always private, but they can be accessed thru getters/setters, which can be overridden. The getters/setters are created automatically.
 - `bar: Int`, `private val bar: Int`
-    - If this variable is not used anywhere except the constructor, it is garbage-collected and is no longer available. Otherwise, a field is created and is available object-wide. This is never publicly available.
+  - If this variable is not used anywhere except the constructor, it is garbage-collected and is no longer available. Otherwise, a field is created and is available object-wide. This is never publicly available.
 - `val bar: Int`
-    - Same as above but getter is public
+  - Same as above but getter is public
 - `bar: Int` (in case classes)
-    - When case classes are involved, by default each parameter has val modifier (so can be accessed externally and internally).
+  - When case classes are involved, by default each parameter has val modifier (so can be accessed externally and internally).
 
 ### Case classes
 
@@ -168,9 +155,7 @@ object objectName extends A with B with C
 
 - The extends/with syntax doesn't mean "objectName extends A. Also, it inherits B and C". It means "objectName extends (A with B with C)". Different than Java.
 
-
-Functions
----------
+## Functions
 
 - def is "by name": the right-hand side is evaluated on each use.
 - val is "by value": the right-hand side is evaluated upon encountering.
@@ -261,7 +246,6 @@ is the same as the anonymous function
 fileName => fileName.endsWith(query)
 ```
 
-
 ### Parametric polymorphism
 
 Immediately following a def name, you can specify type parameters such as:
@@ -282,9 +266,7 @@ Type parameters also can be used on classes.
 
 Tail recursion is an optimization, where if recursion is the last line, it doesn't use a new stack frame. @tailrec guarantees that the method is tail recursive; it will throw an error if it's not TR.
 
-
-Pattern matching
-----------------
+## Pattern matching
 
 Note: match/case blocks inexplicably require {} instead of (), even on single-line blocks!
 
@@ -358,12 +340,11 @@ a match {
 }
 ```
 
-Typing
-------
+## Typing
 
 ### Type erasure
 
-Because of Java VM backing, all type information is removed from generics. For example, List\[Int\] becomes just a List. Use TypeTags to get around this.
+Because of Java VM backing, all type information is removed from generics. For example, List[Int] becomes just a List. Use TypeTags to get around this.
 
 ```scala
 def test[A](input: List[A]) = {
@@ -381,7 +362,7 @@ println(test(List("1", "2", "3")))
 
 ### Variance
 
-One question that comes up: if T’ is a subclass of T, is Container\[T’\] considered a subclass of Container\[T\]?
+One question that comes up: if T’ is a subclass of T, is Container[T’] considered a subclass of Container[T]?
 
 On classes (not functions!), type parameters can have variance notation (a hierarchy specification):
 
@@ -427,8 +408,7 @@ def testdef[A >: testclass1](a: A): A = a
 val res1 = testdef(testclass2(1))
 ```
 
-Evaluation strategies
----------------------
+## Evaluation strategies
 
 Call by value and call by name determine when the inputs are evaluated: either when needed or when passed. Call by value has the advantage that it evaluates each function argument only once. Call by name has the advantage that if the argument isn't evaluated if it isn't used to calc the final value.
 
@@ -471,10 +451,9 @@ test(7, 2*4) (cbn is better, since y isn't used, and is only evaluated when 
 */
 ```
 
-Declarative programming
------------------------
+## Declarative programming
 
-Note: with any of these functions, prefer using the 'case' statement to name the inputs, rather than using a bunch of _._1/_._2 statements; it becomes very difficult to understand otherwise. Also, avoid heavy nesting and chaining of functions, as this becomes confusing and hard to reuse. Just break out into variables.
+Note: with any of these functions, prefer using the 'case' statement to name the inputs, rather than using a bunch of \_._1/_.\_2 statements; it becomes very difficult to understand otherwise. Also, avoid heavy nesting and chaining of functions, as this becomes confusing and hard to reuse. Just break out into variables.
 
 ### Map
 
@@ -550,7 +529,7 @@ prints:
 
 ### Flatten
 
-collection\[Option\[Type\]\].flatten returns collection\[Type\], where all of the "None"s are removed.
+collection\[Option[Type]\].flatten returns collection[Type], where all of the "None"s are removed.
 
 ### Others
 
@@ -561,9 +540,7 @@ collection\[Option\[Type\]\].flatten returns collection\[Type\], where all of th
 - find
 - drop and dropWhile
 
-
-Play framework
---------------
+## Play framework
 
 - Start the local server with activator ~run. (w/ the tilde), or use IntelliJ's internal server (run play app, enable auto-reload).
 - When starting a new project, just open as an SBT project and auto-import libs.
@@ -604,8 +581,6 @@ Password: <blank>
 
 Avoid nested DB calls like the plague. Looping over database access completely murders performance. One big call is way more efficient. Also, getting data as early as possible is way easier to test. Get as little data as you absolutely need.
 
-
 ### Slick
-
 
 Build the sql query (joins/selects, etc), and then convert this to a scala list ASAP. Query doesn't execute until then, and is easy to forget.

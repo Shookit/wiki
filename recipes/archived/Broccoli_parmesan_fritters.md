@@ -1,8 +1,6 @@
-Broccoli parmesan fritters
-==========================
+# Broccoli parmesan fritters
 
-Ingredients
------------
+## Ingredients
 
 - 8 ounces (1 small-to-medium bundle, 225 grams) fresh broccoli (3 cups chopped)
 - 1 large egg
@@ -13,8 +11,7 @@ Ingredients
 - A pinch of red pepper flakes or several grinds of black pepper
 - Olive or vegetable oil for frying
 
-Directions
-----------
+## Directions
 
 1. Prepare your broccoli: Separate the florets from the biggest stem(s). Cut the florets into 1-inch chunks. To prepare the stems, I like to peel them, as the skin can be thick and doesn’t cook quickly, then slice them into 1/2-inch lengths. You should have about 3 cups of chopped broccoli total.
 2. Steam your broccoli until tender but not mushy: Use whatever method you prefer. My quickie, lazy method is to bring a 1/2-inch or so of water to a boil in a small saucepan, then add the broccoli, place a lid on it and simmer it for 5 to 6 minutes. Drain the broccoli, then set it aside to cool slightly.

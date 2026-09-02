@@ -1,8 +1,6 @@
-Chicken pot pie casserole
-=========================
+# Chicken pot pie casserole
 
-Ingredients
------------
+## Ingredients
 
 - 3 carrots
 - 3 celery stalks
@@ -13,9 +11,7 @@ Ingredients
 - 2 cans cream of chicken soup
 - Canned biscuits
 
-
-Directions
-----------
+## Directions
 
 1. Cook biscuits according to can's directions
 2. Head oven 375, Season chicken with salt and pepper and bake for 20 min.

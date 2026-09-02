@@ -1,8 +1,6 @@
-Yellow rice
-===========
+# Yellow rice
 
-Ingredients
------------
+## Ingredients
 
 - 1-1/2 cups basmati rice, washed
 - 1 tablespoon unsalted butter
@@ -17,8 +15,7 @@ Ingredients
 - 1/3 cup dried fruit, such as currants, raisins or finely chopped dried apricots (optional)
 - 1/4 cup sliced or slivered almonds, toasted until golden (optional)
 
-Directions
-----------
+## Directions
 
 1. Melt butter in a pot over medium-low heat. Add onions and cook, stirring regularly, until softened but not browned, about 4 minutes.
 2. Add cumin, turmeric, cinnamon, and garlic to sautéed onions and cook until fragrant, about 30 seconds longer.

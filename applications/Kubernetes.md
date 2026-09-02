@@ -62,7 +62,6 @@ spec:
 
 ```
 
-
 ## Services and deployments
 
 ```yaml

@@ -1,8 +1,6 @@
-French onion soup
-=================
+# French onion soup
 
-Ingredients
-----------
+## Ingredients
 
 - 6 large red or yellow onions (about 3 pounds)
 - 4 tablespoons extra virgin olive oil
@@ -20,9 +18,7 @@ Ingredients
 - 1 1/2 cups grated Gruyere cheese
 - Sprinkling grated Parmesan cheese
 
-
-Directions
------------
+## Directions
 
 1. Peel and thinly slice the onions from root to stem. There should be about 10 cups of sliced onions in total.
 2. In a 5 to 6 quart thick-bottomed pot, heat 3 tablespoons of olive oil on medium heat. Add the onions and toss to coat with the olive oil. Cook the onions, stirring often, until they have softened, about 15 to 20 minutes. Increase the heat to medium high. Add the remaining tablespoon of olive oil and the butter and cook, stirring often, until the onions start to brown, about 20 to 40 minutes. The amount of time will vary depending on your pot, stove, and onions.

@@ -1,8 +1,6 @@
-Double chocolate banana bread
-====================
+# Double chocolate banana bread
 
-Ingredients
------------
+## Ingredients
 
 - 3 medium-to-large very ripe bananas
 - 1/2 cup (115 grams) butter, melted
@@ -16,8 +14,7 @@ Ingredients
 - 1/2 cup Dutch-process cocoa powder
 - 1 cup (about 6 ounces or 170 grams) semisweet or bittersweet chocolate chunks or chips
 
-Directions
-----------
+## Directions
 
 1. Heat your oven to 350°F. Butter a 9×5-inch loaf pan, or spray it with a nonstick baking spray.
 2. Mash bananas in the bottom of a large bowl. (You’ll have a little over 1 cup mashed banana total.) Whisk in melted butter, then brown sugar, egg, and vanilla. Place baking soda, salt, cinnamon (if using), flour and cocoa powder in a sifter or fine-mesh strainer and sift over wet ingredients. (My cocoa is almost always lumpy, so this is essential for me.) Stir dry and wet ingredients with a spoon until just combined. Stir in chocolate chunks or chips.

@@ -1,8 +1,6 @@
-Blue cheese scallion drop biscuits
-==================================
+# Blue cheese scallion drop biscuits
 
-Ingredients
------------
+## Ingredients
 
 - 2 1/4 cups all-purpose flour
 - 2 1/2 teaspoons baking powder
@@ -14,8 +12,7 @@ Ingredients
 - 4 scallions, finely chopped
 - 1 cup well-shaken buttermilk (or, you can make your own)
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 450°F. Whisk together flour, baking powder, sugar, baking soda, and salt in a bowl, then blend in butter with your fingertips until mixture resembles coarse meal. Stir in blue cheese and scallions. Add buttermilk and stir until just combined.
 2. Drop dough in 12 equal mounds about 2 inches apart onto a buttered large baking sheet, or one lined with parchment paper. Bake in middle of oven until golden, 16 to 20 minutes.

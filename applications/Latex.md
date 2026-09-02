@@ -1,8 +1,6 @@
-Latex
-=====
+# Latex
 
-Resources
----------
+## Resources
 
 ### Equation editor
 
@@ -12,9 +10,7 @@ Resources
 
 <http://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#BibTeX>
 
-
-Best practices
---------------
+## Best practices
 
 - __Don't worry about formatting until you're done with the paper__
 - One line per sentence
@@ -22,9 +18,7 @@ Best practices
 - Use `\centering` instead of `\begin{center} \end{center}` to center things inside tables/figures etc. `\centering` doesn't add any additional vertical space.
 - Encode data or terms that might change as variables
 
-
-Formatting and typography
--------------------------
+## Formatting and typography
 
 ### Emphasis
 
@@ -39,9 +33,7 @@ Use the PDFCrop tool
 
 It is currently impossible to force 2-column floats to appear on the same page as when they are referenced. The best method is to declare the figure as a separate file via `/input`, move this input higher in the paper as necessary. This should be one of the last steps before submission, since adding/removing text impacts this placement.
 
-
-Bibliography and citations
---------------------------
+## Bibliography and citations
 
 ### Automatic section/author refs
 
@@ -63,7 +55,7 @@ bibtool -r bibtool.rsc -i paper.bib -o papernew.bib
 
 ### Bibtool config
 
-Use the `bibtool.rsc` config file to specify how the output bib file will be formatted. Can also specify the sort order for various document types. "\#" is a separator, not a comment.
+Use the `bibtool.rsc` config file to specify how the output bib file will be formatted. Can also specify the sort order for various document types. "#" is a separator, not a comment.
 
 ```
 print.line.length = 10000
@@ -84,8 +76,7 @@ sort.order{article =
     #note }
 ```
 
-Issues
-------
+## Issues
 
 ### Cref not being highlighted correctly in vim
 

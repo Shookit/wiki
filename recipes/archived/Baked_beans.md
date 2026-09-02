@@ -1,8 +1,6 @@
-Baked beans
-===========
+# Baked beans
 
-Ingredients
------------
+## Ingredients
 
 - 1 pound dried Great Northern beans
 - 1 pound bacon, chopped
@@ -15,8 +13,7 @@ Ingredients
 - 1 teaspoon black pepper
 - 2 teaspoons kosher salt
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 250 degrees F.
 2. Soak beans in a plastic container overnight in just enough cold water to submerge them completely (should be mostly dry by next day).

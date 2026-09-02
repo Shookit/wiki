@@ -23,4 +23,4 @@
 4. Bring to a boil, season with salt then simmer for 15 minutes.
 5. Add the kale, tortellini and heavy cream.
 6. Simmer for 3-5 minutes until the kale is wilted and the pasta is tender.
-7. Serve with parmesan cheese and red pepper flakes if desired. 
+7. Serve with parmesan cheese and red pepper flakes if desired.

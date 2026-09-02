@@ -1,8 +1,6 @@
-Fish tacos
-===========
+# Fish tacos
 
-Ingredients
------------
+## Ingredients
 
 - 2lbs tilapia
 - Corn tortillas
@@ -13,9 +11,7 @@ Ingredients
 - Salt
 - Oil
 
-
-Directions
-----------
+## Directions
 
 1. Fry tilapia in oil and a heavy coating of chili powder. Toward end of cooking, gently break up filets into bite-size chunks
 2. Fry/steam tortillas

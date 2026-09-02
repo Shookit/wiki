@@ -1,8 +1,6 @@
-Obatzda
-=======
+# Obatzda
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups camebert (or brie)
 - 2/3 cup marscapone (or cream cheese)
@@ -15,9 +13,7 @@ Ingredients
 - Freshly ground black pepper
 - Beer, to desired consistency
 
-
-Directions
-----------
+## Directions
 
 - Combine all ingredients except shallot/onion with hands
 - Add beer to achieve sticky (but not wet) consistency

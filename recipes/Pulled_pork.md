@@ -1,8 +1,6 @@
-Pulled pork
-===========
+# Pulled pork
 
-Directions
-----------
+## Directions
 
 1. 8-9 hours for pork, plenty of charcoal; clean out ash tray before/after
 2. Cover in foil after hour 4 (after smoking is completed)

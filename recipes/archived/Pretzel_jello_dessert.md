@@ -1,8 +1,6 @@
-Pretzel jello dessert
-=====================
+# Pretzel jello dessert
 
-Ingredients
------------
+## Ingredients
 
 - 1 1/2c pretzels
 - 4 1/2 Tbsp sugar
@@ -14,8 +12,7 @@ Ingredients
 - 2c boiling water
 - 16oz frozen strawberries
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350
 2. Mix first 3 ingredients

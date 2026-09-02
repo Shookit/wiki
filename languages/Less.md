@@ -1,8 +1,6 @@
-LESS
-====
+# LESS
 
-Basics
-------
+## Basics
 
 ```
 // Imports
@@ -45,9 +43,7 @@ spin() - modifies the hue of the color.
 @borderColor:darken(desaturate(@defaultThemeColor, 100%), 20%);
 ```
 
-
-Nesting
--------
+## Nesting
 
 ```
 //Instead of:

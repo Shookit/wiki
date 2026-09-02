@@ -1,10 +1,8 @@
-Mongo
-=====
+# Mongo
 
 Remember, "col" means "collection", not "column"!
 
-Basic commands
---------------
+## Basic commands
 
 ```
 mongo <dbname> -u <dbuser> -p
@@ -28,9 +26,7 @@ db.target_collection.update({'id':'id-89012'}, {$set: {'field_to_set': 'newval'}
 
 If collection has a special char, need to use ["prop:erty"] instead of .prop:erty
 
-
-Nested vs full queries
-----------------------
+## Nested vs full queries
 
 ```
 # Finds everything where size.uom is 'in'
@@ -40,16 +36,13 @@ db.inventory.find( {"size.uom":"in"} )
 db.inventory.find( {"size":{"uom":"in"}} )
 ```
 
-Check for unused indices
-------------------------
+## Check for unused indices
 
 ```
 db.myColl.aggregate( { $indexStats: { } } )
 ```
 
-
-Count by bucket
----------------
+## Count by bucket
 
 For a particular key, create it if it doesn't exist, and increment 'count' on that record by one, atomically
 

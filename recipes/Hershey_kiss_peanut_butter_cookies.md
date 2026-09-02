@@ -1,8 +1,6 @@
-Hershey kiss peanut butter cookies
-==================================
+# Hershey kiss peanut butter cookies
 
-Ingredients
------------
+## Ingredients
 
 - 48 HERSHEY'S KISSES Brand Milk Chocolates
 - 1/2 cup shortening
@@ -16,8 +14,7 @@ Ingredients
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 375°F. Remove wrappers from chocolates.
 2. Beat shortening and peanut butter in large bowl until well blended. Add 1/3 cup granulated sugar and brown sugar; beat until fluffy. Add egg, milk and vanilla; beat well. Stir together flour, baking soda and salt; gradually beat into peanut butter mixture.

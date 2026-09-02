@@ -1,8 +1,6 @@
-Grandma's red cabbage
-=====================
+# Grandma's red cabbage
 
-Ingredients
------------
+## Ingredients
 
 - Big head of red cabbage
 - 6 apples, skinned and cored
@@ -11,9 +9,7 @@ Ingredients
 - 1/4 cup sugar
 - 1 tsp caraway seed
 
-
-Directions
-----------
+## Directions
 
 1. Run cabbage and apples thru food processor w/ shredding disk (or chop finely, but is time-consuming)
 2. Cook on low heat for 1 hour, stirring occasionally and monitoring liquid levels

@@ -1,9 +1,6 @@
-Chili con carne
-===============
+# Chili con carne
 
-Ingredients
------------
-
+## Ingredients
 
 ### Base ingredients
 
@@ -35,9 +32,7 @@ Ingredients
 - 3 dried whole ancho chiles
 - 1 tsp salt
 
-
-Directions
-----------
+## Directions
 
 ### If using whole chilies
 
@@ -46,7 +41,6 @@ Directions
 3. Lower the heat and rehydrate the chiles by adding water to cover.
 4. Bring to a simmer and cover. Turn off the heat and steep for 10 minutes.
 5. Add the chiles and their soaking liquid to a high-powered blender. Blend on high speed for about one minute, until very smooth.
-
 
 ### The rest
 

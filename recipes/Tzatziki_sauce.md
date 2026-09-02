@@ -1,8 +1,6 @@
-Tzatziki sauce
-==============
+# Tzatziki sauce
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup plain yogurt
 - 1/2 cucumber, peeled
@@ -10,7 +8,6 @@ Ingredients
 - 1/2 lemon, juiced
 - Pinch dried mint (optional)
 
-Directions
-----------
+## Directions
 
 1. Combine in food processor, go wild

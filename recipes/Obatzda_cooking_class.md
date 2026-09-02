@@ -1,10 +1,8 @@
-Obatzda
-=======
+# Obatzda
 
 Serves 3
 
-Ingredients
------------
+## Ingredients
 
 - Camembert or Brie: 100 g (ripe, at room temperature)
 - Butter: 10 g (softened)
@@ -15,8 +13,7 @@ Ingredients
 - Salt & black pepper: to taste
 - Fresh chives: chopped, for garnish
 
-Directions
-----------
+## Directions
 
 1. Prep base: Ensure all ingredients are at room temperature. Chop the Camembert or Brie into small pieces and place in a mixing bowl.
 2. Mash: Add the softened butter and cream cheese to the bowl. Mash everything together using a fork until mostly combined (a few small cheese lumps are fine and traditional).

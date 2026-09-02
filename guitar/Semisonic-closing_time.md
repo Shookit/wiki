@@ -1,6 +1,4 @@
-Semisonic - Closing Time
-========================
-
+# Semisonic - Closing Time
 
 ```
 [Intro]

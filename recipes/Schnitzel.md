@@ -1,8 +1,6 @@
-Schnitzel
-=========
+# Schnitzel
 
-Ingredients
------------
+## Ingredients
 
 - 4 boneless pork loin chops (about 5 to 6 ounces each)
 - 1 1/2 cups all-purpose flour
@@ -15,8 +13,7 @@ Ingredients
 - 1 sprig thyme
 - Lemon wedges
 
-Directions
-----------
+## Directions
 
 1. Begin by placing each chop between 2 sheets of plastic wrap and gently pounding them out with the flat side of a meat tenderizer until they are an even 1/4-inch thick.
 2. Put the flour in a shallow dish and season with salt and pepper.

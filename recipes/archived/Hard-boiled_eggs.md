@@ -1,13 +1,10 @@
-Hard-boiled eggs
-================
+# Hard-boiled eggs
 
-Ingredients
------------
+## Ingredients
 
 - Eggs
 
-Directions
-----------
+## Directions
 
 1. Put eggs in water, covered, and heat water to a boil
 2. Turn off heat

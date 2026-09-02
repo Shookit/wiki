@@ -1,8 +1,6 @@
-Chicken pot pie
-===============
+# Chicken pot pie
 
-Ingredients
------------
+## Ingredients
 
 - 1 pound skinless, boneless chicken breast halves - cubed
 - 1 cup sliced carrots
@@ -17,8 +15,7 @@ Ingredients
 - 1 3/4 cups chicken broth
 - 2/3 cup milk
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 425 degrees F (220 degrees C.)
 2. In a saucepan, combine chicken, carrots, peas, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside.

@@ -1,5 +1,4 @@
-Caramel sauce
-=============
+# Caramel sauce
 
 ## Ingredients
 
@@ -9,7 +8,6 @@ Caramel sauce
 - 12 tablespoons Salted Butter, sliced into tablespoons
 - 1 cup Heavy Cream
 - 1 teaspoon Sea Salt
-
 
 ## Directions
 

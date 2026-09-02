@@ -1,8 +1,6 @@
-Pecan crusted chicken
-=====================
+# Pecan crusted chicken
 
-Ingredients
------------
+## Ingredients
 
 - 1-1/4 cups pecans
 - 1-1/4 cups panko bread crumbs
@@ -14,8 +12,7 @@ Ingredients
 - 1/2 cup all purpose flour
 - Vegetable oil, for cooking
 
-Directions
-----------
+## Directions
 
 1. Place the pecans in the bowl of a food processor and pulse until finely chopped (go easy -- you don't want a paste). Add the panko, 1-1/4 teaspoon salt, sugar and cayenne pepper and pulse a few more times to combine. The panko should be broken down slightly but not finely ground.
 2. Set up three large shallow dishes in an assembly line. Place the flour in the first dish; beat the eggs in the second dish; and place the pecan/panko mixture in the third dish. Line a baking sheet with aluminum foil to hold the breaded tenders, and place at the end of the assembly line.

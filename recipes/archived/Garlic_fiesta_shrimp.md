@@ -1,8 +1,6 @@
-Garlic fiesta shrimp
-====================
+# Garlic fiesta shrimp
 
-Ingredients
------------
+## Ingredients
 
 - 1 tablespoon(s) olive oil
 - 4 clove(s) garlic, finely chopped
@@ -14,8 +12,7 @@ Ingredients
 - 1/4 cup(s) crumbled feta cheese
 - Cooked orzo or flatbread, for serving
 
-Directions
-----------
+## Directions
 
 1. In a large skillet, heat olive oil with garlic and lemon zest until beginning to brown.
 2. Add salsa and tomato sauce and bring to a simmer. Nestle shrimp in the salsa mixture and cook, covered, for 3 minutes.

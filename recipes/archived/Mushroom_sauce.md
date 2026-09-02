@@ -1,8 +1,6 @@
-Mushroom sauce
-==============
+# Mushroom sauce
 
-Ingredients
------------
+## Ingredients
 
 - 2 tbsp unsalted butter
 - 1/2 tbsp olive oil
@@ -12,11 +10,10 @@ Ingredients
 - 1/4 cup white wine or rose, dry
 - 1/2 cup chicken or vegetable broth
 - 1 cup (250 ml) heavy / thickened cream
-- 1/2 cup parmesan ,finely grated  (Note 4)
+- 1/2 cup parmesan ,finely grated (Note 4)
 - 2 tsp fresh thyme leaves (or 1/2 tsp dried)
 
-Directions
-----------
+## Directions
 
 1. Heat oil and melt butter in a skillet over medium high heat. Add mushrooms and leisurely cook until golden brown - takes about 4 to 5 minutes. No need to stir constantly.
 2. Just before they're done, add the garlic and a pinch of salt and pepper. Cook until garlic is golden (~ 1 minute).

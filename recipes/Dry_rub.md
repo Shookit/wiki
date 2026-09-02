@@ -1,8 +1,6 @@
-Dry rub
-=======
+# Dry rub
 
-Ingredients
------------
+## Ingredients
 
 - 8 parts brown sugar
 - 3 parts kosher salt

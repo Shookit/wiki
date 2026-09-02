@@ -1,8 +1,6 @@
-Grilled chicken with spinach and melted mozzarella
-==================================================
+# Grilled chicken with spinach and melted mozzarella
 
-Ingredients
------------
+## Ingredients
 
 - 24oz (3 large) chicken breasts sliced in half lengthwise to make 6 cutlets
 - Salt and pepper to taste
@@ -12,8 +10,7 @@ Ingredients
 - 3oz shredded part skim mozzarella
 - 1 roasted red pepper, sliced in strips
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 400°. Season chicken with salt and pepper. Lightly spray a grill with oil (I used my George Forman) or grill outside on a gas grill. Cook chicken on the grill until no longer pink, careful not to overcook or you'll have dry chicken.
 2. Meanwhile, heat a sauté pan on medium heat. Add oil and garlic, sauté a few seconds, add spinach, salt and pepper. Cook a few minutes until heated through.

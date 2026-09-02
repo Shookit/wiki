@@ -6,7 +6,7 @@
 - 3/4 oz lime juice
 - 1/4 oz rich simple syrup
 - 3-4 strawberries
-- 6 mint leaves 
+- 6 mint leaves
 
 ## Directions
 

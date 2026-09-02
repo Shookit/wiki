@@ -1,8 +1,6 @@
-Pintos and cheese
-=================
+# Pintos and cheese
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups dry pinto beans
 - 1 tablespoon extra-virgin olive oil
@@ -15,8 +13,8 @@ Ingredients
 - 8oz shredded cheese
 - 1 can hot red enchilada sauce
 
-Directions
-----------
+## Directions
+
 - Cook pinto beans in pressure cooker w/ sufficient water, on high pressure, for 30 minutes. Make sure you do a slow release, not a quick release.
 - In a medium saucepan over medium heat, cook onions in salt and olive oil until translucent.
 - Add the garlic, chili powder and cumin. Cook until fragrant, about 30 seconds. Pour in the drained beans and water. Stir, cover and cook for 5 minutes.

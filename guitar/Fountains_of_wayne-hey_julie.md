@@ -1,6 +1,4 @@
-Fountains of Wayne - Hey Julie
-==============================
-
+# Fountains of Wayne - Hey Julie
 
 ```
 [Intro]

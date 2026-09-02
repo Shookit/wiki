@@ -1,8 +1,6 @@
-Vuex
-====
+# Vuex
 
-Mutations vs actions
---------------------
+## Mutations vs actions
 
 Mutations are the only way to modify state.
 Mutations don't care about business logic, just about "state".
@@ -10,9 +8,7 @@ Mutations are synchronous.
 Actions are business logic.
 Actions can dispatch more than 1 mutation at a time (or as necessary) to create the business logic.
 
-
-Store properties
-----------------
+## Store properties
 
 ### State
 
@@ -23,7 +19,6 @@ state: {
     someStateVariable: []
 }
 ```
-
 
 ### Getters
 
@@ -36,7 +31,6 @@ getters: {
     }
 }
 ```
-
 
 ### Mutations
 
@@ -63,7 +57,6 @@ actions: {
 }
 ```
 
-
 ### Modules
 
 This is used to modularize the store, rather than having a single massive application.
@@ -76,4 +69,3 @@ export default new Vuex.Store({
   }
 })
 ```
-

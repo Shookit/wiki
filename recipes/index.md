@@ -1,8 +1,6 @@
-Recipes
-=======
+# Recipes
 
-Breakfast
----------
+## Breakfast
 
 - [Biscuits and gravy](Biscuits_and_gravy.md)
 - [Cinnamon rolls](Cinnamon_rolls.md)
@@ -11,17 +9,13 @@ Breakfast
 - [Pancakes](Pancakes.md)
 - [Waffles](Waffles.md)
 
-
-Beef
-----
+## Beef
 
 - [Bulgogi](Bulgogi.md)
 - [Instant pot italian beef](Instant_pot_italian_beef.md)
 - [Meatloaf](Meatloaf.md)
 
-
-Poultry
--------
+## Poultry
 
 - [Chicken divan](Chicken_divan.md)
 - [Frank's buffalo chicken dip](Franks_buffalo_chicken_dip.md)
@@ -35,9 +29,7 @@ Poultry
 - [Turkey stuffing](Turkey_stuffing.md)
 - [Turkey](Turkey.md)
 
-
-Pork
-----
+## Pork
 
 - [Dejibulgogi (sweet, from Chang)](Dejibulgogi_sweet_chang.md)
 - [Dejibulgogi (spicy, from Chang)](Dejibulgogi_spicy_chang.md)
@@ -47,17 +39,13 @@ Pork
 - [Smoked ribs](Smoked_ribs.md)
 - [Spam musubi](Spam_musubi.md)
 
-
-Seafood
--------
+## Seafood
 
 - [Crab cakes](Crab_cakes.md)
 - [Roasted shrimp and orzo](Roasted_Shrimp_and_Orzo.md)
 - [Zesty lime shrimp and avocado salad](Zesty_lime_shrimp.md)
 
-
-Veggies
--------
+## Veggies
 
 - [Caprese salad](Caprese_salad.md)
 - [Collard greens](Collard_greens.md)
@@ -69,9 +57,7 @@ Veggies
 - [Sambar](Sambar.md)
 - [Wrightwood salad](Wrightwood_salad.md)
 
-
-Rice/grains/pastas/starches
----------------------------
+## Rice/grains/pastas/starches
 
 - [Bolognese](Bolognese.md)
 - [Calico beans](Calico_beans.md)
@@ -91,17 +77,13 @@ Rice/grains/pastas/starches
 - [Red beans and rice](Red_beans_and_rice.md)
 - [Zeera rice](Zeera_rice.md)
 
-
-Sandwiches
-----------
+## Sandwiches
 
 - [Crock pot buffalo chicken wraps](Crock_pot_buffalo_chicken_wraps.md)
 - [Croque-madame](Croque-madame.md)
 - [Pan burgers](Pan_burgers.md)
 
-
-Soups/stews
------------
+## Soups/stews
 
 - [Beef and Guinness stew](Beef_and_Guinness_stew.md)
 - [Beer cheese soup](Beer_cheese_soup.md)
@@ -116,9 +98,7 @@ Soups/stews
 - [Roasted tomato basil soup](Roasted_tomato_basil_soup.md)
 - [Split pea soup](Split_pea_soup.md)
 
-
-Breads
-------
+## Breads
 
 - [Banana bread](Banana_bread.md)
 - [Grandma's rolls](Grandmas_rolls.md)
@@ -126,9 +106,7 @@ Breads
 - [Pumpkin bread](Pumpkin_bread.md)
 - [Zucchini bread](Zucchini_bread.md)
 
-
-Sauces
-------
+## Sauces
 
 - [Au Poivre](Au_poivre.md)
 - [Chimichurri](Chimichurri.md)
@@ -136,9 +114,7 @@ Sauces
 - [Tzatziki sauce](Tzatziki_sauce.md)
 - [Stir fry brown sauce](Stir_fry_brown_sauce.md)
 
-
-Sides
------
+## Sides
 
 - [Bacon dressing](Bacon_dressing.md)
 - [Hummus](Hummus.md)
@@ -146,16 +122,12 @@ Sides
 - [Obatzda (cooking class)](Obatzda_cooking_class.md)
 - [Salsa verde](Salsa_verde.md)
 
-
-Misc
-----
+## Misc
 
 - [Dry rub](Dry_rub.md)
 - [Garlicky dill pickles (no sugar, extra sour)](Garlicky_dill_pickles.md)
 
-
-Desserts
---------
+## Desserts
 
 - [7-layer bars](7-layer_bars.md)
 - [Apple crumble](Apple_crumble.md)
@@ -176,12 +148,10 @@ Desserts
 - [Rice pudding](Rice_pudding.md)
 - [Salted chocolate chunk cookies](Salted_chocolate_chunk_cookies.md)
 
-Drinks
-------
+## Drinks
 
 - [Kombucha](Kombucha.md)
 - [Masala chai](Masala_Chai.md)
 - [Matcha latte](Matcha_latte.md)
-
 
 ## [Archived](archived/index.md)

@@ -1,5 +1,4 @@
-Kenny Loggins - Danny's Song
-===========================
+# Kenny Loggins - Danny's Song
 
 ```
 [Verse]

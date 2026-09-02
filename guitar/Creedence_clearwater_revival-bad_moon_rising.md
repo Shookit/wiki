@@ -1,6 +1,4 @@
-Creedence Clearwater Revival - Bad Moon Rising
-==============================================
-
+# Creedence Clearwater Revival - Bad Moon Rising
 
 ```
 [Verse 1]

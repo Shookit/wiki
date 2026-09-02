@@ -1,14 +1,10 @@
-Lifting
-=======
+# Lifting
 
-General form
-------------
+## General form
 
 - Never, ever 'jerk' the weight to get the last rep of a set out
 
-
-Squat
------
+## Squat
 
 ### Warmup
 
@@ -31,37 +27,31 @@ Squat
 - Feel tension/push in butt
 - On the way up, don't push upward with the back; keep straight
 
-Cleans
-------
+## Cleans
 
 - Try to keep weight back somewhat
 - Up on toes -> stomp feet on the catch
 
-Standing barbell press
-----------------------
+## Standing barbell press
 
 - Start at chest
 - Elbows in
 - Full extension
 - Weight should be in middle of spine at peak; have to move head back at start to get it out of the way.
 
-Standing rows
--------------
+## Standing rows
 
 - Palm down
 - Keep everything tight through abs, butt, and lower back
 - Start and return bar to the floor between each rep; don't keep airborne the entire time.
 
-Deadlift
---------
+## Deadlift
 
 - Raise hips until hamstring tension
 - Keep everything tight through abs, butt, and lower back
 - Legs should be shoulder-width or narrower
 
-
-Accessory lifts
----------------
+## Accessory lifts
 
 Can add accessory lifts if desired, to the end of the program:
 

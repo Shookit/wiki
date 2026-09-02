@@ -1,8 +1,6 @@
-Chicken wings
-=============
+# Chicken wings
 
-Ingredients
------------
+## Ingredients
 
 - 20 to 25 chicken wings
 - Vegetable oil for deep frying
@@ -11,8 +9,7 @@ Ingredients
 - Celery sticks
 - Blue cheese dressing
 
-Directions
-----------
+## Directions
 
 1. Cut wings in half. Remove wing tips. Deep-fry wings, about half at a time in hot oil until they are crisp and golden brown, about 10 minutes. (Do not use any batter or crumbs). Drain wings well.
 2. Melt butter in a saucepan. Add about 1/2 of the bottle of hot sauce; stir until well blended. Using 1/2 bottle will give medium-hot chicken wings. If you like your wings hotter, add the whole bottle. If you want them milder add more butter. Place chicken wings in a large container with a cover, pour sauce over wings. Mix well.

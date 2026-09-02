@@ -1,8 +1,6 @@
-Spaghetti carbonara
-===================
+# Spaghetti carbonara
 
-Ingredients
------------
+## Ingredients
 
 - 2 large eggs, room temperature
 - 2 additional egg yolks, room temperature
@@ -13,9 +11,7 @@ Ingredients
 - Coarsely ground black pepper
 - 12 ounces spaghetti
 
-
-Directions
-----------
+## Directions
 
 1. Place a large pot of lightly salted water (no more than 1 tablespoon salt) over high heat, and bring to a boil.
 2. In a mixing bowl, whisk together the eggs, yolks and cheeses. Season with a pinch of salt and generous black pepper.

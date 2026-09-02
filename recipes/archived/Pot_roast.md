@@ -1,8 +1,6 @@
-Pot roast
-=========
+# Pot roast
 
-Ingredients
------------
+## Ingredients
 
 - Salt and freshly ground black pepper
 - One 3- to 5-pound chuck roast
@@ -13,9 +11,7 @@ Ingredients
 - 3 cups beef broth
 - 2 or 3 sprigs fresh thyme
 
-
-Directions
-----------
+## Directions
 
 1. Preheat the oven to 275 degrees F.
 2. Generously salt and pepper the chuck roast.

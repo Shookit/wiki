@@ -1,8 +1,6 @@
-Pumpkin roll
-============
+# Pumpkin roll
 
-Ingredients
------------
+## Ingredients
 
 - 3 eggs
 - 1 cup sugar
@@ -20,8 +18,7 @@ Filling:
 - 1 cup powder sugar
 - 1 teaspoon vanilla
 
-Directions
-----------
+## Directions
 
 1. Beat eggs on high for 5 mins. Gradually add sugar. Blend remaining cake ingredients and combine with eggs and sugar.
 2. Pour batter onto a cookie sheet covered with wax paper. Sprinkle with chopped nuts. Bake at 350 for 15 mins.

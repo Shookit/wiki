@@ -1,8 +1,6 @@
-Pepper steak
-============
+# Pepper steak
 
-Ingredients
------------
+## Ingredients
 
 - 2 lbs beef (round or sirloin), cut into strips
 - 1 stick butter
@@ -18,8 +16,7 @@ Ingredients
 - 1 tsp salt
 - Serve w/ rice
 
-Directions
-----------
+## Directions
 
 1. Add beef and garlic powder to butter, brown.
 2. Remove meat, add onions and pepper. Saute about 2 minutes.

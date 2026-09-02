@@ -1,8 +1,6 @@
-Cornbread
-=========
+# Cornbread
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup milk
 - 1⁄4 cup butter or 1⁄4 cup margarine, melted
@@ -13,8 +11,7 @@ Ingredients
 - 1 tablespoon baking powder
 - 1⁄2 teaspoon salt
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 400³F.
 2. Grease bottom and side or round pan, 9x1 1/2 inches, or square pan, 8x8x2 inches, with shortening.

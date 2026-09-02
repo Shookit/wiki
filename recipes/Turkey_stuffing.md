@@ -1,8 +1,6 @@
-Turkey stuffing
-===============
+# Turkey stuffing
 
-Ingredients
------------
+## Ingredients
 
 - 1 lb sausage (unbrowned)
 - 1 lb ground beef (unbrowned)
@@ -12,8 +10,7 @@ Ingredients
 - 1 tsp dry parsley
 - 2 chicken bouillon cubes
 
-Directions
-----------
+## Directions
 
 1. Dissolve bouillon cubes in cup of hot water
 2. Pour over croutons, mix well

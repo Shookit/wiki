@@ -1,8 +1,6 @@
-Sesame noodles with cucumber and cilantro
-=========================================
+# Sesame noodles with cucumber and cilantro
 
-Ingredients
------------
+## Ingredients
 
 - 3/4 pound dried rice noodles (see notes up top)
 - 2 tablespoons toasted sesame oil, plus a splash to loosen noodles
@@ -18,8 +16,7 @@ Ingredients
 - 1/2 cup roasted salted peanuts, roughly chopped
 - A handful of chopped fresh herbs, such as mint and cilantro, for garnish
 
-Directions
-----------
+## Directions
 
 1. Cook noodles according to package directions and rinse with cold water to cool. Drain well. Drizzle with a tiny splash of toasted sesame oil to keep them from sticking until dressed.
 2. Meanwhile, whisk sesame paste and peanut butter in the bottom of a small bowl, then whisk in soy sauce, rice vinegar, remaining 2 tablespoons sesame oil, sugar, ginger, garlic and chile-garlic paste to taste until smooth. Adjust flavors to taste. It might seem a bit salty from the bowl, but should be just right when tossed with noodles.

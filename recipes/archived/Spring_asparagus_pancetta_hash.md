@@ -1,8 +1,6 @@
-Spring asparagus pancetta hash
-==============================
+# Spring asparagus pancetta hash
 
-Ingredients
------------
+## Ingredients
 
 - 1/4 pound pancetta (a cured pork that is less salty than proscuitto, and not smoked like bacon), can use bacon in a pinch cut into 1/4-inch dice
 - 1 pound Yukon gold potatoes, peeled and cut into a 1/2-inch dice
@@ -10,8 +8,7 @@ Ingredients
 - 1/2 pound asparagus, tough ends trimmed and cut into 1-inch segments
 - Salt and pepper to taste
 
-Directions
-----------
+## Directions
 
 1. Heat a 12-inch cast iron frying pan over medium heat. Fry the pancetta, turning it frequently so that it browns and crisps on all sides; this takes about 10 minutes. Remove it with a slotted spoon and drain it on paper towels. Leave the heat on and the renderings in the pan. (With a well-seasoned cast iron, this should be all the fat you need to cook the remainder of the hash. If you’re not using a cast iron, you might need to add a tablespoon or so of oil; if you’ve skipped the pork, you’ll want to start with 2 tablespoons oil.)
 2. Add the potatoes don’t move them for a couple minutes. Use this time to season them well with salt and pepper. Once they’ve gotten a little brown underneath, begin flipping and turning them, then letting them cook again for a few minutes. The idea is not to fight them off the frying pan, once they’ve gotten a little color, it’s easier to flip them and you’ve gotten closer to your goal of getting them evenly browned.

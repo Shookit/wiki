@@ -1,16 +1,14 @@
-Python
-======
+# Python
 
-Collections
------------
+## Collections
 
 ### Common types
 
 - Tuple - ("elem1", "elem2") - immutable
 - int, floast, str, bytes - immutable
 - Dict - {"key": "value} - mutable
-- List - \["elem1", "elem2"\] - mutable
-- Set - set(\['a', 'b', 'c', 'c', 'd'\]) - mutable
+- List - ["elem1", "elem2"] - mutable
+- Set - set(['a', 'b', 'c', 'c', 'd']) - mutable
 
 ### Grouping
 
@@ -35,7 +33,6 @@ a[:-2]   # everything except the last two items
 ```
 
 ### List comprehensions
-
 
 ```python
 # Creates a list from an iterable in one line:
@@ -115,7 +112,6 @@ for i in [1,2,3,4,5]+[3,5,7,9,11,13,15,17,19]:
 19
 ```
 
-
 ### Overhead
 
 To analyze the amount of overhead that python data structures has, I wrote a 2D set of random numbers to various data structures and analyzed their memory usage:
@@ -128,18 +124,16 @@ To analyze the amount of overhead that python data structures has, I wrote a 2D 
 - By default, python uses a dictionary to identify data in each and every object. This is very memory intensive. Using slots allows you to statically define the attributes inside of an object, which removes the need for a dictionary in each object.
 - Slots are extremely memory efficient and simple to use
 
-
-Unicode
--------
+## Unicode
 
 ### Python 2v3 unicode types
 
 - Python 2
-    - str = "" = just a bunch of bytes; could have been encoded using any codec
-    - unicode = u"" = a unicode representation of text
+  - str = "" = just a bunch of bytes; could have been encoded using any codec
+  - unicode = u"" = a unicode representation of text
 - Python 3
-    - str = b"" = just a bunch of bytes; could have been encoded using any codec
-    - unicode = "" = a unicode representation of text
+  - str = b"" = just a bunch of bytes; could have been encoded using any codec
+  - unicode = "" = a unicode representation of text
 - u"\\u263a" = unicode hex code (only works in a unicode object, not a str!)
 - unichr(9786) = unicode decimal code
 - Decode = bytes => text
@@ -156,7 +150,6 @@ More detail is below, but the gist of this is:
 - Don't use any of the \`str\` object functions.
 - Use u"" instead of "".
 - As a rule of thumb, decode early, use unicode wherever possible, and encode late.
-
 
 ```python
 unicode_char = unichr(1024)
@@ -204,9 +197,7 @@ print(u"{}".format("\xe2\x80\xa6".decode('utf-8')))
 # As a general rule, decode all strs to a unicode object ASAP.
 ```
 
-
-Context manager
----------------
+## Context manager
 
 A class w/ `__enter__()` and `__exit__()` can be used with a "with" directive to run code when the block starts/stops. One example of this is when opening files; cleanup happens automatically when the block completes:
 
@@ -215,10 +206,7 @@ with open('workfile', 'r') as f:
     read_data = f.read()
 ```
 
-
-Equality and comparisons
-------------------------
-
+## Equality and comparisons
 
 ### is vs ==
 
@@ -234,7 +222,6 @@ a is b
 ```
 
 "is" comparison works for strings because they are interned (stored in a hash map w/ a pointer). This is actually faster than '==', since the actual string content doesn't need to be compared; you only need to compare the pointers of the two objects.
-
 
 ### Check "memory location"
 
@@ -264,15 +251,11 @@ The boolean equivalent of all of these also are also False:
 - any empty mapping, for example, {}.
 - instances of user-defined classes, if the class defines a __bool__() or __len__() method, when that method returns the integer zero or bool value False. [1]
 
-
-
-Exceptions
-----------
+## Exceptions
 
 As a rule, always use exceptions instead of returning error codes.
 
 AFAIK, KeyboardInterrupt isn't a subclass of Exception.
-
 
 ### Define new exception
 
@@ -311,9 +294,7 @@ import traceback
 print(''.join(traceback.format_stack()))
 ```
 
-
-Types
------
+## Types
 
 ### Check if a string is a number
 
@@ -331,9 +312,7 @@ def is_number(s):
 - Immutable types: numbers, strings, tuples, frozensets
 - Mutable types: list, dict, set
 
-
-Classes
--------
+## Classes
 
 ### Class vs instance vars
 
@@ -366,9 +345,7 @@ MyClass.class_var1 = ""
 
 No actual public/private/protected, is actually done just by programming convention. A preceding double underscore mangles the variable name so that the class name precedes it. A single underscore does nothing but suggests to other programmers that it's a protected variable. By convention, no underscore = public, single = protected, double = private.
 
-
-Mocking/patching
-----------------
+## Mocking/patching
 
 - Patch passes in an instance of the patched object to your test method (or to every test method if you are patching at the class level). This is handy because it lets you set return values and side effects, or check the calls made
 
@@ -411,9 +388,7 @@ type(db).session = p
 traceback.print_stack()
 ```
 
-
-Decorators
-----------
+## Decorators
 
 ```python
 # Decorator replaces original function signature
@@ -455,17 +430,13 @@ def double_it(input_str):
 print(double_it("goo"))
 ```
 
-
-Logging
--------
+## Logging
 
 Don't use .format or "%s"%var; the logger handles this internally. Instead, use logger.info("%s", var). Has better unicode support and performance.
 
-See python's docs for its flowchart diagram for how it deals with loggers, formatters, handlers, etc.:  https://docs.python.org/2/_images/logging_flow.png
+See python's docs for its flowchart diagram for how it deals with loggers, formatters, handlers, etc.: https://docs.python.org/2/\_images/logging_flow.png
 
-
-Argument passing
-----------------
+## Argument passing
 
 ### Passing style
 
@@ -514,8 +485,7 @@ func(1, "a", "b", x="x", y="y")
 >>>('kwargs', {'y': 'y', 'x': 'x'})
 ```
 
-Profiling
----------
+## Profiling
 
 ```bash
 # Profile externally
@@ -525,14 +495,11 @@ python -m cProfile -s time ./manage.py worker
 %prun some_function()
 ```
 
-
-Warnings
---------
+## Warnings
 
 Run python with `python -Wdefault` to show all warnings
 
-Snippets
---------
+## Snippets
 
 ### TCP and UDP client/server
 
@@ -627,8 +594,7 @@ for row in cursor.fetchall():
     print(row[1], row[5])
 ```
 
-virtualenv/pip
---------------
+## virtualenv/pip
 
 ### Create virtualenv
 
@@ -657,8 +623,7 @@ This creates an egg-link file and updates easy-install.pth; may need to synchron
 pip install -e /home/shook/some-lib
 ```
 
-Library notes
--------------
+## Library notes
 
 ### Coverage
 
@@ -666,7 +631,6 @@ Library notes
 coverage run manage.py test -n module
 coverage report --omit="*/test*" --include=path/to/analyze/*,other/path/*
 ```
-
 
 ### Mypy
 
@@ -690,7 +654,6 @@ Parameters: C:/tools/python3/scripts/mypy $FilePath$
 Pandas is useful for any SIMD or linear algebra-like manipulations.
 Basically, it can be very useful any time you need work on spreadsheet-like data.
 
-
 ```python
 # Use pandas to parse xlsx/Excel workbooks
 rows = read_excel("path_to_xlsx")
@@ -700,18 +663,15 @@ rows = read_excel("path_to_xlsx")
 
 Use to enable runtime enforcement of python types.
 
-
 ### Flask
 
 Using blueprints fixes circular import with using circular `app` import directly
-
 
 ### Sqlalchemy
 
 By default, SQLAlchemy uses eager joins. This means the entire data structure and all subfields are grabbed during any access.
 
 Lazy joins instead only bring in data when a particular data element is requested.
-
 
 #### Life cycle
 
@@ -728,7 +688,6 @@ def set_up_session_cleanup():
     app.after_request(after_request)
 ```
 
-
 #### Sessions
 
 - `scoped_session` is a thread-local registry of sessions
@@ -736,11 +695,9 @@ def set_up_session_cleanup():
 - `id(scoped_session()()) == id(scoped_session()())`
 - two calls to scoped_session will give the exact same session
 
-
 #### Pools
 
 pool_recycle refreshes connections older than n seconds upon access (not only idle ones)
-
 
 #### Logging
 
@@ -753,13 +710,11 @@ logging.basicConfig()
 logging.getLogger('sqlalchemy.pool').setLevel(logging.DEBUG)
 ```
 
-
 #### Docs
 
 - <http://docs.sqlalchemy.org/en/latest/orm/contextual.html#sqlalchemy.orm.scoping.scoped_session>
 - <http://docs.sqlalchemy.org/en/latest/orm/session_basics.html#session-faq-whentocreate>
 - <http://docs.sqlalchemy.org/en/latest/core/pooling.html>
-
 
 ### Numpy/scipy
 
@@ -786,7 +741,6 @@ curvefit_x= func(x_val, *popt)
 
 For running ssh commands, paramiko is much better than fabric for anything requiring threading or dynamically determined hosts
 
-
 #### Cross-correlation
 
 ```python
@@ -802,7 +756,6 @@ pip install pipdeptree
 pipdeptree
 ```
 
-
 ### piprot
 
 Shows out of date libraries
@@ -811,7 +764,6 @@ Shows out of date libraries
 pip install piprot
 piprot -o requirements.txt
 ```
-
 
 ### jsonschema
 

@@ -1,5 +1,4 @@
-Green Day - Good Riddance
-=========================
+# Green Day - Good Riddance
 
 ```
  Cadd9

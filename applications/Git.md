@@ -1,8 +1,6 @@
-Git
-===
+# Git
 
-Bisect
-------
+## Bisect
 
 ```
 # Set extents of area that we want to check
@@ -20,9 +18,7 @@ git bisect good
 git bisect reset
 ```
 
-
-Rebasing
---------
+## Rebasing
 
 ```bash
 # Will always use upstream/master's diff during merge conflicts
@@ -35,9 +31,7 @@ git rebase -s recursive -X theirs upstream/master
 git rebase -i HEAD~10
 ```
 
-
-Origins
--------
+## Origins
 
 ### Add an origin
 
@@ -53,8 +47,7 @@ git remote add origin login@IP/path/to/repository
     url = duostack-host:path/proj.git
 ```
 
-Snippets
---------
+## Snippets
 
 ### Remove file from all commits
 
@@ -90,8 +83,7 @@ git stash drop
 git diff stash@{0}
 ```
 
-Search all commits
-------------------
+## Search all commits
 
 ```
 git log -S password
@@ -100,10 +92,8 @@ git log -S password
 git log -p -S password
 ```
 
-Don't track file (w/o gitignore)
---------------------------------
+## Don't track file (w/o gitignore)
 
 ```
 git update-index --assume-unchanged FILE_NAME
 ```
-

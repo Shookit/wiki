@@ -1,8 +1,6 @@
-Stir fry brown sauce
-====================
+# Stir fry brown sauce
 
-Ingredients
------------
+## Ingredients
 
 - 1/3 cup soy sauce
 - 1/3 cup water
@@ -18,8 +16,7 @@ Ingredients
 - 2 tablespoons cornstarch
 - 1/4 cup water
 
-Directions
-----------
+## Directions
 
 1. In a bowl, combine soy sauce, 1/3 cup water, broth, rice wine, sugar, sesame oil and white pepper. (See note in intro about the soy sauce).
 2. Dissolve the cornstarch in 1/4 cup water.

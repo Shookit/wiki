@@ -1,8 +1,6 @@
-Carolina mustard sauce
-======================
+# Carolina mustard sauce
 
-Ingredients
------------
+## Ingredients
 
 - 3/4 cup prepared yellow mustard
 - 1/2 cup honey
@@ -12,7 +10,6 @@ Ingredients
 - 2 teaspoons Worcestershire sauce
 - 1 teaspoon hot sauce
 
-Directions
-----------
+## Directions
 
 1. Combine

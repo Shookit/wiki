@@ -17,7 +17,6 @@
 - 4 large eggs plus 1 large egg yolk
 - 1/4 cup grams all-purpose flour
 
-
 ## Directions
 
 1. Heat oven to 325 degrees.
@@ -27,4 +26,4 @@
 5. Prepare the filling: Combine cream cheese, sour cream, sugar, vanilla and salt in the bowl of a stand mixer. Using a paddle attachment, beat on high until mixture is completely smooth, scraping down the sides and bottom of the bowl as necessary, about 4 minutes.
 6. Reduce speed to medium and 1 at a time, add eggs and yolk, scraping down the sides and bottom of the bowl after each egg is added. With the mixer on low, add flour and beat just to blend, until no lumps remain.
 7. Pour filling into prepared crust (if filling goes above the crust, that is O.K.). Bake until the edges of the cheesecake are completely set and the 2-inch inner circle of the cheesecake wobbles just slightly, 60 to 70 minutes.
-8. Turn heat off and let cheesecake remain in the oven for another 10 minutes. Remove cheesecake from oven and let sit on a wire rack to cool completely at room temperature. When cool, transfer to refrigerator until totally set, at least 6 hours, preferably overnight. 
+8. Turn heat off and let cheesecake remain in the oven for another 10 minutes. Remove cheesecake from oven and let sit on a wire rack to cool completely at room temperature. When cool, transfer to refrigerator until totally set, at least 6 hours, preferably overnight.

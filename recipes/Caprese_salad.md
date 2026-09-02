@@ -1,8 +1,6 @@
-Caprese salad
-=============
+# Caprese salad
 
-Ingredients
------------
+## Ingredients
 
 - Mozzarella cheese ball
 - Fresh basil
@@ -10,7 +8,6 @@ Ingredients
 - Salt and pepper
 - Balsamic dressing
 
-Directions
-----------
+## Directions
 
 1. Layer ingredients; serve

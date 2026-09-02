@@ -1,8 +1,6 @@
-Guacamole
-=========
+# Guacamole
 
-Ingredients
------------
+## Ingredients
 
 - 2 avocados
 - 1 small onion
@@ -12,8 +10,7 @@ Ingredients
 - 1 lime, juiced
 - salt, to taste
 
-Directions
-----------
+## Directions
 
 1. Chop onion, cilantro, jalapenos very finely
 2. Add avocados, mash with fork (or hand beater for smoother texture)

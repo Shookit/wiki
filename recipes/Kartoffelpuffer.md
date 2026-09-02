@@ -1,8 +1,6 @@
-Kartoffelpuffer
-===============
+# Kartoffelpuffer
 
-Ingredients
------------
+## Ingredients
 
 - 6 medium potatoes, scrubbed
 - 1 large onion
@@ -12,8 +10,7 @@ Ingredients
 - cooking oil or bacon fat
 - Sour cream/applesauce/honey for dipping (optional)
 
-Directions
-----------
+## Directions
 
 1. Grate potatoes and onion. Stir in eggs, flour and salt immediately.
 2. Press liquid out of mixture via a strainer, dry with a paper towel.

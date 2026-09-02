@@ -1,8 +1,6 @@
-Italian red sauce
-=================
+# Italian red sauce
 
-Ingredients
------------
+## Ingredients
 
 - 4 (28-ounce) cans whole peeled tomatoes, preferably imported D.O.P. San Marzano tomatoes (see note above)
 - 1/4 cup extra-virgin olive oil, plus more for finishing.
@@ -17,8 +15,7 @@ Ingredients
 - 1 tablespoon fish sauce (optional)
 - 1/2 cup minced fresh parsley or basil leaves (or a mix of the two)
 
-Directions
-----------
+## Directions
 
 1. Adjust oven rack to lower position and preheat oven to 300°F. Place tomatoes in a large bowl. Using your hands, crush the tomatoes by squeezing them in your fingers until pieces no larger than 1/2-inch remain.
 2. Heat olive oil and butter over medium heat in a large Dutch oven until butter is melted. Add garlic and cook, stirring, until softened and fragrant but not browned, about 2 minutes. Add pepper flakes and oregano and cook, stirring, until fragrant, about 1 minute. Add tomatoes, carrot, onion, and basil, and stir to combine. Season lightly with salt and pepper. Bring to a simmer over high heat.

@@ -1,5 +1,4 @@
-Bash
-====
+# Bash
 
 Run multiple commands in parallel
 

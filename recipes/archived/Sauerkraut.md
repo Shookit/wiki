@@ -1,15 +1,12 @@
-Sauerkraut
-==========
+# Sauerkraut
 
-Ingredients
------------
+## Ingredients
 
 - 1/2tbsp caraway
 - 2.5tbsp salt
 - 5lb cabbage (single cabbage typically 2-2.5lbs)
 
-Directions
-----------
+## Directions
 
 1. Food process cabbage, add salt and caraway, mix.
 2. Once cabbage begins to release liquid, weigh down with a gallon bag of water.

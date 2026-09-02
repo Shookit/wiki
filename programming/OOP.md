@@ -1,8 +1,6 @@
-Object-oriented programming
-===========================
+# Object-oriented programming
 
-Terminology
------------
+## Terminology
 
 - Extends - inherit a parent class. Abstract class can't be instantiated - need a concrete class which extends it.
 - Implements - adheres to a public interface. Generally preferred, as you can do your own internal implementation.
@@ -10,8 +8,7 @@ Terminology
 - Field variable == instance variable == non-static member variable
 - Class variable == static member variable
 
-OOP Best practices
-------------------
+## OOP Best practices
 
 ### Constructors
 
@@ -35,9 +32,7 @@ OOP Best practices
 - Your massive developer-grade display isn't big enough to display it.
 - You can't immediately determine the function's purpose. If you can't summarize this purpose in a single sentence or happen to have a tremendous headache
 
-
-Interfaces and inheritance
---------------------------
+## Interfaces and inheritance
 
 Interfaces do not exist (specifically in Java) to support multiple inheritance. That's kind of a hack people occasionally use them for, but their real purpose is to define a contract that classes support to facilitate polymorphism.
 
@@ -45,11 +40,9 @@ Prefer using interfaces (abstract base classes" in Python) over inheritance; hie
 
 ### Naming
 
-"_able" adjective if interface named after things that can be done to the object (e.g. Enumerable), a "_er" noun if interface named after things your object does to other objects (e.g. EqualityComparer), noun if your interface is named after a thing whose behavior it mimics (e.g. List<T>)
+"\_able" adjective if interface named after things that can be done to the object (e.g. Enumerable), a "\_er" noun if interface named after things your object does to other objects (e.g. EqualityComparer), noun if your interface is named after a thing whose behavior it mimics (e.g. List<T>)
 
-
-Inversion of control
---------------------
+## Inversion of control
 
 ### Non-IOC Programming
 

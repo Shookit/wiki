@@ -1,8 +1,6 @@
-7-layer bars
-============
+# 7-layer bars
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup graham cracker crumbs
 - 1/4 cup butter, melted
@@ -12,8 +10,7 @@ Ingredients
 - 1 cup flaked coconut
 - 1 cup chopped nuts
 
-Directions
-----------
+## Directions
 
 1. Heat oven 350°F. Spray 13 x 9-inch baking pan with no-stick cooking spray.
 2. Combine graham cracker crumbs and butter; mix well. Press crumb mixture firmly into bottom of prepared pan. Pour sweetened condensed milk evenly over crumb mixture. Layer evenly with remaining ingredients; press down firmly with fork.

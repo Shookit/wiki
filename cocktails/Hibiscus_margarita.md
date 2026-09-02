@@ -3,16 +3,22 @@
 ## Ingredients
 
 - 2 cinnamon sticks
+
 - 3 whole cloves
+
 - 1/4 cup dried hibiscus
+
 - Simple syrup
 
 - 1.5 oz. (45 ml) Milagro Reposado Tequila
-- 3/4 oz. (22.5 ml) hibiscus syrup
-- 3/4 oz. (22.5 ml) fresh lime juice
-- 1/4 oz. (7.5 ml) Marie Brizard Orange Curaçao
-- Salted rim and lime wheel garnish
 
+- 3/4 oz. (22.5 ml) hibiscus syrup
+
+- 3/4 oz. (22.5 ml) fresh lime juice
+
+- 1/4 oz. (7.5 ml) Marie Brizard Orange Curaçao
+
+- Salted rim and lime wheel garnish
 
 ## Directions
 

@@ -1,8 +1,6 @@
-Somen noodles
-=============
+# Somen noodles
 
-Ingredients
------------
+## Ingredients
 
 - 2 bundles dried somen noodles, about 7 ounces
 - 4 cups dashi
@@ -11,9 +9,7 @@ Ingredients
 - 1/2 teaspoon kosher salt
 - 2 tablespoons chopped green onion
 
-
-Directions
-----------
+## Directions
 
 1. Gather the ingredients.
 2. Boil somen noodles in a large pot, according to package instructions.

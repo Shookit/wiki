@@ -1,18 +1,14 @@
-Smoked ribs
-============
+# Smoked ribs
 
 This is controversial among BBQers (why wouldn't it be?) because the foiling can cause the ribs to become overly soft/tender, without enough chewiness. Can adjust foiling time as necessary.
 
-Ingredients
------------
+## Ingredients
 
 - Ribs
 - BBQ sauce
 - Rub
 
-
-Directions
-----------
+## Directions
 
 1. Apply dry rub
 2. 3 hours of smoking unwrapped at 225 degrees, followed by

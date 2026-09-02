@@ -1,8 +1,6 @@
-Chicken kebabs
-==============
+# Chicken kebabs
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup plain whole milk Greek yogurt
 - 2 tablespoons olive oil
@@ -19,8 +17,7 @@ Ingredients
 - 1 large red onion, cut into wedges
 - Vegetable oil, for greasing the grill
 
-Directions
-----------
+## Directions
 
 1. In a medium bowl, combine the yogurt, olive oil, paprika, cumin, cinnamon, red pepper flakes, lemon zest, lemon juice, salt, pepper and garlic.
 2. Thread the chicken onto metal skewers, folding if the pieces are long and thin, alternating occasionally with the red onions. Be sure not to cram the skewers. (Note: You'll need between 6-8 skewers.) Place the kebabs on a baking sheet lined with aluminum foil. Spoon or brush the marinade all over the meat, coating well. Cover and refrigerate at least eight hours or overnight.

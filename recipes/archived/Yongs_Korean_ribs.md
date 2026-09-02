@@ -1,8 +1,6 @@
-Yong's Korean ribs
-==================
+# Yong's Korean ribs
 
-Ingredients
------------
+## Ingredients
 
 - Two racks of ribs
 - 1 tbsp Korean malt syrup (or corn syrup if unavailable)
@@ -14,8 +12,7 @@ Ingredients
 - 2 serrano peppers
 - Beef stock to taste
 
-Directions
-----------
+## Directions
 
 1. Cut between ribs and cross score sides of each rib
 2. Boil ribs and quartered ginger root.

@@ -1,8 +1,6 @@
-Linguine and clams
-==================
+# Linguine and clams
 
-Ingredients
------------
+## Ingredients
 
 - Kosher salt
 - 1 pound dried linguine
@@ -15,8 +13,7 @@ Ingredients
 - 1 cup chopped flat-leaf parsley
 - 1 lemon
 
-Directions
-----------
+## Directions
 
 Soak clams for 20 minutes in water if they were not pre-cleaned.
 

@@ -1,8 +1,6 @@
-Roasted shrimp and orzo
-=======================
+# Roasted shrimp and orzo
 
-Ingredients
------------
+## Ingredients
 
 - Kosher salt
 - Good olive oil
@@ -17,8 +15,7 @@ Ingredients
 - 1/2 cup small-diced red onion
 - 3/4 pound good feta cheese, large diced
 
-Directions
-----------
+## Directions
 
 1. Preheat the oven to 400 degrees F.
 2. Fill a large pot with water, add 1 tablespoon of salt and a splash of oil, and bring the water to a boil. Add the orzo and simmer for 9 to 11 minutes, stirring occasionally, until it's cooked al dente. Drain and pour into a large bowl. Whisk together the lemon juice, 1/2 cup olive oil, 2 teaspoons salt and 1 teaspoon of pepper. Pour over the hot pasta and stir well.

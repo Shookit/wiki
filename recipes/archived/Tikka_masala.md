@@ -1,8 +1,6 @@
-Tikka masala
-============
+# Tikka masala
 
-Ingredients
------------
+## Ingredients
 
 - 6 garlic cloves, finely grated
 - 4 teaspoons finely grated peeled ginger
@@ -23,8 +21,7 @@ Ingredients
 - Sugar, to taste
 - Steamed basmati rice (for serving)
 
-Directions
-----------
+## Directions
 
 1. Food process garlic and ginger, then combine with garam masala, coriander, turmeric, and cumin in a small bowl. Whisk yogurt, salt, and half of spice mixture in a medium bowl; add chicken and turn to coat. Cover and chill 4-6 hours. Cover and chill remaining spice mixture.
 2. Heat ghee in a large heavy pot over medium heat. Add onion, tomato paste, and chiles and cook, stirring often, until tomato paste has darkened and onion is soft, about 5 minutes. Add remaining half of spice mixture and cook, stirring often, until bottom of pot begins to brown, about 4 minutes.

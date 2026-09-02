@@ -1,8 +1,6 @@
-Rice pudding
-============
+# Rice pudding
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup long-grain white rice
 - 2 cinnamon sticks (I had very large canela sticks — see bottom for more info — so I only used one)
@@ -15,8 +13,7 @@ Ingredients
 - 1/4 teaspoon salt
 - 1 tablespoon vanilla
 
-Directions
-----------
+## Directions
 
 1. Soak the rice, cinnamon sticks, lemon or orange zest and whole or powdered cloves in the water in a heavy saucepan for 1 hour.
 2. After soaking, bring the rice mixture to a boil on high heat, uncovered. When it starts to boil (about 5 minutes), lower the heat to medium and cook for 10 to 12 more minutes or until water is almost evaporated.

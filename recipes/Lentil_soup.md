@@ -1,8 +1,6 @@
-Lentil soup
-===========
+# Lentil soup
 
-Ingredients
------------
+## Ingredients
 
 - 1 large onion, finely diced
 - 3 tablespoons canola or vegetable oil
@@ -17,8 +15,7 @@ Ingredients
 - Plain nonfat yogurt, for garnish
 - Italian parsley or cilantro, finely chopped, for garnish
 
-Directions
-----------
+## Directions
 
 1. In a large saucepan over moderately low heat, slowly cook onion in 2 tablespoons oil. When onion is soft and translucent, add 3 cloves garlic and cook only until garlic begins to release its flavor. Add lentils and toss them with onions and garlic. Immediately add 2 teaspoons cumin and 2 teaspoons coriander. Stir until they are fragrant, about 1 minute.
 2. Add water and bring to a simmer over medium heat. Cover the pan, reduce heat, and simmer until lentils are very tender, about 40 minutes.

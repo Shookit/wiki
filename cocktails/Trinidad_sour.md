@@ -1,5 +1,4 @@
-Ingredients
-=============
+# Ingredients
 
 - 1 oz Angostura Aromatic Bitters
 - 1/2 oz Rittenhouse 100 proof Rye Whiskey

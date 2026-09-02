@@ -1,13 +1,10 @@
-MusicBrainz Picard
-==================
+# MusicBrainz Picard
 
-Setup
------
+## Setup
 
 - In the options, translate japanese to english
 
-Workflow
---------
+## Workflow
 
 - Move files to 'untracked'
 - Cluster those files

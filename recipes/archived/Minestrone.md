@@ -1,8 +1,6 @@
-Minestrone
-==========
+# Minestrone
 
-Ingredients
------------
+## Ingredients
 
 - 4 tablespoons extra-virgin olive oil, divided
 - 1 medium yellow onion, chopped
@@ -26,8 +24,7 @@ Ingredients
 - 2 teaspoons lemon juice
 - Freshly grated Parmesan cheese, for garnishing (optional)
 
-Directions
-----------
+## Directions
 
 1. Warm 3 tablespoons of the olive oil in a large Dutch oven or stockpot over medium heat. Once the oil is shimmering, add the chopped onion, carrot, celery, tomato paste and a pinch of salt. Cook, stirring often, until the vegetables have softened and the onions are turning translucent, about 7 to 10 minutes.
 2. Add the seasonal vegetables, garlic, oregano and thyme. Cook until fragrant while stirring frequently, about 2 minutes.

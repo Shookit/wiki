@@ -1,8 +1,6 @@
-Crab cakes
-==========
+# Crab cakes
 
-Ingredients
------------
+## Ingredients
 
 - 2 tablespoons finely chopped fresh chives
 - 1 tablespoon chopped fresh flat-leaf parsley
@@ -16,8 +14,7 @@ Ingredients
 - 1 pound lump crabmeat, drained and shell pieces removed
 - 1 tablespoon olive oil, divided
 
-Directions
-----------
+## Directions
 
 1. To prepare crab cakes, combine first 8 ingredients. Add panko and crab, tossing gently to combine. Cover and refrigerate 30 minutes.
 2. Fill a 1/3-cup dry measuring cup with crab mixture. Invert onto work surface; gently pat into a 3/4-inch-thick patty. Repeat procedure with remaining crab mixture, forming 8 cakes.

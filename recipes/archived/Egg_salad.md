@@ -1,8 +1,6 @@
-Egg salad
-=========
+# Egg salad
 
-Ingredients
------------
+## Ingredients
 
 - 6 Hard Boiled eggs, finely chopped
 - 1/4 to 1/2 cup mayonnaise
@@ -11,8 +9,7 @@ Ingredients
 - Salt and ground black pepper to taste
 - Pinch of curry powder (optional)
 
-Directions
-----------
+## Directions
 
 1. Combine all ingredients.
 2. Refrigerate until cold.

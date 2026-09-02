@@ -1,20 +1,17 @@
-Vue
-===
+# Vue
 
-General
--------
+## General
 
 - Initialize new vue webpack apps via `vue-cli`
 - Views vs components (views are routable components)
 - Vue uses one-way data binding between components. Since objects and arrays(?) are passed by reference, these can be accidentally mutated. Use computed components instead of using prop objects directly.
 
-
-State
------
+## State
 
 Don't set state properties. Mutate them.
 
 Only use:
+
 - push
 - pop
 - shift
@@ -23,9 +20,7 @@ Only use:
 - sort
 - reverse
 
-
-Vue component properties
-------------------------
+## Vue component properties
 
 ### Props
 
@@ -39,11 +34,9 @@ Used to pass around "arguments" between components.
 <ChildComponent :sets=sets />
 ```
 
-
 ### Methods
 
 Component-local functions.
-
 
 ### Computed
 

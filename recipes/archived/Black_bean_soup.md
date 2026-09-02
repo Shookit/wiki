@@ -1,8 +1,6 @@
-Black bean soup
-===============
+# Black bean soup
 
-Ingredients
------------
+## Ingredients
 
 - 1lb dried black beans, picked over and rinsed
 - 8 bacon slices (7 oz), chopped
@@ -18,8 +16,7 @@ Ingredients
 - 2 tablespoons chopped fresh cilantro
 - Sour cream, for topping
 
-Directions
-----------
+## Directions
 
 1. Cover beans with cold water by 3 inches in a bowl and soak at room temperature at least 8 hours, or quick-soak (see cooks' note, below). Drain well in a colander.
 2. Cook bacon in a 5- to 6-quart heavy pot over moderately high heat, stirring occasionally, until golden, about 5 minutes. Add onion, bell pepper, garlic, chile, oregano, bay leaf, and thyme and sauté, stirring frequently, until onion is softened, about 5 minutes.

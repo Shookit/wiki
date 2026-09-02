@@ -1,8 +1,6 @@
-Pumpkin bread
-=============
+# Pumpkin bread
 
-Ingredients
------------
+## Ingredients
 
 - 1 (15 ounce) can pumpkin puree
 - 4 eggs
@@ -17,8 +15,7 @@ Ingredients
 - 1/2 teaspoon ground cloves
 - 1/4 teaspoon ground ginger
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour three 7x3 inch loaf pans.
 2. In a large bowl, mix together pumpkin puree, eggs, oil, water and sugar until well blended. In a separate bowl, whisk together the flour, baking soda, salt, cinnamon, nutmeg, cloves and ginger. Stir the dry ingredients into the pumpkin mixture until just blended. Pour into the prepared pans.

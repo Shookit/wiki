@@ -1,8 +1,6 @@
-Italian sausage and leek quiche
-===============================
+# Italian sausage and leek quiche
 
-Ingredients
------------
+## Ingredients
 
 - 1/2lb Italian sausage (mild)
 - 1 leek, finely chopped
@@ -13,8 +11,7 @@ Ingredients
 - 1 frozen pie crust
 - salt and pepper
 
-Directions
-----------
+## Directions
 
 1. Brown italian sausage with chopped leek and a generous portion of fresh spinach
 2. Beat eggs and milk together, add salt and pepper to taste

@@ -1,16 +1,13 @@
-Sauteed mushrooms with soy sauce and garlic powder
-==================================================
+# Sauteed mushrooms with soy sauce and garlic powder
 
-Ingredients
------------
+## Ingredients
 
 - Mushrooms, sliced
 - Soy sauce
 - Butter
 - Garlic (or powder)
 
-Directions
-----------
+## Directions
 
 1. In pan, cook mushrooms with butter and garlic.
 2. When mushrooms have begun to shrink, add a couple of tsp of soy sauce.

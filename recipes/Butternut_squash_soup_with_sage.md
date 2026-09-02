@@ -1,8 +1,6 @@
-Butternut squash soup with sage
-===============================
+# Butternut squash soup with sage
 
-Ingredients
------------
+## Ingredients
 
 - 1 butternut squash, about 2 cups cubed
 - 1 carrot, peeled
@@ -15,8 +13,7 @@ Ingredients
 - salt and freshly ground pepper
 - Parmesan cheese (optional)
 
-Directions
-----------
+## Directions
 
 1. Peel the squash and remove the seeds. Cut into medium size cubes.
 2. In a large heavy pot, combine squash, carrots, celery, onion, garlic, sage and broth and bring to a boil. Cover and simmer on low heat for about 40 minutes, until squash is tender.

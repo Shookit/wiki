@@ -1,20 +1,14 @@
-Electronics
-===========
+# Electronics
 
-Filtering
----------
+## Filtering
 
 High pass filter will remove the DC component from an AC signal (obviously) and center it around ground.
 
-
-Schottky diode
---------------
+## Schottky diode
 
 Schottky diode is a normal diode, but with a small voltage drop (only 0.1-0.3ish volts instead of 1.5 volts)
 
-
-Transistors
------------
+## Transistors
 
 ### BJT Physics
 

@@ -1,8 +1,6 @@
-Horchata
-========
+# Horchata
 
-Ingredients
------------
+## Ingredients
 
 - 1/3 cup uncooked, long-grain white rice
 - 1 cup almonds
@@ -11,8 +9,7 @@ Ingredients
 - 1/3 cup sugar
 - Cheesecloth
 
-Directions
-----------
+## Directions
 
 1. Add rice, almonds, and 3 cups of hot water to blender. Blend until very smooth.
 2. Let mixture stand overnight.

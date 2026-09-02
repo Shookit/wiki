@@ -1,6 +1,4 @@
-Marcy Playground - Sex and Candy
-================================
-
+# Marcy Playground - Sex and Candy
 
 ```
    B(ish)     F#         G

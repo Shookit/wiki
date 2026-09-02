@@ -1,13 +1,10 @@
-Frozen dumplings
-================
+# Frozen dumplings
 
-Ingredients
------------
+## Ingredients
 
 - Pre-made frozen dumplings
 
-Directions
-----------
+## Directions
 
 1. Still frozen, add to pan with hot oil. Cook until browned.
 2. Add water 1/3 height of dumplings, cover pan, cook for 5 minutes.

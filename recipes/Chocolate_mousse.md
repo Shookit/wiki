@@ -1,8 +1,6 @@
-Chocolate mousse
-================
+# Chocolate mousse
 
-Ingredients
------------
+## Ingredients
 
 - 8 ounces bittersweet chocolate (no more than 60% cacao), chopped
 - 3/4 stick (3 ounces) unsalted butter, cut into 6 pieces
@@ -11,9 +9,7 @@ Ingredients
 - 1 cup very cold heavy or whipping cream
 - 1/8 teaspoon salt
 
-
-Directions
-----------
+## Directions
 
 1. Get out one large heatproof, two medium and one small mixing bowl and dust off your electric hand mixer.
 2. Set the large bowl over a saucepan of barely simmering water and melt the chocolate and butter in it, gently stirring it until smooth. Remove from heat. Alternately, you can melt them in your microwave, stirring thoroughly at 30 seconds and every 15 seconds thereafter until the mixture is smooth.

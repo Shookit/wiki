@@ -1,29 +1,26 @@
-Pierogi and kielbasa
-====================
+# Pierogi and kielbasa
 
-Ingredients
------------
+## Ingredients
 
 - Sauerkraut Filling:
-    - 2 tablespoons butter
-    - 1/3 cup chopped onion
-    - 1 1/2 cups sauerkraut, drained and minced
-    - salt and pepper to taste
+  - 2 tablespoons butter
+  - 1/3 cup chopped onion
+  - 1 1/2 cups sauerkraut, drained and minced
+  - salt and pepper to taste
 - Potato Filling:
-    - 3 tablespoons butter
-    - 1/2 cup chopped onion
-    - 2 cups cold mashed potatoes
-    - 1 teaspoon salt
-    - 1 teaspoon white pepper
+  - 3 tablespoons butter
+  - 1/2 cup chopped onion
+  - 2 cups cold mashed potatoes
+  - 1 teaspoon salt
+  - 1 teaspoon white pepper
 - Dough:
-    - 3 egg
-    - 1 (8 ounce) container sour cream
-    - 3 cups all-purpose flour
-    - 1/4 teaspoon salt
-    - 1 tablespoon baking powder
+  - 3 egg
+  - 1 (8 ounce) container sour cream
+  - 3 cups all-purpose flour
+  - 1/4 teaspoon salt
+  - 1 tablespoon baking powder
 
-Directions
-----------
+## Directions
 
 1. Make mashed potatoes
 2. Sautee onion for sauerkraut and potato filling

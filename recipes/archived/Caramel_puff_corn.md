@@ -1,8 +1,6 @@
-Caramel puff corn
-=================
+# Caramel puff corn
 
-Ingredients
------------
+## Ingredients
 
 - 1 package old dutch puffcorn
 - 1 cup butter
@@ -10,8 +8,7 @@ Ingredients
 - 2/3 cups light corn syrup
 - 1 tsp baking soda
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 250F
 2. Combine butter, brown sugar, corn syrup. Cook on medium until melted. Add baking soda.

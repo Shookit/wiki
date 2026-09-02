@@ -1,8 +1,6 @@
-Scikit-learn
-============
+# Scikit-learn
 
-Normalization
--------------
+## Normalization
 
 ```python
 import sklearn.linear_model

@@ -1,9 +1,6 @@
-Coffeescript
-============
+# Coffeescript
 
-Basic Syntax
-------------
-
+## Basic Syntax
 
 ```
 # JS object syntax
@@ -36,9 +33,7 @@ class Animal
   alive: -> false
 ```
 
-
-Functions
----------
+## Functions
 
 ```
 # Calling
@@ -61,19 +56,13 @@ test(1, 2) = 1, 2
 test(1) = 1, null
 ```
 
-
-Fat arrows
-----------
+## Fat arrows
 
 'this' can change depending on the calling context. To make 'this' static, use fat arrows for callbacks in CS.
 Fat arrow notation (`=>`)is used to lock to the calling context
 
-
-Closures
---------
+## Closures
 
 Closures don't work as-is; need to use "closure wrappers" (related to 'do' in coffeescript).
 Say a callback is called asynchronously in a loop, and uses the loop variable as a closure.
 If closure wrappers aren't used, will use the final loop var each time instead of the current loop iteration.
-
-

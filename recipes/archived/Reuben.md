@@ -1,8 +1,6 @@
-Reuben
-======
+# Reuben
 
-Ingredients
------------
+## Ingredients
 
 - Butter, softened
 - Rye bread
@@ -11,8 +9,7 @@ Ingredients
 - Sauerkraut
 - Thousand-island Dressing
 
-Directions
-----------
+## Directions
 
 1. Make sandwich with the rye bread, swiss cheese, sauerkraut, thousand-island, and corned beef
 2. Butter both sides of the sandwich

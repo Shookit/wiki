@@ -1,5 +1,4 @@
-Ingredients
------------
+## Ingredients
 
 - 1/2 cup olive oil
 - 2 tablespoons red wine vinegar
@@ -10,8 +9,7 @@ Ingredients
 - 1 teaspoon coarse salt level
 - 1/2 teaspoon pepper to taste (about 1/2 teaspoon)
 
-Directions
-----------
+## Directions
 
 1. Mix all ingredients together in a bowl. Allow to sit for 5-10 minutes to release all of the flavours into the oil before using. Ideally, let it sit for more than 2 hours, if time allows.
 2. Chimichurri can be prepared earlier than needed, and refrigerated for 24 hours, if needed.

@@ -1,16 +1,13 @@
-Lachha paratha
-==============
+# Lachha paratha
 
-Ingredients
------------
+## Ingredients
 
 - 2 cup wheat flour
 - 2T ghee
 - salt to taste
 - filling (cilantro, cooked cauliflower, cinnamon, cumin, etc.)
 
-Directions
-----------
+## Directions
 
 1. Mix flour, ghee, salt sprinkle water enough to make a smooth dough.
 2. Divide into equal balls.

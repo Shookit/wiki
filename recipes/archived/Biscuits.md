@@ -1,8 +1,6 @@
-Biscuits
-========
+# Biscuits
 
-Ingredients
------------
+## Ingredients
 
 - 2 cups flour
 - 4 teaspoons baking powder
@@ -11,8 +9,7 @@ Ingredients
 - 4 tablespoons butter
 - 1 cup buttermilk, chilled
 
-Directions
-----------
+## Directions
 
 1. Preheat oven to 450 degrees.
 2. In a large mixing bowl, combine flour, baking powder, baking soda and salt. Using your fingertips, rub butter and shortening into dry ingredients until mixture looks like crumbs. (The faster the better, you don't want the fats to melt.) Make a well in the center and pour in the chilled buttermilk. Stir just until the dough comes together. The dough will be very sticky.

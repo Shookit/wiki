@@ -1,14 +1,14 @@
-Cinnamon rolls
-==============
+# Cinnamon rolls
 
 NOTE FOR NEXT TIME:
+
 - Try increasing the filling by 50%
 - Try a non-cream cheese glaze (overpowered the cinnamon last time)
 
-Ingredients
------------
+## Ingredients
 
 ### Dough
+
 - 2 cups milk, warmed
 - 1/2 cup butter, melted and warm
 - 1/4 cup granulated sugar
@@ -17,17 +17,18 @@ Ingredients
 - 5 cups all-purpose flour, divided
 
 ### Filling
+
 - 1/2 cup butter, softened
 - 3/4 cup dark brown sugar
 - 2 tablespoons ground cinnamon
 
 ### Glaze
+
 - 4oz cream cheese, at room temperature
 - 1 cup powdered sugar
 - 1/2 teaspoon vanilla extract
 
-Directions
-----------
+## Directions
 
 1. Make dough: In a large bowl, whisk together the milk, butter, sugar, and salt. Whisk in yeast and let it rest for one minute before continuing. Add 4 1/2 cups of the flour and mix with a spoon or dough whisk (I have this one) until all flour is moistened. Cover the bowl with plastic wrap and set in a warmish spot to rise for 1 hour, or until doubled. While dough rises, get everything else ready: Cut butter or margarine into cubes and place on a plate so it’s softened by the time the dough has risen. Combine dark brown sugar and cinnamon in a bowl and set aside. Prepare your baking pan(s), either one 9×13-inch pan, 2 9-inch round cake pans, or 2 8-inch square cake pans by coating the sides and corners with butter or nonstick spray. Line the bottom of each pan with a piece of parchment.
 2. Assemble rolls: Once dough has doubled, stir in remaining 1/2 cup flour and turn dough out onto a well-floured counter. Flour the top of the dough and roll into a large rectangle, about 20 inches wide (the side in front of you) and as deep as you can comfortably stretch it, keeping it about 1/2-inch thick.

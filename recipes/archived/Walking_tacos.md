@@ -1,8 +1,6 @@
-Walking tacos
-=============
+# Walking tacos
 
-Ingredients
------------
+## Ingredients
 
 - Fritos
 - Ground beef
@@ -12,8 +10,7 @@ Ingredients
 - Salsa/hot sauce
 - Chili powder
 
-Directions
-----------
+## Directions
 
 1. Brown ground beef w/ generous chili powder, to taste
 2. Serve over Fritos and taco toppings

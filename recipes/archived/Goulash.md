@@ -1,8 +1,6 @@
-Goulash
-=======
+# Goulash
 
-Ingredients
------------
+## Ingredients
 
 - 1 lb ground beef
 - 1 can vegetable soup
@@ -14,8 +12,7 @@ Ingredients
 - 1/2 tsp dry mustard
 - 8 oz package elbow macaroni, cooked
 
-Directions
-----------
+## Directions
 
 1. Brown beef.
 2. Add can of vegetable soup and water.

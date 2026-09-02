@@ -1,8 +1,6 @@
-Enchilada soup
-==============
+# Enchilada soup
 
-Ingredients
------------
+## Ingredients
 
 - 1lb frozen chicken breasts
 - 1 15 ounce can whole peeled tomatoes
@@ -21,7 +19,6 @@ Ingredients
 - 1 10oz package corn
 - 1-2 can black beans, drained
 
-Directions
-----------
+## Directions
 
 1. Throw everything in crockpot on low for 8 hours. Take out chicken, shred, and serve.

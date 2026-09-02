@@ -1,8 +1,6 @@
-Shepherd's pie
-==============
+# Shepherd's pie
 
-Ingredients
------------
+## Ingredients
 
 - 1 lb ground beef
 - 1/2 cup chopped onion
@@ -12,8 +10,7 @@ Ingredients
 - 2 cups mashed potatoes
 - 1 can corn, drained
 
-Directions
-----------
+## Directions
 
 1. Brown beef.
 2. Add onion and green pepper, cook until tender.

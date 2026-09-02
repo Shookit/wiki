@@ -1,8 +1,6 @@
-Carrot cake
-===========
+# Carrot cake
 
-Ingredients
------------
+## Ingredients
 
 Cake:
 
@@ -25,8 +23,7 @@ Cream Cheese Frosting:
 - 1 teaspoon vanilla
 - 4 cups powdered sugar
 
-Directions
-----------
+## Directions
 
 1. Heat oven to 350°F. Grease bottom and sides of one 13x9-inch pan or two 8-inch or 9-inch round pans with shortening; lightly flour. In large bowl, beat granulated sugar, oil and eggs with electric mixer on low speed about 30 seconds or until blended. Add flour, cinnamon, baking soda, 1 teaspoon vanilla and the salt; beat on low speed 1 minute. Stir in carrots and nuts. Pour into pan(s).
 2. Bake 13x9-inch pan 40 to 45 minutes, round pans 30 to 35 minutes, or until toothpick inserted in center comes out clean. Cool rectangle in pan on cooling rack. Cool rounds 10 minutes; remove from pans to cooling rack. Cool completely, about 1 hour.

@@ -1,8 +1,6 @@
-Italian white sauce
-===================
+# Italian white sauce
 
-Ingredients
------------
+## Ingredients
 
 - Good amount of butter (1/2 stick?)
 - ~1/2 cup of wine
@@ -12,8 +10,7 @@ Ingredients
 - Lemon juice to taste
 - Good over spaghetti squash w/ butter pan-fried zucchini with pepper and salt
 
-Directions
-----------
+## Directions
 
 1. Combine ingredients besides lemon, cook down until wine sweetness subsides
 2. Add lemon juice

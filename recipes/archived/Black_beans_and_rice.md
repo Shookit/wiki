@@ -1,8 +1,6 @@
-Black beans and rice
-====================
+# Black beans and rice
 
-Ingredients
------------
+## Ingredients
 
 Beans:
 
@@ -22,8 +20,7 @@ Rice:
 - Lime
 - Cilantro
 
-Directions
-----------
+## Directions
 
 1. Place the beans in a big bowl, cover with water, agitate the beans a few times to remove any dirt, drain in a colander and rinse again.
 2. Place black beans, onion, garlic cloves, and bay leaf in a slow cooker. Add water.

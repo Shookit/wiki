@@ -1,8 +1,6 @@
-Tahini sauce
-============
+# Tahini sauce
 
-Ingredients
------------
+## Ingredients
 
 - 1 cup tahini sesame seed paste (made from light colored seeds)
 - 3/4 cup lukewarm water, or more for consistency
@@ -10,7 +8,6 @@ Ingredients
 - 1/4 cup fresh lemon juice (or more to taste)
 - 1/4 tsp salt (or more to taste)
 
-Directions
-----------
+## Directions
 
 1. Food process or blend ingredients

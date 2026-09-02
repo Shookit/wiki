@@ -1,8 +1,6 @@
-Tuna salad
-==========
+# Tuna salad
 
-Ingredients
------------
+## Ingredients
 
 - 1 (7 ounce) can white tuna, drained and flaked
 - 6 tablespoons mayonnaise or salad dressing
@@ -14,7 +12,6 @@ Ingredients
 - 1 teaspoon dried dill weed
 - 1 pinch garlic powder
 
-Directions
-----------
+## Directions
 
 1. In a medium bowl, stir together the tuna, mayonnaise, Parmesan cheese, and onion flakes. Season with curry powder, parsley, dill and garlic powder. Mix well and serve with crackers or on a sandwich.

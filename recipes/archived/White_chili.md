@@ -1,8 +1,6 @@
-White chili
-===========
+# White chili
 
-Ingredients
------------
+## Ingredients
 
 - 2 T vegetable oil
 - 4 medium onions, chopped
@@ -19,8 +17,7 @@ Ingredients
 - 2 can butter beans, drained
 - 4 cups chopped (uncooked) chicken breast
 
-Directions
-----------
+## Directions
 
 1. In a dutch oven, heat oil over medium heat. Cook onions and garlic in oil 4-6min until onions are tender.
 2. Stir in remaining ingredients except chicken. Heat to boiling, reduce heat. Simmer uncovered 20 minutes. Stir in chicken; simmer about 5 mins or until hot.

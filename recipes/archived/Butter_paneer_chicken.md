@@ -1,8 +1,6 @@
-Butter paneer chicken
-=====================
+# Butter paneer chicken
 
-Ingredients
------------
+## Ingredients
 
 For chicken only:
 
@@ -30,8 +28,7 @@ For gravy:
 - 2-3 Tbsp butter
 - 4 Tbsp cashew paste/butter
 
-Directions
-----------
+## Directions
 
 1. If making chicken, marinade in combined ingredients for at least 2 hours or overnight
 2. Heat a pan with mustard oil.

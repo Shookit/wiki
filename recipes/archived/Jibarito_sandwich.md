@@ -1,8 +1,6 @@
-Jibarito sandwich
-=================
+# Jibarito sandwich
 
-Ingredients
------------
+## Ingredients
 
 - large green plantain, peeled and sliced lengthwise and in half (4 pieces)
 - oil (for deep frying)
@@ -21,8 +19,7 @@ Ingredients
 - 1 teaspoon melted butter
 - 1⁄4 teaspoon roasted minced garlic
 
-Directions
-----------
+## Directions
 
 1. Heat oil, then fry the peeled and sliced plantain for 1 minute.
 2. Remove plantain from oil, place on a heavy cutting board (if wooden, wrap board in plastic first, which will assist in the spreading of the softened plantain), top with another cutting board, and flatten the plantain between them.

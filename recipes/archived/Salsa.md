@@ -1,8 +1,6 @@
-Salsa
-=====
+# Salsa
 
-Ingredients
------------
+## Ingredients
 
 - 6 Plum tomatoes
 - 2 small onions
@@ -13,7 +11,6 @@ Ingredients
 - 2 garlic cloves
 - 4 jalapeno peppers (optional)
 
-Directions
-----------
+## Directions
 
 1. Throw into a food processor, pulse to desired consistency.
