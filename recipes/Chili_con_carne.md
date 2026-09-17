@@ -45,5 +45,5 @@
 ### The rest
 
 1. In 3-quart saucepan, cook beef, onion and garlic over medium-high heat about 8 minutes, stirring occasionally, until beef is brown; drain.
-2. Stir in remaining ingredients except beans. Heat to boiling. Reduce heat to low; cover and simmer 1 hour, stirring occasionally.
-3. Stir in beans. Heat to boiling. Reduce heat to low; simmer uncovered about 20 minutes, stirring occasionally, until desired thickness.
+2. Stir in remaining ingredients except beans. Heat to boiling. Reduce heat to low; simmer 1 hour, stirring occasionally.
+3. Stir in beans. Simmer about 20 minutes, stirring occasionally, until desired thickness.
